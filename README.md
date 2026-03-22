@@ -1,6 +1,6 @@
-### PowerMill 2023新版后处理制作基础与进阶教程
+### UG曲面建模复杂高级实例造型逆向抄数NX实战异行案例NX汽车家电教程
 
-[点击查看完整教程](https://www.cnczxw.com/powermill-post-processor-n1ak.html)
+[点击查看完整教程](https://www.cnczxw.com/ug-reverse-modeling-3nik.html)
 
 ---
-*同步时间：2026-03-22 02:38:11*
+*同步时间：2026-03-22 02:41:05*
