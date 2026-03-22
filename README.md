@@ -3,6 +3,19 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 mastercam 2023数控车床教程
+
+<img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-189.jpg" width="300" alt="封面">
+
+> **📖 核心干货**：> **📖 核心干货**：🔥 实战痛点解析 很多学徒刚接触Mastercam车床编程，最头疼的就是软件安装、界面设置这些基础门槛，搞不定 ...
+
+* **🏷️ 核心话题**：`#刀路优化` `#数控车床编程` `#梯形螺纹加工` `#车削后处理`
+* **📂 分类**：Mastercam 教程
+* **📅 更新时间**：2026-03-22
+* **[👉 点击此处：前往官网查看完整教程与源码下载](https://www.cnczxw.com/mastercam-turning-trapezo-nzpa.html)**
+
+---
+
 ### 📌 powermill 10.0多轴后处理制作教程
 
 <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-120.jpg" width="300" alt="封面">
@@ -29,23 +42,11 @@
 
 ---
 
-### 📌 北京精雕自学参考指南三轴入门精通教程
-
-<img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-181.jpg" width="300" alt="封面">
-
-> **📖 核心干货**：本教程针对北京精雕软件（5.21及4.0版本）新手，提供从软件安装、模型修复到刀路优化的一站式解决方案。内容涵盖常见崩溃、线条处理等实战痛点，旨在帮助雕刻从业者建立稳定高效的三轴编程流程，避免加工失误，提升成品质量。
-
-* **🏷️ 核心话题**：`#精雕软件安装与配置` `#三轴加工刀路优化` `#模型线条问题修复` `#精雕高低版本兼容性` `#雕刻编程实战避坑指南`
-* **📂 分类**：精雕软件教程
-* **📅 更新时间**：2026-03-22
-* **[👉 点击此处：前往官网查看完整教程与源码下载](https://www.cnczxw.com/jingdiao-3axis-toolpath-mtfb.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[精雕软件教程]** 北京精雕自学参考指南三轴入门精通教程 | `#精雕软件安装与配置` `#三轴加工刀路优化` `#模型线条问题修复` `#精雕高低版本兼容性` `#雕刻编程实战避坑指南` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/jingdiao-3axis-toolpath-mtfb.html) |
 | **[PowerMill 教程]** powermill 2017五轴编程高级实例教程 | `#Powermill2017五轴编程` `#五轴刀轴控制与干涉规避` `#3+2编程坐标系设定` `#复杂曲面精加工策略` `#斜齿轮五轴联动实战` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/powermill-5axis-advanced-fmom.html) |
 | **[西门子系统维修]** 西门子828D系统数控机床 硬件和PLC编程教程 | `#西门子828D系统硬件组态` `#数控系统PLC梯形图编程` `#光栅尺精度补偿实战` `#3D测头应用调试` `#西门子840D系统故障诊断` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/siemens-828d-hardware-plc-wjag.html) |
 | **[Mastercam 教程]** MasterCam 2017车铣复合加工编程教程 | `#车铣复合多轴联动编程` `#螺杆精加工策略` `#Mastercam后处理定制` `#车削参数优化技巧` `#多轴旋转开粗精加工` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/mastercam-carmilling-scre-h67p.html) |
