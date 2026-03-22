@@ -1,3 +1,10 @@
+### UGnx 12.0三轴后处理制作教程
+
+[点击查看完整教程](https://www.cnczxw.com/ugnx-postprocessor-custom-24qw.html)
+
+---
+*同步时间：2026-03-22 04:00:03*
+
 ### mastercam 2022 HSM花生米插件教程
 
 [点击查看完整教程](https://www.cnczxw.com/mastercam-hsm-roughing-42zt.html)
