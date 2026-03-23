@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG 12.0图片造型图片建模教程](https://www.cnczxw.com/ug12-image-modeling-ojw1.html)
+
+<a href="https://www.cnczxw.com/ug12-image-modeling-ojw1.html" target="_blank" title="UG 12.0图片造型图片建模教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-126.jpg" width="300" alt="UG 12.0图片造型图片建模教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程聚焦UG 12.0图片造型核心难点，系统传授从二维图片到高精度三维模型的硬核技术。重点涵盖图片比例精确校准、复杂自由曲面（如消失面）的G1/G2连续性构建，以及通过典型工业案例（如鱼形吸尘器）详解曲线与曲面的精准匹配。旨在解决建模中因尺寸失真、曲面不连续导致的模型变形与装配干涉问题，并规避因参考图模糊或刀路设置不当引发的过切风险，从而显著提升设计效率与模型质量，避免返工。
+
+* **🏷️ 核心话题**：#图片造型 #实体化转换 #曲面构建 #消失面建模
+* **📂 分类**：UG NX 教程
+* **📅 更新时间**：2026-03-23
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug12-image-modeling-ojw1.html)**
+
+---
+
 ### 📌 [SolidWorks钣金拆图实战教程](https://www.cnczxw.com/solidworks-sheetmetal-unf-u5pd.html)
 
 <a href="https://www.cnczxw.com/solidworks-sheetmetal-unf-u5pd.html" target="_blank" title="SolidWorks钣金拆图实战教程">
@@ -39,79 +57,11 @@
 
 ---
 
-### 📌 [UG-NX 2027三轴编程录播课教程](https://www.cnczxw.com/ug-nx-programming-e8uc.html)
-
-<a href="https://www.cnczxw.com/ug-nx-programming-e8uc.html" target="_blank" title="UG-NX 2027三轴编程录播课教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-226.jpg" width="300" alt="UG-NX 2027三轴编程录播课教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 请求成功(200)但未找到内容！
-接口原话：
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>gemini.bnu120.space - Coming Soon</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background: linear-gradient(135deg,  0%,  100%);
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 20px;
-        }
-        .container {
-            background: white;
-            border-radius: 12px;
-            padding: 60px 40px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-            text-align: center;
-            max-width: 600px;
-        }
-        h1 {
-            color: 
-            font-size: 2.5em;
-            margin-bottom: 20px;
-            word-break: break-word;
-        }
-        p {
-            color: 
-            font-size: 1.2em;
-            line-height: 1.6;
-        }
-        .emoji {
-            font-size: 4em;
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="emoji">🚀</div>
-        <h1>gemini.bnu120.space</h1>
-        <p>This domain is coming soon.</p>
-    </div>
-</body>
-</html>
-
-* **🏷️ 核心话题**：#MCS坐标系设置 #三轴精修 #粗加工策略 #非切削移动
-* **📂 分类**：UG NX 教程
-* **📅 更新时间**：2026-03-23
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-nx-programming-e8uc.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[UG NX 教程]** UG-NX 2027三轴编程录播课教程 | `#MCS坐标系设置` `#三轴精修` `#粗加工策略` `#非切削移动` | 2026-03-23 | [阅读原文](https://www.cnczxw.com/ug-nx-programming-e8uc.html) |
 | **[UG NX 教程]** UGNX1980全新三轴入门到实战视频教程 - 多工位零件讲解 | `#UGNX三轴编程` `#加工模板定制` `#多工位铣削` | 2026-03-23 | [阅读原文](https://www.cnczxw.com/ugnxmllng-fxux.html) |
 | **[PowerMill 教程]** powermill 2021工厂师傅实战精通教程 | `#刀柄夹持` `#后处理安装` `#图档管理` `#程序计算` | 2026-03-23 | [阅读原文](https://www.cnczxw.com/powermill-master-programm-2fge.html) |
 | **[UG NX 教程]** ug 8.0四轴五轴加vt仿真教程 | `#UG多轴编程刀路优化` `#五轴加工干涉避让` `#VERICUT仿真环境配置` `#叶轮复杂曲面加工` `#后处理参数精准调试` | 2026-03-23 | [阅读原文](https://www.cnczxw.com/ug-multiaxis-vericut-25nv.html) |
