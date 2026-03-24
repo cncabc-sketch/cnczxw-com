@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [22.1 UG 8.0--高级多轴建模教程](https://www.cnczxw.com/ug-multiaxis-modeling-8d4k.html)
+
+<a href="https://www.cnczxw.com/ug-multiaxis-modeling-8d4k.html" target="_blank" title="22.1 UG 8.0--高级多轴建模教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-128.jpg" width="300" alt="22.1 UG 8.0--高级多轴建模教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对UG 8.0高级多轴建模，聚焦异形曲面（如流道、叶轮）的构建与实体成型硬核技术。核心在于通过参数化设计策略与辅助面构建，解决曲面连接不顺、过切欠切等痛点。教程深度解析四轴锥面、螺旋槽及多轴叶轮等复杂零件的刀路规划与建模流程，重点涵盖干涉避让、精度控制及效率优化等关键环节，旨在提升高级编程师应对复杂多轴加工挑战的实战能力。
+
+* **🏷️ 核心话题**：#半切刀辊 #四轴锥面实体 #流道辅助面 #螺旋辊刀
+* **📂 分类**：UG NX 教程
+* **📅 更新时间**：2026-03-24
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-multiaxis-modeling-8d4k.html)**
+
+---
+
 ### 📌 [UG 2406零基础三轴 侧铣头 工装工艺实战教程](https://www.cnczxw.com/ug2406-side-milling-fixtu-mfd7.html)
 
 <a href="https://www.cnczxw.com/ug2406-side-milling-fixtu-mfd7.html" target="_blank" title="UG 2406零基础三轴 侧铣头 工装工艺实战教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG 12.0图片造型图片建模教程](https://www.cnczxw.com/ug12-image-modeling-ojw1.html)
-
-<a href="https://www.cnczxw.com/ug12-image-modeling-ojw1.html" target="_blank" title="UG 12.0图片造型图片建模教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-126.jpg" width="300" alt="UG 12.0图片造型图片建模教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程聚焦UG 12.0图片造型核心难点，系统传授从二维图片到高精度三维模型的硬核技术。重点涵盖图片比例精确校准、复杂自由曲面（如消失面）的G1/G2连续性构建，以及通过典型工业案例（如鱼形吸尘器）详解曲线与曲面的精准匹配。旨在解决建模中因尺寸失真、曲面不连续导致的模型变形与装配干涉问题，并规避因参考图模糊或刀路设置不当引发的过切风险，从而显著提升设计效率与模型质量，避免返工。
-
-* **🏷️ 核心话题**：#图片造型 #实体化转换 #曲面构建 #消失面建模
-* **📂 分类**：UG NX 教程
-* **📅 更新时间**：2026-03-23
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug12-image-modeling-ojw1.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[UG NX 教程]** UG 12.0图片造型图片建模教程 | `#图片造型` `#实体化转换` `#曲面构建` `#消失面建模` | 2026-03-23 | [阅读原文](https://www.cnczxw.com/ug12-image-modeling-ojw1.html) |
 | **[SolidWorks 教程]** SolidWorks钣金拆图实战教程 | `#折弯工艺避让` `#数控冲压排版` `#激光落料优化` `#钣金展开系数` | 2026-03-23 | [阅读原文](https://www.cnczxw.com/solidworks-sheetmetal-unf-u5pd.html) |
 | **[Hypermill 教程]** HyperMILL2018四轴五轴再加工视频视频教程 - 深腔型面讲解 | `#HYPERMILL教程` `#五轴编程` `#残料加工` | 2026-03-23 | [阅读原文](https://www.cnczxw.com/hmillrepro-xvao.html) |
 | **[UG NX 教程]** UG-NX 2027三轴编程录播课教程 | `#MCS坐标系设置` `#三轴精修` `#粗加工策略` `#非切削移动` | 2026-03-23 | [阅读原文](https://www.cnczxw.com/ug-nx-programming-e8uc.html) |
