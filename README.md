@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG 12.0逆向工程点造型教程](https://www.cnczxw.com/ug-reverse-modeling-t4uj.html)
+
+<a href="https://www.cnczxw.com/ug-reverse-modeling-t4uj.html" target="_blank" title="UG 12.0逆向工程点造型教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-135.jpg" width="300" alt="UG 12.0逆向工程点造型教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对UG 12.0逆向工程中的点造型曲面重建，聚焦于解决点云噪点、网格缺口及变形修复等核心难题。硬核技术点在于：通过高效的点云清理与网格修补，为后续曲面重建奠定基础；深入讲解如何精确铺设直面并拟合复杂自由曲面，重点控制G0至G3的连续性，确保曲面光顺度与曲率质量；针对已变形产品，提供一套完整的逆向修复方案，有效规避后续加工中的干涉与精度问题。教程旨在从源头提升模型的可修改性与加工适用性，避免后处理陷阱。
+
+* **🏷️ 核心话题**：#G3连续性 #小平面体 #曲面拟合 #逆向点造型
+* **📂 分类**：UG NX 教程
+* **📅 更新时间**：2026-03-25
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-reverse-modeling-t4uj.html)**
+
+---
+
 ### 📌 [UG 12.0 N95口罩齿模刀模编程教程](https://www.cnczxw.com/n95-mask-mold-programming-yhwh.html)
 
 <a href="https://www.cnczxw.com/n95-mask-mold-programming-yhwh.html" target="_blank" title="UG 12.0 N95口罩齿模刀模编程教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [数控车宏程序教程](https://www.cnczxw.com/cnc-lathe-macro-gn1m.html)
-
-<a href="https://www.cnczxw.com/cnc-lathe-macro-gn1m.html" target="_blank" title="数控车宏程序教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-132.jpg" width="300" alt="数控车宏程序教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对数控车宏程序高级应用，聚焦变量底层逻辑与三角函数、逻辑函数实战化。核心解决球面滚花、异形轮廓（如五角星）等复杂结构的刀路优化难题，通过宏程序智能控制切削参数，规避速度不合理导致的过切或表面质量问题。重点阐述如何利用变量与逻辑判断实现多件一次装夹的高效批量加工，并强调复杂函数嵌套时的程序逻辑校验与参数范围控制，以杜绝刀路混乱与干涉风险，提升编程效率与加工精度。
-
-* **🏷️ 核心话题**：#三角函数应用 #宏程序变量 #滚花编程 #逻辑函数
-* **📂 分类**：宏程序教程
-* **📅 更新时间**：2026-03-25
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/cnc-lathe-macro-gn1m.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[宏程序教程]** 数控车宏程序教程 | `#三角函数应用` `#宏程序变量` `#滚花编程` `#逻辑函数` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/cnc-lathe-macro-gn1m.html) |
 | **[Mastercam 教程]** mastercam 2024三轴入门教程-送建模课教程 | `#三视图识图` `#偏移图素` `#动态考古` `#绘图案例` | 2026-03-24 | [阅读原文](https://www.cnczxw.com/mastercam-three-axis-fpyp.html) |
 | **[Mastercam 教程]** mastercam 2022后处理制作教程讲解教程 | `#G43补偿调整` `#后处理加密` `#多轴G代码适配` `#机床定义升级` | 2026-03-24 | [阅读原文](https://www.cnczxw.com/mastercam-post-optimize-9nit.html) |
 | **[UG NX 教程]** 22.1 UG 8.0--高级多轴建模教程 | `#半切刀辊` `#四轴锥面实体` `#流道辅助面` `#螺旋辊刀` | 2026-03-24 | [阅读原文](https://www.cnczxw.com/ug-multiaxis-modeling-8d4k.html) |
