@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG 12.0 N95口罩齿模刀模编程教程](https://www.cnczxw.com/n95-mask-mold-programming-yhwh.html)
+
+<a href="https://www.cnczxw.com/n95-mask-mold-programming-yhwh.html" target="_blank" title="UG 12.0 N95口罩齿模刀模编程教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-134.jpg" width="300" alt="UG 12.0 N95口罩齿模刀模编程教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对N95口罩齿模与滚轴刀模的UG12.0高级编程，聚焦三轴转四轴联动加工的核心技术难点。重点剖析复杂形面（如主齿轮模）的变形展开与烂图修改策略，解决曲线提取不准导致的过切风险。核心硬核技术点在于：优化线开粗策略以提升效率，采用多阶角度刀具完成高精度光顶加工，并通过VT9.0模拟进行刀路校验与干涉避让，确保加工安全与精度。教程旨在提供一套规避撞刀、提升编程质量与效率的实战解决方案。
+
+* **🏷️ 核心话题**：#三轴转四轴编程 #优化线开粗 #刀口二阶加工 #烂图修改
+* **📂 分类**：UG NX 教程
+* **📅 更新时间**：2026-03-25
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/n95-mask-mold-programming-yhwh.html)**
+
+---
+
 ### 📌 [NX 12三轴四轴五轴精品教程](https://www.cnczxw.com/nx12-multiaxis-machining-uyes.html)
 
 <a href="https://www.cnczxw.com/nx12-multiaxis-machining-uyes.html" target="_blank" title="NX 12三轴四轴五轴精品教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [mastercam 2024三轴入门教程-送建模课教程](https://www.cnczxw.com/mastercam-three-axis-fpyp.html)
-
-<a href="https://www.cnczxw.com/mastercam-three-axis-fpyp.html" target="_blank" title="mastercam 2024三轴入门教程-送建模课教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-264.jpg" width="300" alt="mastercam 2024三轴入门教程-送建模课教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对Mastercam 2024三轴编程新手，系统构建从识图、软件操作到核心建模的实战基础。重点解决动态铣削与“考古”刀路等高效路径的规划与优化，涵盖关键加工参数设置与干涉避让策略。旨在通过案例教学，夯实用户编程根基，规避撞机风险，实现从零件造型到生成安全、高效加工程序的能力跃升。
-
-* **🏷️ 核心话题**：#三视图识图 #偏移图素 #动态考古 #绘图案例
-* **📂 分类**：Mastercam 教程
-* **📅 更新时间**：2026-03-24
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/mastercam-three-axis-fpyp.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[Mastercam 教程]** mastercam 2024三轴入门教程-送建模课教程 | `#三视图识图` `#偏移图素` `#动态考古` `#绘图案例` | 2026-03-24 | [阅读原文](https://www.cnczxw.com/mastercam-three-axis-fpyp.html) |
 | **[Mastercam 教程]** mastercam 2022后处理制作教程讲解教程 | `#G43补偿调整` `#后处理加密` `#多轴G代码适配` `#机床定义升级` | 2026-03-24 | [阅读原文](https://www.cnczxw.com/mastercam-post-optimize-9nit.html) |
 | **[UG NX 教程]** 22.1 UG 8.0--高级多轴建模教程 | `#半切刀辊` `#四轴锥面实体` `#流道辅助面` `#螺旋辊刀` | 2026-03-24 | [阅读原文](https://www.cnczxw.com/ug-multiaxis-modeling-8d4k.html) |
 | **[UG NX 教程]** UG 2406零基础三轴 侧铣头 工装工艺实战教程 | `#三轴刀路优化` `#侧铣头编程` `#工装夹具避让` `#星空外挂应用` | 2026-03-24 | [阅读原文](https://www.cnczxw.com/ug2406-side-milling-fixtu-mfd7.html) |
