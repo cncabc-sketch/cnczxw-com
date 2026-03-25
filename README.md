@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [数控车宏程序教程](https://www.cnczxw.com/cnc-lathe-macro-gn1m.html)
+
+<a href="https://www.cnczxw.com/cnc-lathe-macro-gn1m.html" target="_blank" title="数控车宏程序教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-132.jpg" width="300" alt="数控车宏程序教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对数控车宏程序高级应用，聚焦变量底层逻辑与三角函数、逻辑函数实战化。核心解决球面滚花、异形轮廓（如五角星）等复杂结构的刀路优化难题，通过宏程序智能控制切削参数，规避速度不合理导致的过切或表面质量问题。重点阐述如何利用变量与逻辑判断实现多件一次装夹的高效批量加工，并强调复杂函数嵌套时的程序逻辑校验与参数范围控制，以杜绝刀路混乱与干涉风险，提升编程效率与加工精度。
+
+* **🏷️ 核心话题**：#三角函数应用 #宏程序变量 #滚花编程 #逻辑函数
+* **📂 分类**：宏程序教程
+* **📅 更新时间**：2026-03-25
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/cnc-lathe-macro-gn1m.html)**
+
+---
+
 ### 📌 [mastercam 2024三轴入门教程-送建模课教程](https://www.cnczxw.com/mastercam-three-axis-fpyp.html)
 
 <a href="https://www.cnczxw.com/mastercam-three-axis-fpyp.html" target="_blank" title="mastercam 2024三轴入门教程-送建模课教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [22.1 UG 8.0--高级多轴建模教程](https://www.cnczxw.com/ug-multiaxis-modeling-8d4k.html)
-
-<a href="https://www.cnczxw.com/ug-multiaxis-modeling-8d4k.html" target="_blank" title="22.1 UG 8.0--高级多轴建模教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-128.jpg" width="300" alt="22.1 UG 8.0--高级多轴建模教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对UG 8.0高级多轴建模，聚焦异形曲面（如流道、叶轮）的构建与实体成型硬核技术。核心在于通过参数化设计策略与辅助面构建，解决曲面连接不顺、过切欠切等痛点。教程深度解析四轴锥面、螺旋槽及多轴叶轮等复杂零件的刀路规划与建模流程，重点涵盖干涉避让、精度控制及效率优化等关键环节，旨在提升高级编程师应对复杂多轴加工挑战的实战能力。
-
-* **🏷️ 核心话题**：#半切刀辊 #四轴锥面实体 #流道辅助面 #螺旋辊刀
-* **📂 分类**：UG NX 教程
-* **📅 更新时间**：2026-03-24
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-multiaxis-modeling-8d4k.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[UG NX 教程]** 22.1 UG 8.0--高级多轴建模教程 | `#半切刀辊` `#四轴锥面实体` `#流道辅助面` `#螺旋辊刀` | 2026-03-24 | [阅读原文](https://www.cnczxw.com/ug-multiaxis-modeling-8d4k.html) |
 | **[UG NX 教程]** UG 2406零基础三轴 侧铣头 工装工艺实战教程 | `#三轴刀路优化` `#侧铣头编程` `#工装夹具避让` `#星空外挂应用` | 2026-03-24 | [阅读原文](https://www.cnczxw.com/ug2406-side-milling-fixtu-mfd7.html) |
 | **[Mastercam 教程]** Mastercam-m2021工艺实战编程实例教程 | `#3+1轴加工` `#倒角过切` `#曲面环绕` `#流线刀路` | 2026-03-24 | [阅读原文](https://www.cnczxw.com/mastercam-surface-milling-zw5q.html) |
 | **[UG NX 教程]** UG 12.0图片造型图片建模教程 | `#图片造型` `#实体化转换` `#曲面构建` `#消失面建模` | 2026-03-23 | [阅读原文](https://www.cnczxw.com/ug12-image-modeling-ojw1.html) |
