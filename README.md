@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [数控车螺纹类宏程序编程教程](https://www.cnczxw.com/cnc-macro-thread-6k6p.html)
+
+<a href="https://www.cnczxw.com/cnc-macro-thread-6k6p.html" target="_blank" title="数控车螺纹类宏程序编程教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-137.jpg" width="300" alt="数控车螺纹类宏程序编程教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对数控车宏程序在非标螺纹、异形曲线（如椭圆）及复杂网纹加工中的编程痛点，提供硬核解决方案。核心聚焦于宏程序逻辑架构的稳健搭建、变量的高效定义与传递，以及嵌套循环的精准控制。重点解析圆弧/梯形等复杂螺纹、异形轮廓的刀路算法优化与参数设置策略，通过实战案例详解如何避免过切与干涉，实现高精度、高效率的自动化加工，旨在提升编程工程师解决复杂零件工艺难题的深度能力。
+
+* **🏷️ 核心话题**：#任意牙型螺纹 #宏程序嵌套 #曲线面网纹 #椭圆车削
+* **📂 分类**：宏程序教程
+* **📅 更新时间**：2026-03-26
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/cnc-macro-thread-6k6p.html)**
+
+---
+
 ### 📌 [UG NX 12.0四轴一刀切高级编程教程](https://www.cnczxw.com/ug-nx-4axis-onecut-0yn9.html)
 
 <a href="https://www.cnczxw.com/ug-nx-4axis-onecut-0yn9.html" target="_blank" title="UG NX 12.0四轴一刀切高级编程教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG 12.0 N95口罩齿模刀模编程教程](https://www.cnczxw.com/n95-mask-mold-programming-yhwh.html)
-
-<a href="https://www.cnczxw.com/n95-mask-mold-programming-yhwh.html" target="_blank" title="UG 12.0 N95口罩齿模刀模编程教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-134.jpg" width="300" alt="UG 12.0 N95口罩齿模刀模编程教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对N95口罩齿模与滚轴刀模的UG12.0高级编程，聚焦三轴转四轴联动加工的核心技术难点。重点剖析复杂形面（如主齿轮模）的变形展开与烂图修改策略，解决曲线提取不准导致的过切风险。核心硬核技术点在于：优化线开粗策略以提升效率，采用多阶角度刀具完成高精度光顶加工，并通过VT9.0模拟进行刀路校验与干涉避让，确保加工安全与精度。教程旨在提供一套规避撞刀、提升编程质量与效率的实战解决方案。
-
-* **🏷️ 核心话题**：#三轴转四轴编程 #优化线开粗 #刀口二阶加工 #烂图修改
-* **📂 分类**：UG NX 教程
-* **📅 更新时间**：2026-03-25
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/n95-mask-mold-programming-yhwh.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[UG NX 教程]** UG 12.0 N95口罩齿模刀模编程教程 | `#三轴转四轴编程` `#优化线开粗` `#刀口二阶加工` `#烂图修改` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/n95-mask-mold-programming-yhwh.html) |
 | **[UG NX 教程]** NX 12三轴四轴五轴精品教程 | `#三轴转五轴` `#多轴刀轴控制` `#流星锤加工` `#边界驱动` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/nx12-multiaxis-machining-uyes.html) |
 | **[宏程序教程]** 数控车宏程序教程 | `#三角函数应用` `#宏程序变量` `#滚花编程` `#逻辑函数` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/cnc-lathe-macro-gn1m.html) |
 | **[Mastercam 教程]** mastercam 2024三轴入门教程-送建模课教程 | `#三视图识图` `#偏移图素` `#动态考古` `#绘图案例` | 2026-03-24 | [阅读原文](https://www.cnczxw.com/mastercam-three-axis-fpyp.html) |
