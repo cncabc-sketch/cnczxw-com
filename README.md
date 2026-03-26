@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [cad 2021从实战教程](https://www.cnczxw.com/cad-design-practice-2eku.html)
+
+<a href="https://www.cnczxw.com/cad-design-practice-2eku.html" target="_blank" title="cad 2021从实战教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-140.jpg" width="300" alt="cad 2021从实战教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程为CAD2021实战应用指南，核心在于构建精确、高效的绘图工作流。重点涵盖坐标体系与图层管理的系统化应用，这是实现复杂图纸结构化、避免图形混乱与修改困难的技术基础。教程深度解析模型空间与布局空间的工业标准设置，确保图纸输出比例精确、打印清晰，满足专业生产要求。通过系统学习，可彻底掌握从基础操作到专业输出的完整技能闭环，显著提升绘图速度与图纸质量。
+
+* **🏷️ 核心话题**：#图层管理 #布局空间打印 #相对极坐标 #绝对坐标
+* **📂 分类**：AutoCAD 教程
+* **📅 更新时间**：2026-03-26
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/cad-design-practice-2eku.html)**
+
+---
+
 ### 📌 [autocad 2024 2D 3D机械入门精通教程](https://www.cnczxw.com/autocad-mechanical-design-uhib.html)
 
 <a href="https://www.cnczxw.com/autocad-mechanical-design-uhib.html" target="_blank" title="autocad 2024 2D 3D机械入门精通教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [数控车螺纹类宏程序编程教程](https://www.cnczxw.com/cnc-macro-thread-6k6p.html)
-
-<a href="https://www.cnczxw.com/cnc-macro-thread-6k6p.html" target="_blank" title="数控车螺纹类宏程序编程教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-137.jpg" width="300" alt="数控车螺纹类宏程序编程教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对数控车宏程序在非标螺纹、异形曲线（如椭圆）及复杂网纹加工中的编程痛点，提供硬核解决方案。核心聚焦于宏程序逻辑架构的稳健搭建、变量的高效定义与传递，以及嵌套循环的精准控制。重点解析圆弧/梯形等复杂螺纹、异形轮廓的刀路算法优化与参数设置策略，通过实战案例详解如何避免过切与干涉，实现高精度、高效率的自动化加工，旨在提升编程工程师解决复杂零件工艺难题的深度能力。
-
-* **🏷️ 核心话题**：#任意牙型螺纹 #宏程序嵌套 #曲线面网纹 #椭圆车削
-* **📂 分类**：宏程序教程
-* **📅 更新时间**：2026-03-26
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/cnc-macro-thread-6k6p.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[宏程序教程]** 数控车螺纹类宏程序编程教程 | `#任意牙型螺纹` `#宏程序嵌套` `#曲线面网纹` `#椭圆车削` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/cnc-macro-thread-6k6p.html) |
 | **[UG NX 教程]** UG NX 12.0四轴一刀切高级编程教程 | `#刀路优化` `#刀轴控制` `#四轴联动` `#干涉避让` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/ug-nx-4axis-onecut-0yn9.html) |
 | **[UG NX 教程]** UG 12.0逆向工程点造型教程 | `#G3连续性` `#小平面体` `#曲面拟合` `#逆向点造型` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/ug-reverse-modeling-t4uj.html) |
 | **[UG NX 教程]** UG 12.0 N95口罩齿模刀模编程教程 | `#三轴转四轴编程` `#优化线开粗` `#刀口二阶加工` `#烂图修改` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/n95-mask-mold-programming-yhwh.html) |
