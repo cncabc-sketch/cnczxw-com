@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [creo 9.0机械设计曲面设计入门精通全套教程](https://www.cnczxw.com/creo-surface-design-lt0n.html)
+
+<a href="https://www.cnczxw.com/creo-surface-design-lt0n.html" target="_blank" title="creo 9.0机械设计曲面设计入门精通全套教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-141.jpg" width="300" alt="creo 9.0机械设计曲面设计入门精通全套教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程聚焦Creo 9.0机械与曲面设计，核心解决高阶工程痛点。技术摘要重点如下：深入解析G0、G1、G2曲面连续性控制，确保外观流畅无破面；强化参数化建模逻辑，实现模型高效、可靠修改，避免后期设计卡顿；涵盖复杂装配下的运动仿真与开模动画制作，直观验证产品动态行为与机构干涉，提升设计评审效率。教程从软件配置优化切入，贯穿高级草图、实体/曲面建模至动态展示全流程，旨在培养扎实的实战能力，直接应对设计、制造中的关键挑战。
+
+* **🏷️ 核心话题**：#参数化设计 #曲面建模 #运动仿真 #高级造型
+* **📂 分类**：Creo 教程
+* **📅 更新时间**：2026-03-26
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/creo-surface-design-lt0n.html)**
+
+---
+
 ### 📌 [cad 2021从实战教程](https://www.cnczxw.com/cad-design-practice-2eku.html)
 
 <a href="https://www.cnczxw.com/cad-design-practice-2eku.html" target="_blank" title="cad 2021从实战教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [hypermill 2018四轴五轴后处理教程](https://www.cnczxw.com/hypermill-postprocessor-5-i4r9.html)
-
-<a href="https://www.cnczxw.com/hypermill-postprocessor-5-i4r9.html" target="_blank" title="hypermill 2018四轴五轴后处理教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-138.jpg" width="300" alt="hypermill 2018四轴五轴后处理教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程聚焦hyperMILL 2018多轴后处理高级实战，核心解决三大硬核痛点：通过优化宏程序逻辑，彻底消除换刀前冗余的3+2复位动作，提升加工效率。深度解析刀心与刀尖输出模式的自动补偿机制，以及RR/RL/R0刀具半径补偿的精准配置，确保曲面加工精度。重点演示如何利用Vericut仿真，调试并优化摆头/双摆台机床的换刀角度、3+2与联动刀路的下刀姿态，规避干涉与过切，实现后处理程序与机床“脾性”的精准匹配。
-
-* **🏷️ 核心话题**：#Vericut调试 #刀心刀尖输出 #多轴联动优化 #宏程序变量提取
-* **📂 分类**：Hypermill 教程
-* **📅 更新时间**：2026-03-26
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/hypermill-postprocessor-5-i4r9.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[Hypermill 教程]** hypermill 2018四轴五轴后处理教程 | `#Vericut调试` `#刀心刀尖输出` `#多轴联动优化` `#宏程序变量提取` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/hypermill-postprocessor-5-i4r9.html) |
 | **[宏程序教程]** 数控车螺纹类宏程序编程教程 | `#任意牙型螺纹` `#宏程序嵌套` `#曲线面网纹` `#椭圆车削` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/cnc-macro-thread-6k6p.html) |
 | **[UG NX 教程]** UG NX 12.0四轴一刀切高级编程教程 | `#刀路优化` `#刀轴控制` `#四轴联动` `#干涉避让` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/ug-nx-4axis-onecut-0yn9.html) |
 | **[UG NX 教程]** UG 12.0逆向工程点造型教程 | `#G3连续性` `#小平面体` `#曲面拟合` `#逆向点造型` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/ug-reverse-modeling-t4uj.html) |
