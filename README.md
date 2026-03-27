@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [ug 12编程加工实战进阶教程](https://www.cnczxw.com/ug12-machining-advanced-gaab.html)
+
+<a href="https://www.cnczxw.com/ug12-machining-advanced-gaab.html" target="_blank" title="ug 12编程加工实战进阶教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-148.jpg" width="300" alt="ug 12编程加工实战进阶教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程基于UG 12，针对CK60数控机床实战加工逻辑进行深度剖析。核心硬核技术点在于：通过“一键倒角”自动化刀路策略，高效解决多台阶面手动选面效率低、易遗漏的痛点；重点攻克燕尾槽等特殊结构加工中的毛刺控制难题，提供基于刀路优化与参数设置的切实方案，有效规避干涉并提升表面质量。内容旨在通过高级实战案例，系统提升编程员的刀路规划与工艺参数设置能力，实现高效、高质加工。
+
+* **🏷️ 核心话题**：#CK60后处理 #刀路优化 #燕尾刀毛刺 #自动化倒角
+* **📂 分类**：UG NX 教程
+* **📅 更新时间**：2026-03-27
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug12-machining-advanced-gaab.html)**
+
+---
+
 ### 📌 [UG编程易学老师UG_NX后处理制作教程](https://www.cnczxw.com/ug-postprocessor-tcl-tejz.html)
 
 <a href="https://www.cnczxw.com/ug-postprocessor-tcl-tejz.html" target="_blank" title="UG编程易学老师UG_NX后处理制作教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [catia v5r20 R21 2016教程入门基础精通机械设计教程](https://www.cnczxw.com/catia-design-expert-gdnl.html)
-
-<a href="https://www.cnczxw.com/catia-design-expert-gdnl.html" target="_blank" title="catia v5r20 R21 2016教程入门基础精通机械设计教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-143.jpg" width="300" alt="catia v5r20 R21 2016教程入门基础精通机械设计教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对CATIA V5R21，提供从草图到高级装配的完整机械设计实战指南。核心聚焦于参数化驱动设计，确保模型稳健性与可编辑性。重点解析复杂结构建模流程，通过优化特征树管理、约束策略与装配序列，有效规避设计干涉与性能瓶颈。教程强调基于实际案例的模型性能优化与设计变更应对，旨在提升工程师解决复杂工程问题的硬核能力，是系统掌握高效、可靠设计方法论的关键资源。
-
-* **🏷️ 核心话题**：#参数化建模 #曲面连续性 #装配管理 #钣金设计
-* **📂 分类**：Catia 教程
-* **📅 更新时间**：2026-03-27
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/catia-design-expert-gdnl.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[Catia 教程]** catia v5r20 R21 2016教程入门基础精通机械设计教程 | `#参数化建模` `#曲面连续性` `#装配管理` `#钣金设计` | 2026-03-27 | [阅读原文](https://www.cnczxw.com/catia-design-expert-gdnl.html) |
 | **[UG NX 教程]** NX 12.0_三轴整体结构件加工编程教程 | `#变形规避` `#振动控制` `#整体结构件` `#曲面精铣` | 2026-03-27 | [阅读原文](https://www.cnczxw.com/nx-component-machining-vw36.html) |
 | **[Creo 教程]** creo 9.0机械设计曲面设计入门精通全套教程 | `#参数化设计` `#曲面建模` `#运动仿真` `#高级造型` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/creo-surface-design-lt0n.html) |
 | **[AutoCAD 教程]** cad 2021从实战教程 | `#图层管理` `#布局空间打印` `#相对极坐标` `#绝对坐标` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/cad-design-practice-2eku.html) |
