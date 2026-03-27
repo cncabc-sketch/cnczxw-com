@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG 12.0数控编程工艺 工厂实战案例 边框 吸盘工艺 去应力工艺教程](https://www.cnczxw.com/ug12-frame-stress-ah26.html)
+
+<a href="https://www.cnczxw.com/ug12-frame-stress-ah26.html" target="_blank" title="UG 12.0数控编程工艺 工厂实战案例 边框 吸盘工艺 去应力工艺教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-146.jpg" width="300" alt="UG 12.0数控编程工艺 工厂实战案例 边框 吸盘工艺 去应力工艺教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程基于UG 12.0平台，深度解析CK58系列复杂边框在吸盘夹持下的高精度加工工艺。核心聚焦于刀路优化策略，针对薄壁件易变形痛点，通过合理的切削顺序、分层切削与进退刀控制，确保吃刀稳定性。重点传授吸盘工况下的防干涉编程技巧与夹持力平衡方法，并集成去应力工艺，通过参数化设置控制残余应力，有效规避加工变形与精度漂移，实现一次性合格的高效稳定生产。
+
+* **🏷️ 核心话题**：#UG12.0 #去应力切削 #吸盘加工 #边框工艺
+* **📂 分类**：UG NX 教程
+* **📅 更新时间**：2026-03-27
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug12-frame-stress-ah26.html)**
+
+---
+
 ### 📌 [catia v5r20 R21 2016教程入门基础精通机械设计教程](https://www.cnczxw.com/catia-design-expert-gdnl.html)
 
 <a href="https://www.cnczxw.com/catia-design-expert-gdnl.html" target="_blank" title="catia v5r20 R21 2016教程入门基础精通机械设计教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [creo 9.0机械设计曲面设计入门精通全套教程](https://www.cnczxw.com/creo-surface-design-lt0n.html)
-
-<a href="https://www.cnczxw.com/creo-surface-design-lt0n.html" target="_blank" title="creo 9.0机械设计曲面设计入门精通全套教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-141.jpg" width="300" alt="creo 9.0机械设计曲面设计入门精通全套教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程聚焦Creo 9.0机械与曲面设计，核心解决高阶工程痛点。技术摘要重点如下：深入解析G0、G1、G2曲面连续性控制，确保外观流畅无破面；强化参数化建模逻辑，实现模型高效、可靠修改，避免后期设计卡顿；涵盖复杂装配下的运动仿真与开模动画制作，直观验证产品动态行为与机构干涉，提升设计评审效率。教程从软件配置优化切入，贯穿高级草图、实体/曲面建模至动态展示全流程，旨在培养扎实的实战能力，直接应对设计、制造中的关键挑战。
-
-* **🏷️ 核心话题**：#参数化设计 #曲面建模 #运动仿真 #高级造型
-* **📂 分类**：Creo 教程
-* **📅 更新时间**：2026-03-26
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/creo-surface-design-lt0n.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[Creo 教程]** creo 9.0机械设计曲面设计入门精通全套教程 | `#参数化设计` `#曲面建模` `#运动仿真` `#高级造型` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/creo-surface-design-lt0n.html) |
 | **[AutoCAD 教程]** cad 2021从实战教程 | `#图层管理` `#布局空间打印` `#相对极坐标` `#绝对坐标` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/cad-design-practice-2eku.html) |
 | **[AutoCAD 教程]** autocad 2024 2D 3D机械入门精通教程 | `#伞形齿轮绘制` `#图纸打印` `#相对极坐标` `#绝对直角坐标` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/autocad-mechanical-design-uhib.html) |
 | **[Hypermill 教程]** hypermill 2018四轴五轴后处理教程 | `#Vericut调试` `#刀心刀尖输出` `#多轴联动优化` `#宏程序变量提取` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/hypermill-postprocessor-5-i4r9.html) |
