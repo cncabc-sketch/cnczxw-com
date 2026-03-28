@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG 2312 四五轴编程教程 工艺 夹具都有讲解 VT仿真NX 2412通用教程](https://www.cnczxw.com/nx-multi-axis-cam-uyaa.html)
+
+<a href="https://www.cnczxw.com/nx-multi-axis-cam-uyaa.html" target="_blank" title="UG 2312 四五轴编程教程 工艺 夹具都有讲解 VT仿真NX 2412通用教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-157.jpg" width="300" alt="UG 2312 四五轴编程教程 工艺 夹具都有讲解 VT仿真NX 2412通用教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对UG NX 2312/2412四五轴编程，深度解析曲线、边界、曲面、流线及刀轨等核心驱动方式的应用逻辑。重点攻克异形曲面加工中的刀轴矢量控制难题，提供系统性的刀路优化策略与干涉避让算法。通过结合工艺规划、夹具设计与VT虚拟仿真，实现复杂零件（如U型架）的高效、安全加工路径规划，显著提升编程精度与加工稳定性，杜绝过切、撞刀等实战风险。
+
+* **🏷️ 核心话题**：#VT仿真 #刀轴定义 #曲面驱动 #流线驱动
+* **📂 分类**：UG NX 教程
+* **📅 更新时间**：2026-03-28
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/nx-multi-axis-cam-uyaa.html)**
+
+---
+
 ### 📌 [走心机操机教程](https://www.cnczxw.com/swiss-machining-operation-a9s0.html)
 
 <a href="https://www.cnczxw.com/swiss-machining-operation-a9s0.html" target="_blank" title="走心机操机教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [数控车螺纹类宏程序编程视频教程](https://www.cnczxw.com/cnc-5320.html)
-
-<a href="https://www.cnczxw.com/cnc-5320.html" target="_blank" title="数控车螺纹类宏程序编程视频教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-154.jpg" width="300" alt="数控车螺纹类宏程序编程视频教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对数控车螺纹宏程序编程，深度解析非标螺纹、变螺距及椭圆/曲线面等异形工件加工痛点。核心聚焦于构建稳健的宏程序框架，通过变量定义与嵌套调用实现参数化编程，彻底摆脱手动修改G代码的低效与风险。重点涵盖刀路逻辑优化，如圆弧螺纹开粗策略与椭圆车削算法，确保复杂牙型加工精度。同时强调在CAXA数车环境中，通过合理的参数设置与干涉避让逻辑，有效预防撞刀与过切，提升非标零件加工效率与可靠性。
-
-* **🏷️ 核心话题**：#CNC
-* **📂 分类**：宏程序教程
-* **📅 更新时间**：2026-03-28
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/cnc-5320.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[宏程序教程]** 数控车螺纹类宏程序编程视频教程 | `#CNC` | 2026-03-28 | [阅读原文](https://www.cnczxw.com/cnc-5320.html) |
 | **[UG NX 教程]** ug 12编程加工实战进阶教程 | `#CK60后处理` `#刀路优化` `#燕尾刀毛刺` `#自动化倒角` | 2026-03-27 | [阅读原文](https://www.cnczxw.com/ug12-machining-advanced-gaab.html) |
 | **[UG NX 教程]** UG编程易学老师UG_NX后处理制作教程 | `#M03M04输出控制` `#TCL脚本定制` `#代码加密` `#后处理变量` | 2026-03-27 | [阅读原文](https://www.cnczxw.com/ug-postprocessor-tcl-tejz.html) |
 | **[UG NX 教程]** UG 12.0数控编程工艺 工厂实战案例 边框 吸盘工艺 去应力工艺教程 | `#UG12.0` `#去应力切削` `#吸盘加工` `#边框工艺` | 2026-03-27 | [阅读原文](https://www.cnczxw.com/ug12-frame-stress-ah26.html) |
