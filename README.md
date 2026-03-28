@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [数控车螺纹类宏程序编程视频教程](https://www.cnczxw.com/cnc-5320.html)
+
+<a href="https://www.cnczxw.com/cnc-5320.html" target="_blank" title="数控车螺纹类宏程序编程视频教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-154.jpg" width="300" alt="数控车螺纹类宏程序编程视频教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对数控车螺纹宏程序编程，深度解析非标螺纹、变螺距及椭圆/曲线面等异形工件加工痛点。核心聚焦于构建稳健的宏程序框架，通过变量定义与嵌套调用实现参数化编程，彻底摆脱手动修改G代码的低效与风险。重点涵盖刀路逻辑优化，如圆弧螺纹开粗策略与椭圆车削算法，确保复杂牙型加工精度。同时强调在CAXA数车环境中，通过合理的参数设置与干涉避让逻辑，有效预防撞刀与过切，提升非标零件加工效率与可靠性。
+
+* **🏷️ 核心话题**：#CNC
+* **📂 分类**：宏程序教程
+* **📅 更新时间**：2026-03-28
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/cnc-5320.html)**
+
+---
+
 ### 📌 [ug 12编程加工实战进阶教程](https://www.cnczxw.com/ug12-machining-advanced-gaab.html)
 
 <a href="https://www.cnczxw.com/ug12-machining-advanced-gaab.html" target="_blank" title="ug 12编程加工实战进阶教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG 12.0数控编程工艺 工厂实战案例 边框 吸盘工艺 去应力工艺教程](https://www.cnczxw.com/ug12-frame-stress-ah26.html)
-
-<a href="https://www.cnczxw.com/ug12-frame-stress-ah26.html" target="_blank" title="UG 12.0数控编程工艺 工厂实战案例 边框 吸盘工艺 去应力工艺教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-146.jpg" width="300" alt="UG 12.0数控编程工艺 工厂实战案例 边框 吸盘工艺 去应力工艺教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程基于UG 12.0平台，深度解析CK58系列复杂边框在吸盘夹持下的高精度加工工艺。核心聚焦于刀路优化策略，针对薄壁件易变形痛点，通过合理的切削顺序、分层切削与进退刀控制，确保吃刀稳定性。重点传授吸盘工况下的防干涉编程技巧与夹持力平衡方法，并集成去应力工艺，通过参数化设置控制残余应力，有效规避加工变形与精度漂移，实现一次性合格的高效稳定生产。
-
-* **🏷️ 核心话题**：#UG12.0 #去应力切削 #吸盘加工 #边框工艺
-* **📂 分类**：UG NX 教程
-* **📅 更新时间**：2026-03-27
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug12-frame-stress-ah26.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[UG NX 教程]** UG 12.0数控编程工艺 工厂实战案例 边框 吸盘工艺 去应力工艺教程 | `#UG12.0` `#去应力切削` `#吸盘加工` `#边框工艺` | 2026-03-27 | [阅读原文](https://www.cnczxw.com/ug12-frame-stress-ah26.html) |
 | **[Catia 教程]** catia v5r20 R21 2016教程入门基础精通机械设计教程 | `#参数化建模` `#曲面连续性` `#装配管理` `#钣金设计` | 2026-03-27 | [阅读原文](https://www.cnczxw.com/catia-design-expert-gdnl.html) |
 | **[UG NX 教程]** NX 12.0_三轴整体结构件加工编程教程 | `#变形规避` `#振动控制` `#整体结构件` `#曲面精铣` | 2026-03-27 | [阅读原文](https://www.cnczxw.com/nx-component-machining-vw36.html) |
 | **[Creo 教程]** creo 9.0机械设计曲面设计入门精通全套教程 | `#参数化设计` `#曲面建模` `#运动仿真` `#高级造型` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/creo-surface-design-lt0n.html) |
