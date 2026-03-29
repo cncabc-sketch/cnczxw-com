@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [CAD 2018 全流程实战全套教程](https://www.cnczxw.com/cad-drafting-mastery-o42v.html)
+
+<a href="https://www.cnczxw.com/cad-drafting-mastery-o42v.html" target="_blank" title="CAD 2018 全流程实战全套教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-171.jpg" width="300" alt="CAD 2018 全流程实战全套教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对CAD 2018软件，系统解析二维工程图全流程实战。核心聚焦于运用相对坐标与极坐标实现精准几何定位，攻克尺寸偏差与布局混乱等痛点。通过深度剖析直线、圆、修剪等工具的原理性操作，强化对坐标系的理解，旨在提升绘图效率与图纸规范性。教程涵盖从基础绘图到专业布局打印的完整闭环，适用于机械设计初学者及绘图员，通过大量实操直击制图疑难，确保输出符合工程要求的专业图纸。
+
+* **🏷️ 核心话题**：#三视图绘制 #二维制图 #坐标系应用 #布局打印
+* **📂 分类**：AutoCAD 教程
+* **📅 更新时间**：2026-03-29
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/cad-drafting-mastery-o42v.html)**
+
+---
+
 ### 📌 [AutoCAD 2024从全流程实战教程](https://www.cnczxw.com/autocad-drawing-standards-zva7.html)
 
 <a href="https://www.cnczxw.com/autocad-drawing-standards-zva7.html" target="_blank" title="AutoCAD 2024从全流程实战教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [SolidWorks曲面建模全流程实战教程](https://www.cnczxw.com/solidworks-surface-revers-gr55.html)
-
-<a href="https://www.cnczxw.com/solidworks-surface-revers-gr55.html" target="_blank" title="SolidWorks曲面建模全流程实战教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-167.jpg" width="300" alt="SolidWorks曲面建模全流程实战教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对SolidWorks复杂曲面建模的核心技术难点展开。重点解析如何构建G2/G3连续性的光顺过渡曲面，并攻克从外部STEP/IGES破面数据修复到STL网格逆向转换为高质量NURBS曲面的关键技术流程。教程深度涵盖曲面基础结构分析、连续性质量评估与高级造型命令的实战应用，旨在使工程师掌握处理产品外观、模具型面等高精度曲面项目的核心逻辑与避坑方法，实现工业级曲面造型能力。
-
-* **🏷️ 核心话题**：#STL逆向转换 #实体曲面区分 #曲面质量评估 #样条曲线优化
-* **📂 分类**：SolidWorks 教程
-* **📅 更新时间**：2026-03-29
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/solidworks-surface-revers-gr55.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[SolidWorks 教程]** SolidWorks曲面建模全流程实战教程 | `#STL逆向转换` `#实体曲面区分` `#曲面质量评估` `#样条曲线优化` | 2026-03-29 | [阅读原文](https://www.cnczxw.com/solidworks-surface-revers-gr55.html) |
 | **[UG NX 教程]** UG NX 2206.运动仿真教程 | `#刚体运动` `#机构仿真` `#过约束检测` `#运动副` | 2026-03-28 | [阅读原文](https://www.cnczxw.com/ug-nx-motion-5egy.html) |
 | **[UG NX 教程]** UG 2312 四五轴编程教程 工艺 夹具都有讲解 VT仿真NX 2412通用教程 | `#VT仿真` `#刀轴定义` `#曲面驱动` `#流线驱动` | 2026-03-28 | [阅读原文](https://www.cnczxw.com/nx-multi-axis-cam-uyaa.html) |
 | **[数控操机教程]** 走心机操机教程 | `#刀具补偿` `#加工参数优化` `#多轴联动` `#料机应用` | 2026-03-28 | [阅读原文](https://www.cnczxw.com/swiss-machining-operation-a9s0.html) |
