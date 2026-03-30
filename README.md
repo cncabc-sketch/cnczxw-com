@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [CAXA 2015数控车编程教程](https://www.cnczxw.com/caxa-lathe-programming-x85b.html)
+
+<a href="https://www.cnczxw.com/caxa-lathe-programming-x85b.html" target="_blank" title="CAXA 2015数控车编程教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-180.jpg" width="300" alt="CAXA 2015数控车编程教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对CAXA数控车2015，提供从软件基础、绘图编辑到程序传输与仿真的全流程实战指南。核心聚焦于规避因数据传输错误（如RS232/存储卡设置）导致的撞机风险，确保程序安全上机。内容深度解析刀路生成逻辑与后处理设置，涵盖广数、华中等系统，旨在通过精确的参数配置与仿真调试，直接提升学员的编程可靠性及机床实操效率，解决从图纸到合格零件的核心生产难题。
+
+* **🏷️ 核心话题**：#CAXA数控车编程 #RS232程序传输 #广数华中联调 #数控仿真调试
+* **📂 分类**：caxa教程
+* **📅 更新时间**：2026-03-30
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/caxa-lathe-programming-x85b.html)**
+
+---
+
 ### 📌 [ug 12.0建模三轴四轴五轴编程后处理制作全套教程](https://www.cnczxw.com/ug-multiaxis-post-mif2.html)
 
 <a href="https://www.cnczxw.com/ug-multiaxis-post-mif2.html" target="_blank" title="ug 12.0建模三轴四轴五轴编程后处理制作全套教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [CAD 2018 全流程实战全套教程](https://www.cnczxw.com/cad-drafting-mastery-o42v.html)
-
-<a href="https://www.cnczxw.com/cad-drafting-mastery-o42v.html" target="_blank" title="CAD 2018 全流程实战全套教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-171.jpg" width="300" alt="CAD 2018 全流程实战全套教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对CAD 2018软件，系统解析二维工程图全流程实战。核心聚焦于运用相对坐标与极坐标实现精准几何定位，攻克尺寸偏差与布局混乱等痛点。通过深度剖析直线、圆、修剪等工具的原理性操作，强化对坐标系的理解，旨在提升绘图效率与图纸规范性。教程涵盖从基础绘图到专业布局打印的完整闭环，适用于机械设计初学者及绘图员，通过大量实操直击制图疑难，确保输出符合工程要求的专业图纸。
-
-* **🏷️ 核心话题**：#三视图绘制 #二维制图 #坐标系应用 #布局打印
-* **📂 分类**：AutoCAD 教程
-* **📅 更新时间**：2026-03-29
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/cad-drafting-mastery-o42v.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[AutoCAD 教程]** CAD 2018 全流程实战全套教程 | `#三视图绘制` `#二维制图` `#坐标系应用` `#布局打印` | 2026-03-29 | [阅读原文](https://www.cnczxw.com/cad-drafting-mastery-o42v.html) |
 | **[AutoCAD 教程]** AutoCAD 2024从全流程实战教程 | `#CAD标准检验` `#动态输入法` `#图纸集创建` `#绘图技巧大全` | 2026-03-29 | [阅读原文](https://www.cnczxw.com/autocad-drawing-standards-zva7.html) |
 | **[UG NX 教程]** NX-2506四轴编程策略讲解20种刀轴精讲9种投影矢量进阶教程 | `#刀轴控制` `#四轴策略` `#多轴仿真` `#投影矢量` | 2026-03-29 | [阅读原文](https://www.cnczxw.com/nx-4axis-toolpath-j4ne.html) |
 | **[SolidWorks 教程]** SolidWorks曲面建模全流程实战教程 | `#STL逆向转换` `#实体曲面区分` `#曲面质量评估` `#样条曲线优化` | 2026-03-29 | [阅读原文](https://www.cnczxw.com/solidworks-surface-revers-gr55.html) |
