@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [pm 2018四轴五轴后处理宏教程](https://www.cnczxw.com/powermill-multi-axis-macr-nm7g.html)
+
+<a href="https://www.cnczxw.com/powermill-multi-axis-macr-nm7g.html" target="_blank" title="pm 2018四轴五轴后处理宏教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-198.jpg" width="300" alt="pm 2018四轴五轴后处理宏教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对PowerMill 2018四轴五轴编程后处理宏定制，提供硬核解决方案。核心聚焦于通过自定义宏指令，解决复杂零件（如叶轮）联动加工中的刀路优化、G代码精准输出及机床报警问题。教程深度解析宏记录、变量与数据类型，指导用户定制后处理逻辑，实现刀轴控制、进给率优化及干涉避让的参数化设置，从而提升程序效率与加工可靠性，摆脱手动修改G代码的低效困境。
+
+* **🏷️ 核心话题**：#刀轴矢量控制 #四轴五轴后处理 #自定义宏 #轴流叶轮加工
+* **📂 分类**：PowerMill 教程
+* **📅 更新时间**：2026-03-31
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/powermill-multi-axis-macr-nm7g.html)**
+
+---
+
 ### 📌 [CNC切削参数-理论结合实战课教程](https://www.cnczxw.com/cnc-cutting-parameters-1m9p.html)
 
 <a href="https://www.cnczxw.com/cnc-cutting-parameters-1m9p.html" target="_blank" title="CNC切削参数-理论结合实战课教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [autocad机械识图制图教程快速入门看图画图加工钣金设计三视零件装配教程](https://www.cnczxw.com/autocad-drawing-reading-li12.html)
-
-<a href="https://www.cnczxw.com/autocad-drawing-reading-li12.html" target="_blank" title="autocad机械识图制图教程快速入门看图画图加工钣金设计三视零件装配教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-182.jpg" width="300" alt="autocad机械识图制图教程快速入门看图画图加工钣金设计三视零件装配教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对机械制图与识图基础薄弱导致的加工返工痛点，系统讲解基于AutoCAD的点线面投影、三视图构建与国标规范。核心价值在于通过强化几何体识读与视图分析能力，为后续CAD设计及CNC编程（如刀路规划、干涉避让）奠定精准的图纸基础，从源头规避因视图误判、尺寸标注错误引发的加工失误与零件报废。
-
-* **🏷️ 核心话题**：#几何体识读 #国标制图规范 #截交线分析 #投影特性
-* **📂 分类**：AutoCAD 教程
-* **📅 更新时间**：2026-03-30
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/autocad-drawing-reading-li12.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[AutoCAD 教程]** autocad机械识图制图教程快速入门看图画图加工钣金设计三视零件装配教程 | `#几何体识读` `#国标制图规范` `#截交线分析` `#投影特性` | 2026-03-30 | [阅读原文](https://www.cnczxw.com/autocad-drawing-reading-li12.html) |
 | **[caxa教程]** CAXA 2015数控车编程教程 | `#CAXA数控车编程` `#RS232程序传输` `#广数华中联调` `#数控仿真调试` | 2026-03-30 | [阅读原文](https://www.cnczxw.com/caxa-lathe-programming-x85b.html) |
 | **[UG NX 教程]** ug 12.0建模三轴四轴五轴编程后处理制作全套教程 | `#RTCP功能` `#刀轴控制` `#多轴后处理定制` `#拆电极策略` | 2026-03-30 | [阅读原文](https://www.cnczxw.com/ug-multiaxis-post-mif2.html) |
 | **[Mastercam 教程]** Mastercam 2022车铣复合加工教程 | `#C轴联动` `#斜插钻孔` `#曲面精加工` `#车铣复合对刀` | 2026-03-29 | [阅读原文](https://www.cnczxw.com/mastercam-millturn-machin-ea6s.html) |
