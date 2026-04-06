@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [探针的操作编程  探头编程宏程序应用教程](https://www.cnczxw.com/probe-macro-measurement-a9ul.html)
+
+<a href="https://www.cnczxw.com/probe-macro-measurement-a9ul.html" target="_blank" title="探针的操作编程  探头编程宏程序应用教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-262.jpg" width="300" alt="探针的操作编程  探头编程宏程序应用教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对FANUC系统探针应用，深度解析宏程序编程。核心涵盖探头精准校正、刀长与偏心半径自动标定技术，并详解利用探针进行工件坐标系自动设定、XY轴特征点及角度高精度测量的宏程序逻辑与实现路径。重点解决手动对刀效率低下、测量数据不准的痛点，通过自动化测量与误差补偿程序，规避干涉风险，显著提升加工精度与产线效率。要求学习者具备G/M代码基础及探针工作原理认知。
+
+* **🏷️ 核心话题**：#宏程序应用 #探头标定 #特征点量测 #角度自动找正
+* **📂 分类**：宏程序教程
+* **📅 更新时间**：2026-04-06
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/probe-macro-measurement-a9ul.html)**
+
+---
+
 ### 📌 [mastercam 2024车铣复合教程](https://www.cnczxw.com/mastercam-lathe-mill-tp9r.html)
 
 <a href="https://www.cnczxw.com/mastercam-lathe-mill-tp9r.html" target="_blank" title="mastercam 2024车铣复合教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG 2306数控车床绘图编程到车铣复合编程教程](https://www.cnczxw.com/ug-mill-turn-programming-kjnj.html)
-
-<a href="https://www.cnczxw.com/ug-mill-turn-programming-kjnj.html" target="_blank" title="UG 2306数控车床绘图编程到车铣复合编程教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-259.jpg" width="300" alt="UG 2306数控车床绘图编程到车铣复合编程教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对UG 2306车铣复合编程核心难点，系统讲解多轴联动粗精加工策略与四轴刀轴自动避让干涉技术，杜绝过切撞刀。深度剖析法那科带Y轴车铣后处理定制、异形螺纹等高级工艺参数设置，优化刀路以提升加工效率与程序可靠性。内容从实体转换、刀具选型直达实战应用，旨在解决复杂零件编程痛点，实现高效精准加工。
-
-* **🏷️ 核心话题**：#FANUC车铣后处理 #四轴刀轴避让 #异形螺纹编程 #联动动态铣削
-* **📂 分类**：UG NX 教程
-* **📅 更新时间**：2026-04-06
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-mill-turn-programming-kjnj.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[UG NX 教程]** UG 2306数控车床绘图编程到车铣复合编程教程 | `#FANUC车铣后处理` `#四轴刀轴避让` `#异形螺纹编程` `#联动动态铣削` | 2026-04-06 | [阅读原文](https://www.cnczxw.com/ug-mill-turn-programming-kjnj.html) |
 | **[Mastercam 教程]** Mastercam-全国数控大赛-数控车-铣-案例解析教程 | `#Mastercam车铣策略` `#刀路优化提速` `#加工中心样题` `#大赛工艺分析` | 2026-04-05 | [阅读原文](https://www.cnczxw.com/mastercam-contest-strateg-9jgf.html) |
 | **[UG NX 教程]** ug 12.0车铣复合后处理制作教程 | `#XZC轴联动` `#后处理构造器` `#多轴编程` `#铣牙工艺` | 2026-04-05 | [阅读原文](https://www.cnczxw.com/ug-millturn-post-cs9s.html) |
 | **[UG NX 教程]** NX_UG 2312夹具设计与三轴工艺编程教程 | `#三轴编程` `#坐标系对刀` `#夹具设计` `#孔加工避让` | 2026-04-05 | [阅读原文](https://www.cnczxw.com/nx-fixture-3axis-bbvd.html) |
