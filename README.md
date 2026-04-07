@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [solidworks 非标设计之-公差训练教程](https://www.cnczxw.com/solidworks-tolerance-desi-04fg.html)
+
+<a href="https://www.cnczxw.com/solidworks-tolerance-desi-04fg.html" target="_blank" title="solidworks 非标设计之-公差训练教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-268.jpg" width="300" alt="solidworks 非标设计之-公差训练教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程聚焦SolidWorks非标自动化设计中的公差设定核心难题。系统讲解公差配合选择、形位公差（如同轴度、位置度）定义与应用，并深度剖析最大实体、最小实体等公差原则。通过尺寸链解算实例，指导设计师从源头进行尺寸链分析，规避装配干涉与运动卡滞，确保零件互换性与机构运行精度，从根本上减少因公差失控导致的返工与成本浪费。
+
+* **🏷️ 核心话题**：#公差配合 #尺寸链 #形位公差 #最大实体原则
+* **📂 分类**：SolidWorks 教程
+* **📅 更新时间**：2026-04-07
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/solidworks-tolerance-desi-04fg.html)**
+
+---
+
 ### 📌 [UG 2312TCL语言深入讲解三轴后处理教程](https://www.cnczxw.com/ug2312-tcl-post-1keg.html)
 
 <a href="https://www.cnczxw.com/ug2312-tcl-post-1keg.html" target="_blank" title="UG 2312TCL语言深入讲解三轴后处理教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [mastercam 2024车铣复合教程](https://www.cnczxw.com/mastercam-lathe-mill-tp9r.html)
-
-<a href="https://www.cnczxw.com/mastercam-lathe-mill-tp9r.html" target="_blank" title="mastercam 2024车铣复合教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-261.jpg" width="300" alt="mastercam 2024车铣复合教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对Mastercam 2024车铣复合编程，深度解析多轴联动与复杂曲面加工的核心痛点。重点涵盖硬核技术：通过精细化刀轴矢量控制与刀路策略优化，有效规避干涉与过切风险；详解如何依据材料与工况，科学设置切削参数（吃刀量、进给、转速），以提升金属去除率与排屑效率；同时强化后处理定制逻辑，确保G代码安全可靠，旨在实现加工效率与表面质量的协同突破，杜绝撞机隐患。
-
-* **🏷️ 核心话题**：#刀路优化 #同步避让 #多轴联动 #车铣复合
-* **📂 分类**：Mastercam 教程
-* **📅 更新时间**：2026-04-06
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/mastercam-lathe-mill-tp9r.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[Mastercam 教程]** mastercam 2024车铣复合教程 | `#刀路优化` `#同步避让` `#多轴联动` `#车铣复合` | 2026-04-06 | [阅读原文](https://www.cnczxw.com/mastercam-lathe-mill-tp9r.html) |
 | **[Vericut 教程]** VERICUT 9.0数控加工模拟仿真教程 | `#刀位文件验证` `#残料分析` `#碰撞避让` `#过切检查` | 2026-04-06 | [阅读原文](https://www.cnczxw.com/vericut-simulation-verifi-k8jo.html) |
 | **[UG NX 教程]** UG 2306数控车床绘图编程到车铣复合编程教程 | `#FANUC车铣后处理` `#四轴刀轴避让` `#异形螺纹编程` `#联动动态铣削` | 2026-04-06 | [阅读原文](https://www.cnczxw.com/ug-mill-turn-programming-kjnj.html) |
 | **[Mastercam 教程]** Mastercam-全国数控大赛-数控车-铣-案例解析教程 | `#Mastercam车铣策略` `#刀路优化提速` `#加工中心样题` `#大赛工艺分析` | 2026-04-05 | [阅读原文](https://www.cnczxw.com/mastercam-contest-strateg-9jgf.html) |
