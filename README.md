@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG新人求助：环形齿条的画法，卡壳了求大神指点！](https://www.cnczxw.com/?p=13615)
+
+<a href="https://www.cnczxw.com/?p=13615" target="_blank" title="UG新人求助：环形齿条的画法，卡壳了求大神指点！">
+  
+</a>
+
+> **📖 极客解析**：
+> 针对环形齿条建模，核心在于解决齿形沿圆周阵列与曲面贴合问题。推荐采用“规律延伸”或“投影曲线”结合“扫掠”的方法：首先在基准平面上创建精确的单个齿廓草图，然后使用“沿引导线扫掠”命令，以环形中心线为引导线扫掠齿廓，确保齿形法向始终指向圆心。关键步骤是使用“阵列特征”中的“圆形阵列”，以中心轴为旋转轴，输入精确的齿数与角度增量。为避免干涉，扫掠前需确认齿根与齿顶的过渡圆角，并使用“检查体”验证相邻齿面无重叠。参数设置上，引导线必须光顺，扫掠定位方法建议选择“弧长百分比”以保证齿形均匀分布。
+
+* **🏷️ 核心话题**：#CNC干货
+* **📂 分类**：机械软件下载
+* **📅 更新时间**：2026-04-08
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/?p=13615)**
+
+---
+
 ### 📌 [西门子数控系统840Dsl安全集成调整与维护教程](https://www.cnczxw.com/siemens-840dsl-safety-pb10.html)
 
 <a href="https://www.cnczxw.com/siemens-840dsl-safety-pb10.html" target="_blank" title="西门子数控系统840Dsl安全集成调整与维护教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [MAZAK卧式加工中心操机调机手动编程教程](https://www.cnczxw.com/mazak-manual-program-race.html)
-
-<a href="https://www.cnczxw.com/mazak-manual-program-race.html" target="_blank" title="MAZAK卧式加工中心操机调机手动编程教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-277.jpg" width="300" alt="MAZAK卧式加工中心操机调机手动编程教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程针对MAZAK卧式加工中心，深度解析其独特的对话式编程逻辑与坐标系设定，攻克从FANUC系统转型的核心痛点。重点涵盖手动编程全流程，包括程序段编辑、特殊螺纹螺距计算等硬核工艺。教程强调刀路规划中的顺逆铣辨别与参数设置，并提供关键的干涉避让策略，旨在提升学员在无CAM辅助下的现场应变能力，规避撞刀风险，实现高效精准加工。
-
-* **🏷️ 核心话题**：#MAZAK操机 #卧加坐标系 #特殊螺纹计算 #边界面铣削
-* **📂 分类**：加工中心教程
-* **📅 更新时间**：2026-04-08
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/mazak-manual-program-race.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[加工中心教程]** MAZAK卧式加工中心操机调机手动编程教程 | `#MAZAK操机` `#卧加坐标系` `#特殊螺纹计算` `#边界面铣削` | 2026-04-08 | [阅读原文](https://www.cnczxw.com/mazak-manual-program-race.html) |
 | **[UG NX 教程]** ugnx 2206三轴四轴实战教程 | `#中空连接板` `#加工模板` `#四轴联动` `#自适应铣削` | 2026-04-08 | [阅读原文](https://www.cnczxw.com/ugnx-2206-milling-0apj.html) |
 | **[UG NX 软件下载]** NX 1984下载安装教程：许可证配置与常见报错彻底解决 | `#27800@计算机名不匹配` `#NX1984下载` `#NX1984安装` `#杀毒软件冲突` `#许可证文件替换错误解决` | 2026-04-07 | [阅读原文](https://www.cnczxw.com/nx-1984-download.html) |
 | **[Mastercam 教程]** MASTERCAM 2024刀具模板带刀具库教程 | `#HSM插件` `#刀具库管理` `#刀路优化` `#程序标准化` | 2026-04-07 | [阅读原文](https://www.cnczxw.com/mastercam-tool-template-iq91.html) |
@@ -158,4 +159,3 @@
 | **[精雕软件教程]** 北京精雕自学参考指南三轴入门精通教程 | `#精雕软件安装与配置` `#三轴加工刀路优化` `#模型线条问题修复` `#精雕高低版本兼容性` `#雕刻编程实战避坑指南` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/jingdiao-3axis-toolpath-mtfb.html) |
 | **[PowerMill 教程]** powermill 2017五轴编程高级实例教程 | `#Powermill2017五轴编程` `#五轴刀轴控制与干涉规避` `#3+2编程坐标系设定` `#复杂曲面精加工策略` `#斜齿轮五轴联动实战` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/powermill-5axis-advanced-fmom.html) |
 | **[西门子系统维修]** 西门子828D系统数控机床 硬件和PLC编程教程 | `#西门子828D系统硬件组态` `#数控系统PLC梯形图编程` `#光栅尺精度补偿实战` `#3D测头应用调试` `#西门子840D系统故障诊断` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/siemens-828d-hardware-plc-wjag.html) |
-| **[Mastercam 教程]** MasterCam 2017车铣复合加工编程教程 | `#车铣复合多轴联动编程` `#螺杆精加工策略` `#Mastercam后处理定制` `#车削参数优化技巧` `#多轴旋转开粗精加工` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/mastercam-carmilling-scre-h67p.html) |
