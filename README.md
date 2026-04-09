@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [PowerMILL宏-工具栏-小工具详细使用教程](https://www.cnczxw.com/powermill-macro-optimize-2vq7.html)
+
+<a href="https://www.cnczxw.com/powermill-macro-optimize-2vq7.html" target="_blank" title="PowerMILL宏-工具栏-小工具详细使用教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-290.jpg" width="300" alt="PowerMILL宏-工具栏-小工具详细使用教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对PowerMILL高级用户，聚焦宏工具栏的定制化应用以解决实战痛点。核心硬核技术点在于：利用宏实现刀路的批量队列处理与参数高效调整，通过残留模型智能移动与自动化烂面、孔特征处理来优化刀路策略，规避过切风险。重点演示了R角最小刀具的快速判断逻辑及误删刀路的恢复技巧，旨在将编程经验固化为自动化流程，显著提升复杂零件（尤其是存在烂面、不规则R角的模具）的编程效率与加工可靠性。
+
+* **🏷️ 核心话题**：#刀路批量处理 #孔特征生成 #宏编程定制 #烂面修复技巧
+* **📂 分类**：PowerMill 教程
+* **📅 更新时间**：2026-04-09
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/powermill-macro-optimize-2vq7.html)**
+
+---
+
 ### 📌 [UG多轴宏坐标旋转后处理(多坐标类型宏可自定义输出配置)教程](https://www.cnczxw.com/ug-macro-postprocess-zzph.html)
 
 <a href="https://www.cnczxw.com/ug-macro-postprocess-zzph.html" target="_blank" title="UG多轴宏坐标旋转后处理(多坐标类型宏可自定义输出配置)教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [Creo 9.0从实战全套教程](https://www.cnczxw.com/creo-product-design-21gx.html)
-
-<a href="https://www.cnczxw.com/creo-product-design-21gx.html" target="_blank" title="Creo 9.0从实战全套教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-288.jpg" width="300" alt="Creo 9.0从实战全套教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程聚焦Creo 9.0参数化设计与实战应用，核心在于构建稳健的模型逻辑。重点解析参数化草图的精准几何约束与尺寸驱动，避免后期修改导致特征失败。深入讲解复杂实体与曲面特征的高效构建策略，确保模型质量。在多部件装配环节，强调通过约束管理与间隙分析来规避运动干涉与配合公差问题，提升协同设计效率与一次成功率，从根本上减少设计返工。
-
-* **🏷️ 核心话题**：#Creo草图约束 #产品结构 #参数化建模 #曲面造型
-* **📂 分类**：Creo 教程
-* **📅 更新时间**：2026-04-09
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/creo-product-design-21gx.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[Creo 教程]** Creo 9.0从实战全套教程 | `#Creo草图约束` `#产品结构` `#参数化建模` `#曲面造型` | 2026-04-09 | [阅读原文](https://www.cnczxw.com/creo-product-design-21gx.html) |
 | **[Vericut 教程]** VERICUT 9.22车铣复合仿真精品教程 | `#Vericut仿真` `#坐标系设定` `#角度动力头` `#车铣复合机床搭建` | 2026-04-09 | [阅读原文](https://www.cnczxw.com/vericut-multiaxis-simulat-y7rv.html) |
 | **[Mastercam 软件下载]** Mastercam2017下载安装教程：彻底解决蓝屏、许可失效等问题 | `#Mastercam2017下载` `#Mastercam2017安装` `#系统更新破解失效` `#蓝屏补丁解决` `#许可失效` | 2026-04-08 | [阅读原文](https://www.cnczxw.com/mastercam-2017-download.html) |
 | **[技术文章]** SolidWorks非标设计公差训练：规避加工风险与精度控制 | `#CNC干货` | 2026-04-08 | [阅读原文](https://www.cnczxw.com/solidworks-tolerance-design-zlva.html) |
@@ -158,4 +159,3 @@
 | **[机械软件下载]** 多岁的方式 | `#机械工程师职业规划` `#技术经验积累方法` `#机械行业持续学习` `#工程师创新能力培养` `#机械专业技能提升路径` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/%e5%a4%9a%e5%b2%81%e7%9a%84%e6%96%b9%e5%bc%8f.html) |
 | **[Mastercam 教程]** mastercam 2022三轴四轴工厂实例教程 | `#Mastercam2022四轴动态开粗` `#薄壁零件加工防变形` `#多层岛屿刀路规划` `#三轴四轴高效切换` `#工厂实例后处理优化` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/mastercam-four-axis-facto-qe8o.html) |
 | **[PowerMill 教程]** powermill 2017模具cnc数控编程自学教程入门精通到汽车模实战教程 | `#模具CNC编程实战` `#汽车模具加工` `#Powermill高效开粗策略` `#复杂曲面多轴编程` `#电极自动化编程外挂` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/powermill-mold-electrode-tn8j.html) |
-| **[UG NX 教程]** UG NX 1872多轴高级实例教程 | `#UG` `#四轴开粗与刀路合并` `#五轴机床运动学应用` `#复杂曲面引导曲线优化` `#多轴去毛刺工艺` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/ug-nx-multiaxis-wofe.html) |
