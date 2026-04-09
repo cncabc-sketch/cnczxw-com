@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [Creo 9.0从实战全套教程](https://www.cnczxw.com/creo-product-design-21gx.html)
+
+<a href="https://www.cnczxw.com/creo-product-design-21gx.html" target="_blank" title="Creo 9.0从实战全套教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-288.jpg" width="300" alt="Creo 9.0从实战全套教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程聚焦Creo 9.0参数化设计与实战应用，核心在于构建稳健的模型逻辑。重点解析参数化草图的精准几何约束与尺寸驱动，避免后期修改导致特征失败。深入讲解复杂实体与曲面特征的高效构建策略，确保模型质量。在多部件装配环节，强调通过约束管理与间隙分析来规避运动干涉与配合公差问题，提升协同设计效率与一次成功率，从根本上减少设计返工。
+
+* **🏷️ 核心话题**：#Creo草图约束 #产品结构 #参数化建模 #曲面造型
+* **📂 分类**：Creo 教程
+* **📅 更新时间**：2026-04-09
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/creo-product-design-21gx.html)**
+
+---
+
 ### 📌 [VERICUT 9.22车铣复合仿真精品教程](https://www.cnczxw.com/vericut-multiaxis-simulat-y7rv.html)
 
 <a href="https://www.cnczxw.com/vericut-multiaxis-simulat-y7rv.html" target="_blank" title="VERICUT 9.22车铣复合仿真精品教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [SolidWorks非标设计公差训练：规避加工风险与精度控制](https://www.cnczxw.com/solidworks-tolerance-design-zlva.html)
-
-<a href="https://www.cnczxw.com/solidworks-tolerance-design-zlva.html" target="_blank" title="SolidWorks非标设计公差训练：规避加工风险与精度控制">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-268.jpg" width="300" alt="SolidWorks非标设计公差训练：规避加工风险与精度控制 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本文聚焦SolidWorks非标设计公差与CNC加工协同。核心在于设计阶段运用GD&T与公差链分析，前瞻性规避累计误差导致的装配失效与加工超差。CAM环节重点警示：刀路生成公差设置不当是致命风险。公差过松将引发机床异常振动与颤纹，严重破坏表面质量与形位精度；需在CAM中精细调整至最优值，在确保加工稳定性的同时避免因公差过小导致的刀路数据冗余。本质是设计与制造环节对精度控制的深度耦合。
-
-* **🏷️ 核心话题**：#CNC干货
-* **📂 分类**：技术文章
-* **📅 更新时间**：2026-04-08
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/solidworks-tolerance-design-zlva.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[技术文章]** SolidWorks非标设计公差训练：规避加工风险与精度控制 | `#CNC干货` | 2026-04-08 | [阅读原文](https://www.cnczxw.com/solidworks-tolerance-design-zlva.html) |
 | **[机械软件下载]** UG新人求助：环形齿条的画法，卡壳了求大神指点！ | `#CNC干货` | 2026-04-08 | [阅读原文](https://www.cnczxw.com/?p=13615) |
 | **[西门子系统维修]** 西门子数控系统840Dsl安全集成调整与维护教程 | `#840Dsl安全集成` `#DMP模块诊断` `#PLC-NC交互` `#STOP ABCD配置` | 2026-04-08 | [阅读原文](https://www.cnczxw.com/siemens-840dsl-safety-pb10.html) |
 | **[UG NX 软件下载]** NX 2011 完整下载与安装指南：告别常见报错一次搞定 | `#NX2011下载` `#NX2011安装` `#NX2011许可失效解决` `#安装路径中文报错` | 2026-04-08 | [阅读原文](https://www.cnczxw.com/nx-2011-download.html) |
@@ -158,4 +159,3 @@
 | **[UG NX 教程]** UG NX 1872多轴高级实例教程 | `#UG` `#四轴开粗与刀路合并` `#五轴机床运动学应用` `#复杂曲面引导曲线优化` `#多轴去毛刺工艺` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/ug-nx-multiaxis-wofe.html) |
 | **[Mastercam 教程]** mastercam 2023数控车床教程 | `#刀路优化` `#数控车床编程` `#梯形螺纹加工` `#车削后处理` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/mastercam-turning-trapezo-nzpa.html) |
 | **[PowerMill 教程]** powermill 10.0多轴后处理制作教程 | `#三加二输出优化` `#机器运动学` `#法兰克五轴后处理` `#联动输出` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/powermill-multiaxis-postp-g05i.html) |
-| **[数控编程教程]** 数控车自学手工编程教程 | `#数控车手工编程教程` `#G代码M指令深度解析` `#对刀与加工原点设置` `#转速与走刀速度优化` `#规避过切撞机风险` | 2026-03-22 | [阅读原文](https://www.cnczxw.com/cnc-lathe-manual-programm-ii8c.html) |
