@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [走心机手工编程从G代码讲解到案例应用教程](https://www.cnczxw.com/swiss-gcode-programming-v67y.html)
+
+<a href="https://www.cnczxw.com/swiss-gcode-programming-v67y.html" target="_blank" title="走心机手工编程从G代码讲解到案例应用教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-334.jpg" width="300" alt="走心机手工编程从G代码讲解到案例应用教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对走心机手工编程的核心痛点，提供硬核技术解析。重点剖析G代码高级指令与循环，涵盖津上、西铁城等主流系统的后处理逻辑差异。深度讲解子程序编写与调用、复杂螺纹接法的精确算法，以及关键加工参数（如吃刀量）的优化设置。旨在通过理解刀路生成与机床运动逻辑，规避程序干涉与参数误设，提升复杂零件编程效率与加工可靠性。
+
+* **🏷️ 核心话题**：#G代码应用 #子程序调用 #津上后处理 #螺纹接法
+* **📂 分类**：数控编程教程
+* **📅 更新时间**：2026-04-14
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/swiss-gcode-programming-v67y.html)**
+
+---
+
 ### 📌 [UG NX四轴五轴第三节课：投影矢量类型与刀轴规避策略](https://www.cnczxw.com/projection-vector-strategy.html)
 
 <a href="https://www.cnczxw.com/projection-vector-strategy.html" target="_blank" title="UG NX四轴五轴第三节课：投影矢量类型与刀轴规避策略">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG NX四轴五轴第二节课：固定轴曲面驱动与刀轨优化策略](https://www.cnczxw.com/fixed-axis-surface-drive-ug-toolpath-optimization-multi-axis-strategies-2.html)
-
-<a href="https://www.cnczxw.com/fixed-axis-surface-drive-ug-toolpath-optimization-multi-axis-strategies-2.html" target="_blank" title="UG NX四轴五轴第二节课：固定轴曲面驱动与刀轨优化策略">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/04/cover_1776056390.jpg" width="300" alt="UG NX四轴五轴第二节课：固定轴曲面驱动与刀轨优化策略 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程聚焦UG NX固定轴曲面驱动策略，核心在于通过精准的驱动几何体选取与切削方向（顺/逆铣）设定，奠定高效加工基础。技术硬核点在于刀轴矢量控制：优先采用“法向到驱动”以优化切削性能，遇深腔或干涉风险时，需灵活切换为“指向点/线”等策略，并借助系统干涉检查功能，动态调整刀轴角度与安全距离，实现复杂曲面的无碰撞加工。同时强调通过参数迭代优化，平衡加工效率与表面质量。
-
-* **🏷️ 核心话题**：#UG多轴编程 #刀轴矢量控制 #切削路径优化 #固定轴加工 #曲面驱动策略
-* **📂 分类**：技术文章
-* **📅 更新时间**：2026-04-13
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/fixed-axis-surface-drive-ug-toolpath-optimization-multi-axis-strategies-2.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[技术文章]** UG NX四轴五轴第二节课：固定轴曲面驱动与刀轨优化策略 | `#UG多轴编程` `#刀轴矢量控制` `#切削路径优化` `#固定轴加工` `#曲面驱动策略` | 2026-04-13 | [阅读原文](https://www.cnczxw.com/fixed-axis-surface-drive-ug-toolpath-optimization-multi-axis-strategies-2.html) |
 | **[Catia 教程]** catia汽车内外饰高级教程 | `#CATIA曲面造型` `#参数化建模` `#汽车内外饰设计` `#阴模成型工艺` | 2026-04-13 | [阅读原文](https://www.cnczxw.com/catia-automotive-design-d73b.html) |
 | **[UG NX 教程]** ug高级五轴后处理制作教程 | `#MOM事件定义` `#RTCP功能配置` `#TCL语言定制` `#五轴旋转轴` | 2026-04-13 | [阅读原文](https://www.cnczxw.com/ug-5axis-postprocessor-mvnp.html) |
 | **[中望CAD]** 中望CAD 2026 机械版：下载、安装与疑难杂症全解 | `#中望CAD2026下载` `#中望CAD2026安装` `#安装中断排查` `#注册表清理` `#补丁无效解决` | 2026-04-13 | [阅读原文](https://www.cnczxw.com/zwcad-2026-download.html) |
@@ -158,4 +159,3 @@
 | **[Hypermill 教程]** hypermill 2018四轴五轴后处理教程 | `#Vericut调试` `#刀心刀尖输出` `#多轴联动优化` `#宏程序变量提取` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/hypermill-postprocessor-5-i4r9.html) |
 | **[宏程序教程]** 数控车螺纹类宏程序编程教程 | `#任意牙型螺纹` `#宏程序嵌套` `#曲线面网纹` `#椭圆车削` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/cnc-macro-thread-6k6p.html) |
 | **[UG NX 教程]** UG NX 12.0四轴一刀切高级编程教程 | `#刀路优化` `#刀轴控制` `#四轴联动` `#干涉避让` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/ug-nx-4axis-onecut-0yn9.html) |
-| **[UG NX 教程]** UG 12.0逆向工程点造型教程 | `#G3连续性` `#小平面体` `#曲面拟合` `#逆向点造型` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/ug-reverse-modeling-t4uj.html) |
