@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG NX四轴五轴第三节课：投影矢量类型与刀轴规避策略](https://www.cnczxw.com/projection-vector-strategy.html)
+
+<a href="https://www.cnczxw.com/projection-vector-strategy.html" target="_blank" title="UG NX四轴五轴第三节课：投影矢量类型与刀轴规避策略">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/04/cover_1776131668.jpg" width="300" alt="UG NX四轴五轴第三节课：投影矢量类型与刀轴规避策略 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本课聚焦UG NX多轴加工核心：投影矢量与刀轴控制。详解法向、指向点、指向线三类矢量策略，其选择直接决定刀轴与加工表面的相对姿态。重点在于通过精准设置刀轴方向（如结合倾角）优化复杂曲面切削条件，核心目标是有效规避过切、刀柄干涉及弹刀现象，从而提升加工精度与效率。掌握不同投影类型的数学逻辑与适用场景，是进行高级刀路规划与干涉避让的硬核基础。
+
+* **🏷️ 核心话题**：#UG投影矢量 #刀轴控制 #四轴编程优化 #法向加工 #过切规避
+* **📂 分类**：技术文章
+* **📅 更新时间**：2026-04-14
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/projection-vector-strategy.html)**
+
+---
+
 ### 📌 [ESPRIT 2019走心机编程教程](https://www.cnczxw.com/esprit-swiss-programming-309b.html)
 
 <a href="https://www.cnczxw.com/esprit-swiss-programming-309b.html" target="_blank" title="ESPRIT 2019走心机编程教程">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [catia汽车内外饰高级教程](https://www.cnczxw.com/catia-automotive-design-d73b.html)
-
-<a href="https://www.cnczxw.com/catia-automotive-design-d73b.html" target="_blank" title="catia汽车内外饰高级教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-327.jpg" width="300" alt="catia汽车内外饰高级教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程聚焦CATIA汽车内外饰高级实战，核心解决复杂曲面A级质量构建、大装配体管理与参数化设计流程三大痛点。通过仪表台总成等案例，深度解析如何确保曲面连续性（G2/G3）与工程精度，规避“面破裂”与装配干涉。重点传授高效的塑料件设计逻辑与阴模成型工艺优化策略，实现从造型到符合车规级标准的可制造模型转化，显著提升设计稳健性与效率。
-
-* **🏷️ 核心话题**：#CATIA曲面造型 #参数化建模 #汽车内外饰设计 #阴模成型工艺
-* **📂 分类**：Catia 教程
-* **📅 更新时间**：2026-04-13
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/catia-automotive-design-d73b.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[Catia 教程]** catia汽车内外饰高级教程 | `#CATIA曲面造型` `#参数化建模` `#汽车内外饰设计` `#阴模成型工艺` | 2026-04-13 | [阅读原文](https://www.cnczxw.com/catia-automotive-design-d73b.html) |
 | **[UG NX 教程]** ug高级五轴后处理制作教程 | `#MOM事件定义` `#RTCP功能配置` `#TCL语言定制` `#五轴旋转轴` | 2026-04-13 | [阅读原文](https://www.cnczxw.com/ug-5axis-postprocessor-mvnp.html) |
 | **[中望CAD]** 中望CAD 2026 机械版：下载、安装与疑难杂症全解 | `#中望CAD2026下载` `#中望CAD2026安装` `#安装中断排查` `#注册表清理` `#补丁无效解决` | 2026-04-13 | [阅读原文](https://www.cnczxw.com/zwcad-2026-download.html) |
 | **[西门子系统维修]** 西门子840DSL_系统学习NC功能基础调试教程 | `#DB20分配` `#G90 G91应用` `#UDT20使用` `#动态M代码` | 2026-04-13 | [阅读原文](https://www.cnczxw.com/siemens-840dsl-debug-baim.html) |
@@ -158,4 +159,3 @@
 | **[宏程序教程]** 数控车螺纹类宏程序编程教程 | `#任意牙型螺纹` `#宏程序嵌套` `#曲线面网纹` `#椭圆车削` | 2026-03-26 | [阅读原文](https://www.cnczxw.com/cnc-macro-thread-6k6p.html) |
 | **[UG NX 教程]** UG NX 12.0四轴一刀切高级编程教程 | `#刀路优化` `#刀轴控制` `#四轴联动` `#干涉避让` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/ug-nx-4axis-onecut-0yn9.html) |
 | **[UG NX 教程]** UG 12.0逆向工程点造型教程 | `#G3连续性` `#小平面体` `#曲面拟合` `#逆向点造型` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/ug-reverse-modeling-t4uj.html) |
-| **[UG NX 教程]** UG 12.0 N95口罩齿模刀模编程教程 | `#三轴转四轴编程` `#优化线开粗` `#刀口二阶加工` `#烂图修改` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/n95-mask-mold-programming-yhwh.html) |
