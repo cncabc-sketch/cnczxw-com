@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [ESPRIT 2019走心机编程教程](https://www.cnczxw.com/esprit-swiss-programming-309b.html)
+
+<a href="https://www.cnczxw.com/esprit-swiss-programming-309b.html" target="_blank" title="ESPRIT 2019走心机编程教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-333.jpg" width="300" alt="ESPRIT 2019走心机编程教程 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程针对ESPRIT 2019走心机编程，深度聚焦多轴联动与背轴加工中的硬核技术难点。核心在于通过优化C轴铣螺纹与B轴加工的刀路策略，规避联动干涉风险。教程详解自定义刀具的精准参数设置，并强化极坐标输出的后处理兼容性，旨在解决因刀路规划不当或参数错误导致的撞机与路径失效问题，从而提升复杂零件加工的实战效率与可靠性。
+
+* **🏷️ 核心话题**：#C轴铣螺纹 #极坐标输出 #自定义刀具 #走心机背轴
+* **📂 分类**：ESPRIT 教程
+* **📅 更新时间**：2026-04-14
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/esprit-swiss-programming-309b.html)**
+
+---
+
 ### 📌 [UG NX四轴五轴第二节课：固定轴曲面驱动与刀轨优化策略](https://www.cnczxw.com/fixed-axis-surface-drive-ug-toolpath-optimization-multi-axis-strategies-2.html)
 
 <a href="https://www.cnczxw.com/fixed-axis-surface-drive-ug-toolpath-optimization-multi-axis-strategies-2.html" target="_blank" title="UG NX四轴五轴第二节课：固定轴曲面驱动与刀轨优化策略">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [ug高级五轴后处理制作教程](https://www.cnczxw.com/ug-5axis-postprocessor-mvnp.html)
-
-<a href="https://www.cnczxw.com/ug-5axis-postprocessor-mvnp.html" target="_blank" title="ug高级五轴后处理制作教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/03/cover_final-326.jpg" width="300" alt="ug高级五轴后处理制作教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本教程深度解析UG/NX平台五轴后处理定制，聚焦RTCP功能调试、旋转轴转向控制等核心痛点。通过TCL语言与MOM事件应用，系统讲解三加二定位与五轴联动输出逻辑，涵盖法兰克、海德汉、西门子等主流控制器参数配置。重点剖析刀轴矢量计算、坐标系转换及旋转轴限位避让等硬核技术，旨在解决后处理中的干涉碰撞与轴限报警问题，构建稳定高效的五轴加工程序。
-
-* **🏷️ 核心话题**：#MOM事件定义 #RTCP功能配置 #TCL语言定制 #五轴旋转轴
-* **📂 分类**：UG NX 教程
-* **📅 更新时间**：2026-04-13
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-5axis-postprocessor-mvnp.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[UG NX 教程]** ug高级五轴后处理制作教程 | `#MOM事件定义` `#RTCP功能配置` `#TCL语言定制` `#五轴旋转轴` | 2026-04-13 | [阅读原文](https://www.cnczxw.com/ug-5axis-postprocessor-mvnp.html) |
 | **[中望CAD]** 中望CAD 2026 机械版：下载、安装与疑难杂症全解 | `#中望CAD2026下载` `#中望CAD2026安装` `#安装中断排查` `#注册表清理` `#补丁无效解决` | 2026-04-13 | [阅读原文](https://www.cnczxw.com/zwcad-2026-download.html) |
 | **[西门子系统维修]** 西门子840DSL_系统学习NC功能基础调试教程 | `#DB20分配` `#G90 G91应用` `#UDT20使用` `#动态M代码` | 2026-04-13 | [阅读原文](https://www.cnczxw.com/siemens-840dsl-debug-baim.html) |
 | **[UG NX 教程]** UG NX-FBM特征自动编程教程 | `#FBM特征识别` `#刀具库管理` `#孔铣参数控制` `#示教特征` | 2026-04-12 | [阅读原文](https://www.cnczxw.com/ug-nx-fbm-d2wj.html) |
@@ -158,4 +159,3 @@
 | **[UG NX 教程]** UG NX 12.0四轴一刀切高级编程教程 | `#刀路优化` `#刀轴控制` `#四轴联动` `#干涉避让` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/ug-nx-4axis-onecut-0yn9.html) |
 | **[UG NX 教程]** UG 12.0逆向工程点造型教程 | `#G3连续性` `#小平面体` `#曲面拟合` `#逆向点造型` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/ug-reverse-modeling-t4uj.html) |
 | **[UG NX 教程]** UG 12.0 N95口罩齿模刀模编程教程 | `#三轴转四轴编程` `#优化线开粗` `#刀口二阶加工` `#烂图修改` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/n95-mask-mold-programming-yhwh.html) |
-| **[UG NX 教程]** NX 12三轴四轴五轴精品教程 | `#三轴转五轴` `#多轴刀轴控制` `#流星锤加工` `#边界驱动` | 2026-03-25 | [阅读原文](https://www.cnczxw.com/nx12-multiaxis-machining-uyes.html) |
