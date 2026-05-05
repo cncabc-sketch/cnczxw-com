@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [MasterCAM自定义螺纹后处理下载 (含.psb .pst源码文件)](https://www.cnczxw.com/mastercam-custom-thread-post-download.html)
+
+<a href="https://www.cnczxw.com/mastercam-custom-thread-post-download.html" target="_blank" title="MasterCAM自定义螺纹后处理下载 (含.psb .pst源码文件)">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/04/cnc_1777035301_kpng.jpg" width="300" alt="MasterCAM自定义螺纹后处理下载 (含.psb .pst源码文件) - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 基于15年数控编程经验，该教程提供MasterCAM自定义螺纹后处理核心.pst与.psb源文件，直接操控G代码输出层。技术关键点在于：通过修改.pst中进给率计算函数与宏程序逻辑，规避F值异常；自定义抬刀逻辑避免干涉，并强制校正坐标系偏置（G54-G59）的变量映射，防止与机床参数冲突。需注意，此后处理不支持构造器可视化，必须通过文本编辑器直接优化代码以实现刀路避让与参数标准化。
+
+* **🏷️ 核心话题**：#MasterCAM后处理修改 #MasterCAM后处理参数 #MasterCAM宏程序 #MasterCAM自定义G代码 #MasterCAM螺纹后处理
+* **📂 分类**：ug后处理下载
+* **📅 更新时间**：2026-05-05
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/mastercam-custom-thread-post-download.html)**
+
+---
+
 ### 📌 [UG NX四轴五轴第十九节课：旋转部件粗加工参数精解](https://www.cnczxw.com/rotary-roughing-parameter-optimization.html)
 
 <a href="https://www.cnczxw.com/rotary-roughing-parameter-optimization.html" target="_blank" title="UG NX四轴五轴第十九节课：旋转部件粗加工参数精解">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [SolidWorks 2024基础到精通教程](https://www.cnczxw.com/solidworks-modeling-maste-tfea.html)
-
-<a href="https://www.cnczxw.com/solidworks-modeling-maste-tfea.html" target="_blank" title="SolidWorks 2024基础到精通教程">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/04/cover_final-22.jpg" width="300" alt="SolidWorks 2024基础到精通教程 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 从SolidWorks建模到CNC加工，核心瓶颈在于模型可制造性不足，而非软件操作熟练度。教程强调通过参数化草图约束与有序特征树构建“健壮模型”，本质是建立从设计到CAM的无损数据链路。应聚焦于规避装配体干涉导致的刀路撞刀风险，并利用配置和方程式实现系列化零件参数驱动，减少编程重复劳动。真正的工业级设计，必须前置考虑后处理阶段的刀轴避让与进退刀策略。
-
-* **🏷️ 核心话题**：#基体法兰 #拉伸切除 #曲面建模 #装配体设计
-* **📂 分类**：SolidWorks 教程
-* **📅 更新时间**：2026-04-27
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/solidworks-modeling-maste-tfea.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[SolidWorks 教程]** SolidWorks 2024基础到精通教程 | `#基体法兰` `#拉伸切除` `#曲面建模` `#装配体设计` | 2026-04-27 | [阅读原文](https://www.cnczxw.com/solidworks-modeling-maste-tfea.html) |
 | **[数控加工软件下载]** CALYPSO 2021三坐标软件安装部署攻略：下载、安装与常见报错终极指南 | `#CALYPSO 2021下载` `#CALYPSO 2021安装` `#CALYPSO许可证无效` `#SQL Server组件安装失败解决` `#三坐标软件安装教程` | 2026-04-27 | [阅读原文](https://www.cnczxw.com/calypso-2021-download.html) |
 | **[Mastercam 软件下载]** Moldplus 11.5 for Mastercam2021：分模插件部署全攻略 | `#Moldplus 11.5 for Mastercam2021下载` `#Moldplus 11.5 for Mastercam2021安装` `#插件路径错误排查` `#杀毒软件阻断安装解决` `#汉化文件替换失败` | 2026-04-27 | [阅读原文](https://www.cnczxw.com/moldplus-11-5-mastercam2021-download.html) |
 | **[数控加工软件下载]** Windows Defender禁用工具最新版：彻底解决安全中心干扰安装 | `#Defender自启解决` `#UAC冲突` `#Windows Defender禁用工具最新版下载` `#Windows Defender禁用工具最新版安装` `#注册表清理` | 2026-04-27 | [阅读原文](https://www.cnczxw.com/windows-defender-disable-tool-latest-download.html) |
@@ -158,4 +159,3 @@
 | **[技术文章]** SolidWorks非标设计公差训练：规避加工风险与精度控制 | `#CNC干货` | 2026-04-08 | [阅读原文](https://www.cnczxw.com/solidworks-tolerance-design-zlva.html) |
 | **[机械软件下载]** UG新人求助：环形齿条的画法，卡壳了求大神指点！ | `#CNC干货` | 2026-04-08 | [阅读原文](https://www.cnczxw.com/?p=13615) |
 | **[西门子系统维修]** 西门子数控系统840Dsl安全集成调整与维护教程 | `#840Dsl安全集成` `#DMP模块诊断` `#PLC-NC交互` `#STOP ABCD配置` | 2026-04-08 | [阅读原文](https://www.cnczxw.com/siemens-840dsl-safety-pb10.html) |
-| **[UG NX 软件下载]** NX 2011 完整下载与安装指南：告别常见报错一次搞定 | `#NX2011下载` `#NX2011安装` `#NX2011许可失效解决` `#安装路径中文报错` | 2026-04-08 | [阅读原文](https://www.cnczxw.com/nx-2011-download.html) |
