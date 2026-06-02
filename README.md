@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG2312-机器人关节支撑3+2刀路-第14款-完整编程工艺-夹具](https://www.cnczxw.com/ug2312-robot-joint-r0i3.html)
+
+<a href="https://www.cnczxw.com/ug2312-robot-joint-r0i3.html" target="_blank" title="UG2312-机器人关节支撑3+2刀路-第14款-完整编程工艺-夹具">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/wxsync-2026-06-57073647f8bf6b078bc2214f5a4ba19a.jpeg" width="300" alt="UG2312-机器人关节支撑3+2刀路-第14款-完整编程工艺-夹具 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 针对UG2312平台演示的机器人关节支撑3+2定位加工工艺，重点解析镁合金材料特性下的刀路优化与干涉避让策略。核心在于利用多角度定位装夹方案，通过精密夹具设计有效抑制复杂曲面加工中的振动与变形。刀路规划精确控制切削力与余量分布，结合参数调整实现高效排屑与散热，解决镁合金加工中的刚度与热变形问题，为异形壳体项目提供可直接复用的多轴编程实战框架。
+
+* **🏷️ 核心话题**：#3+2定位加工 #UG NX编程 #UG2312编程案例 #关节壳体加工 #刀路避让 #机器人配件加工
+* **📂 分类**：UG练习图档
+* **📅 更新时间**：2026-06-02
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug2312-robot-joint-r0i3.html)**
+
+---
+
 ### 📌 [UG2312-机器人右肩框3+2刀路-第16款-完整编程工艺-夹具](https://www.cnczxw.com/ug2312-robot-shoulder-k5mb.html)
 
 <a href="https://www.cnczxw.com/ug2312-robot-shoulder-k5mb.html" target="_blank" title="UG2312-机器人右肩框3+2刀路-第16款-完整编程工艺-夹具">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG NX四轴五轴第二十节课：旋转底面精加工策略与参数优化](https://www.cnczxw.com/rotary-surface-finish-machining.html)
-
-<a href="https://www.cnczxw.com/rotary-surface-finish-machining.html" target="_blank" title="UG NX四轴五轴第二十节课：旋转底面精加工策略与参数优化">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/05/cover_1780115468.jpg" width="300" alt="UG NX四轴五轴第二十节课：旋转底面精加工策略与参数优化 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 针对UG NX旋转底面精加工，核心在于通过精准设定A/C轴旋转中心与工件零点偏置，消除初始定位误差，避免干涉。刀路策略需依据曲面曲率动态选用流线铣或等高线，并优化步距以平衡表面质量与效率。刀轴控制采用垂直底面或朝向驱动体，结合侧倾角调整，以规避弹刀与过切。最终通过参数验证实现高精度、无振纹的多轴联动曲面加工。
-
-* **🏷️ 核心话题**：#UG多轴设置 #五轴联动编程 #弹刀规避策略 #旋转底面精加工 #曲面刀路优化
-* **📂 分类**：技术文章
-* **📅 更新时间**：2026-05-30
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/rotary-surface-finish-machining.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[技术文章]** UG NX四轴五轴第二十节课：旋转底面精加工策略与参数优化 | `#UG多轴设置` `#五轴联动编程` `#弹刀规避策略` `#旋转底面精加工` `#曲面刀路优化` | 2026-05-30 | [阅读原文](https://www.cnczxw.com/rotary-surface-finish-machining.html) |
 | **[UG练习图档]** UG2512-机器人肩关节3+2刀路-第13款-完整编程工艺-夹具 | `#3+2定位加工` `#UG NX编程` `#UG2512编程案例` `#关节壳体加工` `#刀路避让` `#机器人配件加工` | 2026-05-30 | [阅读原文](https://www.cnczxw.com/ug2512-robot-shoulder-jkog.html) |
 | **[UG练习图档]** UG2312-机器人肘腕关节3+2刀路-第10款-完整编程工艺-夹具 | `#3+2定位加工` `#UG NX编程` `#UG2312编程案例` `#关节壳体加工` `#刀路避让` `#机器人配件加工` | 2026-05-30 | [阅读原文](https://www.cnczxw.com/ug2312-robot-joint-qrzg.html) |
 | **[UG练习图档]** UG2312-机器人配件3+2刀路-第12款-完整编程工艺-夹具 | `#3+2定位加工` `#UG NX编程` `#UG2312编程案例` `#刀路避让` `#异形配件装夹` `#机器人配件加工` | 2026-05-29 | [阅读原文](https://www.cnczxw.com/ug2312-robot-fixture-eqjf.html) |
@@ -158,4 +159,3 @@
 | **[西门子系统维修]** SINUMERIK西门子840DSL 五轴机床加工教程 | `#3+2定向加工` `#TRAORI` `#刀轴控制` `#后处理优化` | 2026-04-12 | [阅读原文](https://www.cnczxw.com/sinumerik-5axis-machining-pck9.html) |
 | **[AutoCAD 教程]** CAD 2020版本  实战教程 | `#CAD绘图` `#图层管理` `#布局设置` `#批量打印` | 2026-04-11 | [阅读原文](https://www.cnczxw.com/sk64-cad-drafting-practic-f024.html) |
 | **[Mastercam 教程]** Mastercam-全国数控大赛-数控车-铣-案例解析教程 | `#Mastercam后处理` `#加工策略分析` `#大赛样题优化` `#车铣复合编程` | 2026-04-11 | [阅读原文](https://www.cnczxw.com/mastercam-cnc-contest-d7ir.html) |
-| **[SolidWorks 教程]** Solidworks非标机械自动化设计实战教程 | `#同步带应用` `#滚珠螺杆` `#轴承设计` `#齿轮选型` | 2026-04-11 | [阅读原文](https://www.cnczxw.com/solidworks-automation-des-t1os.html) |
