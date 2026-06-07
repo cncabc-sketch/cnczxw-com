@@ -6,11 +6,11 @@
 ### 📌 [UG发那科Fanuc后处理源文件18款下载，三轴四轴五轴AC/BC后处理学习资料](https://www.cnczxw.com/fanuc-post-source-files-18-pack.html)
 
 <a href="https://www.cnczxw.com/fanuc-post-source-files-18-pack.html" target="_blank" title="UG发那科Fanuc后处理源文件18款下载，三轴四轴五轴AC/BC后处理学习资料">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-20.png" width="300" alt="UG发那科Fanuc后处理源文件18款下载，三轴四轴五轴AC/BC后处理学习资料 - CNC教程">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-23.png" width="300" alt="UG发那科Fanuc后处理源文件18款下载，三轴四轴五轴AC/BC后处理学习资料 - CNC教程">
 </a>
 
 > **📖 极客解析**：
-> UG/NX Fanuc后处理源文件18款，覆盖3轴、4轴A/B、5轴AB/AC/BC/CA多构型。.def/.pui/.tcl源文件可直接拆解后处理逻辑，重点研究多轴转轴配置、刀路矢量输出及避让干涉的宏推导。公/英制双版本，适用于后处理结构逆向、界面参数调优及Fanuc系统程序格式对齐。
+> UG后处理源文件（Fanuc系统）深度解剖：涵盖三轴至五轴（AB/AC/BC/CA）结构，核心通过.tcl脚本驱动刀路输出逻辑，.def定义机床运动链与轴配置，.pui承载人机交互参数接口。重点优化多轴避让干涉点与非线性误差控制，通过定制.pst参数微调进给率、主轴转速与G代码模态。硬核调试需直接修改.tcl中的mom变量与循环跳转逻辑，重构刀路轨迹平滑化，杜绝撞刀风险。此包为后处理底层二次开发与宏程序兼容性适配提供完整参考架构。
 
 * **🏷️ 核心话题**：#AC轴 #BC轴 #Fanuc #NX #UG #三轴 #五轴 #发那科 #后处理 #四轴
 * **📂 分类**：ug后处理下载
