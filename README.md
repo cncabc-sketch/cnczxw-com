@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [hypermill 2021 马扎克三轴上机后处理下载 - hyperMILL后处理资源](https://www.cnczxw.com/h012-hypermill-postprocessor.html)
+
+<a href="https://www.cnczxw.com/h012-hypermill-postprocessor.html" target="_blank" title="hypermill 2021 马扎克三轴上机后处理下载 - hyperMILL后处理资源">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-32.png" width="300" alt="hypermill 2021 马扎克三轴上机后处理下载 - hyperMILL后处理资源 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 基于hyperMILL 2021平台，针对马扎克三轴机床的后处理配置资源。核心关注后处理文件结构解析与控制系统匹配，涉及转轴配置、程序头尾格式、换刀逻辑及圆弧/固定循环输出格式的精准定义。技术要点包括：验证后处理与机床轴向配置的对应关系，规避G代码格式冲突；优化圆弧输出精度以避免过切；前置仿真与空跑测试以排除换刀逻辑或转轴干涉风险。严禁未经验证直接上机。
+
+* **🏷️ 核心话题**：#CNC #HYPERMILL #Mazak 马扎克 #三轴 #后处理 #数控
+* **📂 分类**：hypermill后处理下载
+* **📅 更新时间**：2026-06-10
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h012-hypermill-postprocessor.html)**
+
+---
+
 ### 📌 [hypermill 2021 精雕 BC轴 后处理下载 - hyperMILL后处理资源](https://www.cnczxw.com/h011-hypermill-postprocessor.html)
 
 <a href="https://www.cnczxw.com/h011-hypermill-postprocessor.html" target="_blank" title="hypermill 2021 精雕 BC轴 后处理下载 - hyperMILL后处理资源">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [esprit森精机后处理下载 - ESPRIT后处理资源](https://www.cnczxw.com/h009-esprit-postprocessor.html)
-
-<a href="https://www.cnczxw.com/h009-esprit-postprocessor.html" target="_blank" title="esprit森精机后处理下载 - ESPRIT后处理资源">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-29.png" width="300" alt="esprit森精机后处理下载 - ESPRIT后处理资源 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 该资源包针对ESPRIT后处理结构提供深度解析，涵盖森精机多轴转轴配置、换刀逻辑及固定循环格式。技术要点包括程序头尾定制、圆弧输出精度控制及避让干涉参数优化。建议结合控制系统格式与轴向定义进行二次调参，上机前必须通过仿真与空跑验证刀路安全性，杜绝直接使用未适配参数引发的碰撞风险。
-
-* **🏷️ 核心话题**：#CNC #ESPRIT #以后处理包实际内容为准 #后处理 #数控
-* **📂 分类**：ESPRIT后处理下载
-* **📅 更新时间**：2026-06-09
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h009-esprit-postprocessor.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[ESPRIT后处理下载]** esprit森精机后处理下载 - ESPRIT后处理资源 | `#CNC` `#ESPRIT` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-09 | [阅读原文](https://www.cnczxw.com/h009-esprit-postprocessor.html) |
 | **[ESPRIT后处理下载]** esprit新代刀塔车铣复合后处理下载 - ESPRIT后处理资源 | `#CNC` `#ESPRIT` `#Syntec 新代` `#后处理` `#数控` `#车铣` | 2026-06-09 | [阅读原文](https://www.cnczxw.com/h008-esprit-postprocessor.html) |
 | **[ESPRIT后处理下载]** Esprit 马扎克 i200S 上机后处理下载 - ESPRIT后处理资源 | `#CNC` `#ESPRIT` `#Mazak 马扎克` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-09 | [阅读原文](https://www.cnczxw.com/h007-esprit-postprocessor.html) |
 | **[ESPRIT后处理下载]** esprit 发那科 三轴后处理下载 - ESPRIT后处理资源 | `#CNC` `#ESPRIT` `#Fanuc 发那科` `#三轴` `#后处理` `#数控` | 2026-06-08 | [阅读原文](https://www.cnczxw.com/h006-esprit-postprocessor.html) |
@@ -158,4 +159,3 @@
 | **[数控编程教程]** 走心机手工编程从G代码讲解到案例应用教程 | `#G代码应用` `#子程序调用` `#津上后处理` `#螺纹接法` | 2026-04-14 | [阅读原文](https://www.cnczxw.com/swiss-gcode-programming-v67y.html) |
 | **[技术文章]** UG NX四轴五轴第三节课：投影矢量类型与刀轴规避策略 | `#UG投影矢量` `#刀轴控制` `#四轴编程优化` `#法向加工` `#过切规避` | 2026-04-14 | [阅读原文](https://www.cnczxw.com/projection-vector-strategy.html) |
 | **[ESPRIT 教程]** ESPRIT 2019走心机编程教程 | `#C轴铣螺纹` `#极坐标输出` `#自定义刀具` `#走心机背轴` | 2026-04-14 | [阅读原文](https://www.cnczxw.com/esprit-swiss-programming-309b.html) |
-| **[技术文章]** UG NX四轴五轴第二节课：固定轴曲面驱动与刀轨优化策略 | `#UG多轴编程` `#刀轴矢量控制` `#切削路径优化` `#固定轴加工` `#曲面驱动策略` | 2026-04-13 | [阅读原文](https://www.cnczxw.com/fixed-axis-surface-drive-ug-toolpath-optimization-multi-axis-strategies-2.html) |
