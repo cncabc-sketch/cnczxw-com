@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG-德玛吉DMU75(AC轴)-海德汉640后处理下载 - UG / NX后处理资源](https://www.cnczxw.com/h092-ug-postprocessor.html)
+
+<a href="https://www.cnczxw.com/h092-ug-postprocessor.html" target="_blank" title="UG-德玛吉DMU75(AC轴)-海德汉640后处理下载 - UG / NX后处理资源">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-112.png" width="300" alt="UG-德玛吉DMU75(AC轴)-海德汉640后处理下载 - UG / NX后处理资源 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 基于UG/NX环境为德玛吉DMU75（AC轴）匹配海德汉640系统，该后处理核心在于精确映射AC摇篮结构运动学模型，规避逆向解算中的奇点干涉。关键在于自定义循环格式与圆弧输出路径，避免非连续跳动；通过优化程序头尾及换刀逻辑，减少空行程。必须重写RTCP参数及行程极限检查算法，需空跑验证五轴联动姿态，确保避让与刀路安全。
+
+* **🏷️ 核心话题**：#AC #CNC #Heidenhain 海德汉 #UG / NX #后处理 #数控
+* **📂 分类**：ug后处理下载
+* **📅 更新时间**：2026-06-26
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h092-ug-postprocessor.html)**
+
+---
+
 ### 📌 [UG-德国福克Fooke五轴龙门西门子840D系统-AC双摆头后处理下载 - UG / NX后处理资源](https://www.cnczxw.com/h091-ug-postprocessor.html)
 
 <a href="https://www.cnczxw.com/h091-ug-postprocessor.html" target="_blank" title="UG-德国福克Fooke五轴龙门西门子840D系统-AC双摆头后处理下载 - UG / NX后处理资源">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG-哈斯HASS 750双转台BC后处理下载 - UG / NX后处理资源](https://www.cnczxw.com/h089-ug-postprocessor.html)
-
-<a href="https://www.cnczxw.com/h089-ug-postprocessor.html" target="_blank" title="UG-哈斯HASS 750双转台BC后处理下载 - UG / NX后处理资源">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-109.png" width="300" alt="UG-哈斯HASS 750双转台BC后处理下载 - UG / NX后处理资源 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 该UG后处理针对哈斯HASS 750双转台BC结构，重点在于精准匹配RTCP算法与机床运动学模型，避免转台极限与刀轴矢量插补干涉。调试时需优化圆弧输出精度（G02/G03）、固定循环格式及刀具补偿全路径安全性。参数配置应验证B、C轴行程余量及优先级避让逻辑，以最小化非切削时间。
-
-* **🏷️ 核心话题**：#BC #CNC #Haas 哈斯 #UG / NX #后处理 #数控
-* **📂 分类**：ug后处理下载
-* **📅 更新时间**：2026-06-25
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h089-ug-postprocessor.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[ug后处理下载]** UG-哈斯HASS 750双转台BC后处理下载 - UG / NX后处理资源 | `#BC` `#CNC` `#Haas 哈斯` `#UG / NX` `#后处理` `#数控` | 2026-06-25 | [阅读原文](https://www.cnczxw.com/h089-ug-postprocessor.html) |
 | **[ug后处理下载]** UG-哈斯Haas-三四五轴后处理源文件(28款)-供学习参考使用下载 - UG / NX后处理资源 | `#CNC` `#Haas 哈斯` `#UG / NX` `#五轴` `#后处理` `#数控` | 2026-06-25 | [阅读原文](https://www.cnczxw.com/h088-ug-postprocessor.html) |
 | **[ug后处理下载]** UG-兄弟机-钻攻机后处理下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-25 | [阅读原文](https://www.cnczxw.com/h087-ug-postprocessor.html) |
 | **[ug后处理下载]** UG-3+2-BC轴后处理-定轴-联动-发那科三菱系统通用下载 - UG / NX后处理资源 | `#BC` `#CNC` `#Fanuc 发那科` `#Mitsubishi 三菱` `#UG / NX` `#后处理` `#数控` | 2026-06-24 | [阅读原文](https://www.cnczxw.com/h086-ug-postprocessor.html) |
@@ -158,4 +159,3 @@
 | **[UG练习图档]** UG2312-机器人配件3+2刀路-第12款-完整编程工艺-夹具 | `#3+2定位加工` `#UG NX编程` `#UG2312编程案例` `#刀路避让` `#异形配件装夹` `#机器人配件加工` | 2026-05-29 | [阅读原文](https://www.cnczxw.com/ug2312-robot-fixture-eqjf.html) |
 | **[UG练习图档]** UG2312-机器人配件3+2刀路-第11款-完整编程工艺-夹具 | `#3+2定位加工` `#UG NX编程` `#UG2312编程案例` `#刀路避让` `#异形配件装夹` `#机器人配件加工` | 2026-05-29 | [阅读原文](https://www.cnczxw.com/ug2312-robot-fixture-p8r7.html) |
 | **[UG练习图档]** UG2512-机器人指骨3+2刀路-第9款-完整编程工艺-夹具 | `#3+2定位加工` `#UG NX编程` `#UG2512编程案例` `#刀路避让` `#夹具定位方案` `#机器人配件加工` | 2026-05-28 | [阅读原文](https://www.cnczxw.com/ug2512-robot-finger-6czs.html) |
-| **[UG练习图档]** UG2312-机器人结构件3+2刀路-第8款-完整编程工艺-夹具 | `#3+2定位加工` `#UG NX编程` `#UG2312编程案例` `#刀路避让` `#夹具定位方案` `#机器人配件加工` | 2026-05-27 | [阅读原文](https://www.cnczxw.com/ug2312-robot-3-0sqw.html) |
