@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG-马扎克Mazak-三四五轴后处理源文件(25款)下载 - UG / NX后处理资源](https://www.cnczxw.com/h100-ug-postprocessor.html)
+
+<a href="https://www.cnczxw.com/h100-ug-postprocessor.html" target="_blank" title="UG-马扎克Mazak-三四五轴后处理源文件(25款)下载 - UG / NX后处理资源">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-120.png" width="300" alt="UG-马扎克Mazak-三四五轴后处理源文件(25款)下载 - UG / NX后处理资源 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 针对马扎克Mazak三至五轴后处理源文件，核心技术点在于转轴配置（如摆头/转台结构）与RTCP算法匹配。刀路优化需通过修改.tcl文件调整NURBS插值容差，以兼容Mazak Smooth系列的高精轮廓加工。参数设置上，重点规避圆弧输出中的I/J/K模态冲突，避免在G43.4（TCP）激活时误用固定循环（G81/G83），并通过调整TLC（刀具寿命管理）逻辑实现换刀避让干涉。建议使用前进行代码级空跑验证（M01/单段模式），实测刀尖点轨迹与机床行程极限。
+
+* **🏷️ 核心话题**：#CNC #Mazak 马扎克 #UG / NX #五轴 #后处理 #数控
+* **📂 分类**：ug后处理下载
+* **📅 更新时间**：2026-06-27
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h100-ug-postprocessor.html)**
+
+---
+
 ### 📌 [UG-西门子Siemens-三四五轴后处理源文件(18款)-供学习参考使用-下载 - UG / NX后处理资源](https://www.cnczxw.com/h099-ug-postprocessor.html)
 
 <a href="https://www.cnczxw.com/h099-ug-postprocessor.html" target="_blank" title="UG-西门子Siemens-三四五轴后处理源文件(18款)-供学习参考使用-下载 - UG / NX后处理资源">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG-牧野D500-AC轴上机后处理-发那科系统下载 - UG / NX后处理资源](https://www.cnczxw.com/h097-ug-postprocessor.html)
-
-<a href="https://www.cnczxw.com/h097-ug-postprocessor.html" target="_blank" title="UG-牧野D500-AC轴上机后处理-发那科系统下载 - UG / NX后处理资源">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-117.png" width="300" alt="UG-牧野D500-AC轴上机后处理-发那科系统下载 - UG / NX后处理资源 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 基于UG/ NX定制牧野D500-AC双转台五轴后处理，适配发那科系统。核心策略：优化刀路矢量插补，规避AC轴奇异区；精确设定PCODE参数以匹配FANUC 31i-B5格式输出，强制圆弧允差滤波；转轴避让逻辑嵌套于换刀宏，确保非切削回退轨迹与转台干涉距离≥安全阈值。
-
-* **🏷️ 核心话题**：#AC #CNC #Fanuc 发那科 #UG / NX #后处理 #数控
-* **📂 分类**：ug后处理下载
-* **📅 更新时间**：2026-06-27
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h097-ug-postprocessor.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[ug后处理下载]** UG-牧野D500-AC轴上机后处理-发那科系统下载 - UG / NX后处理资源 | `#AC` `#CNC` `#Fanuc 发那科` `#UG / NX` `#后处理` `#数控` | 2026-06-27 | [阅读原文](https://www.cnczxw.com/h097-ug-postprocessor.html) |
 | **[ug后处理下载]** UG-海德汉Heidenhain-三四五轴后处理源文件(18款)-供学习参考使用-下载 - UG / NX后处理资源 | `#CNC` `#Heidenhain 海德汉` `#UG / NX` `#五轴` `#后处理` `#数控` | 2026-06-26 | [阅读原文](https://www.cnczxw.com/h096-ug-postprocessor.html) |
 | **[ug后处理下载]** UG-海德汉-DMU50-BC五轴后处理下载 - UG / NX后处理资源 | `#BC` `#CNC` `#Heidenhain 海德汉` `#UG / NX` `#五轴` `#后处理` `#数控` | 2026-06-26 | [阅读原文](https://www.cnczxw.com/h095-ug-postprocessor.html) |
 | **[ug后处理下载]** UG-德马吉DM-200P五轴后处理下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#五轴` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-26 | [阅读原文](https://www.cnczxw.com/h094-ug-postprocessor.html) |
@@ -158,4 +159,3 @@
 | **[hypermill后处理下载]** 120款hypermill后处理OMF源代码文件下载 - hyperMILL后处理资源 | `#CNC` `#HYPERMILL` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-08 | [阅读原文](https://www.cnczxw.com/h003-hypermill-postprocessor.html) |
 | **[ug后处理下载]** UG发那科Fanuc后处理源文件18款下载，三轴四轴五轴AC/BC后处理学习资料 | `#AC轴` `#BC轴` `#Fanuc` `#NX` `#UG` `#三轴` `#五轴` `#发那科` `#后处理` `#四轴` | 2026-06-07 | [阅读原文](https://www.cnczxw.com/fanuc-post-source-files-18-pack.html) |
 | **[UG练习图档]** UG2312-机器人关节支撑3+2刀路-第14款-完整编程工艺-夹具 | `#3+2定位加工` `#UG NX编程` `#UG2312编程案例` `#关节壳体加工` `#刀路避让` `#机器人配件加工` | 2026-06-02 | [阅读原文](https://www.cnczxw.com/ug2312-robot-joint-r0i3.html) |
-| **[UG练习图档]** UG2312-机器人右肩框3+2刀路-第16款-完整编程工艺-夹具 | `#3+2定位加工` `#UG NX编程` `#UG2312编程案例` `#刀路避让` `#夹具定位方案` `#机器人配件加工` | 2026-06-01 | [阅读原文](https://www.cnczxw.com/ug2312-robot-shoulder-k5mb.html) |
