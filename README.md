@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [Cimatron15 GPP2 后处理器中文帮助文件(330页)下载 - Cimatron后处理资源](https://www.cnczxw.com/h118-cimatron-postprocessor.html)
+
+<a href="https://www.cnczxw.com/h118-cimatron-postprocessor.html" target="_blank" title="Cimatron15 GPP2 后处理器中文帮助文件(330页)下载 - Cimatron后处理资源">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-138.png" width="300" alt="Cimatron15 GPP2 后处理器中文帮助文件(330页)下载 - Cimatron后处理资源 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 基于Cimatron15 GPP2后处理器的330页中文帮助文档，聚焦刀路输出逻辑与机床控制参数的精调。核心涉及转轴矢量配置、换刀宏模板逻辑、圆弧G02/G03模态优化及固定循环格式对齐。重点在于避让干涉检查的条件定义，以及通过宏变量实现后置代码的路径精简，确保多轴联动时无过切风险。参数设置需匹配实际机床轴系与控制系统，经仿真及空跑验证后方可投产。
+
+* **🏷️ 核心话题**：#Cimatron #CNC #以后处理包实际内容为准 #后处理 #数控
+* **📂 分类**：Cimatron后处理下载
+* **📅 更新时间**：2026-07-01
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h118-cimatron-postprocessor.html)**
+
+---
+
 ### 📌 [180页-Mastercam 后处理制作PDF文档下载 - Mastercam后处理资源](https://www.cnczxw.com/h117-mastercam-postprocessor.html)
 
 <a href="https://www.cnczxw.com/h117-mastercam-postprocessor.html" target="_blank" title="180页-Mastercam 后处理制作PDF文档下载 - Mastercam后处理资源">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG马扎克INTEGREX i200双主轴车铣后处理下载 - UG / NX后处理资源](https://www.cnczxw.com/h115-ug-postprocessor.html)
-
-<a href="https://www.cnczxw.com/h115-ug-postprocessor.html" target="_blank" title="UG马扎克INTEGREX i200双主轴车铣后处理下载 - UG / NX后处理资源">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-135.png" width="300" alt="UG马扎克INTEGREX i200双主轴车铣后处理下载 - UG / NX后处理资源 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 针对马扎克INTEGREX i200双主轴车铣复合机床，该UG/NX后处理核心在于精确配置转轴协同与车铣切换逻辑。刀路优化需重点处理上下主轴同步对接时的坐标系转换与避让干涉，规避刀塔与副主轴碰撞风险。参数设置应锁定后处理中圆弧输出格式（R/IJK）及固定循环模态，避免因控制系统差异导致格式不符。实际应用前必须通过虚拟仿真与空跑验证后处理输出的换刀逻辑、安全平面及M代码序列，不可直接上机。
-
-* **🏷️ 核心话题**：#CNC #Mazak 马扎克 #UG / NX #后处理 #数控 #车铣
-* **📂 分类**：ug后处理下载
-* **📅 更新时间**：2026-06-30
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h115-ug-postprocessor.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[ug后处理下载]** UG马扎克INTEGREX i200双主轴车铣后处理下载 - UG / NX后处理资源 | `#CNC` `#Mazak 马扎克` `#UG / NX` `#后处理` `#数控` `#车铣` | 2026-06-30 | [阅读原文](https://www.cnczxw.com/h115-ug-postprocessor.html) |
 | **[ug后处理下载]** UG车铣复合后处理-XYZ轴-XYZC轴-发那科-新代通用下载 - UG / NX后处理资源 | `#CNC` `#Fanuc 发那科` `#Syntec 新代` `#UG / NX` `#后处理` `#数控` `#车铣` | 2026-06-30 | [阅读原文](https://www.cnczxw.com/h114-ug-postprocessor.html) |
 | **[ug后处理下载]** UG西门子840D AC轴后处理下载 - UG / NX后处理资源 | `#AC` `#CNC` `#Siemens 西门子` `#UG / NX` `#后处理` `#数控` | 2026-06-30 | [阅读原文](https://www.cnczxw.com/h113-ug-postprocessor.html) |
 | **[ug后处理下载]** UG米克朗MIKRON-HSM400U-3+2 后处理下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-30 | [阅读原文](https://www.cnczxw.com/h112-ug-postprocessor.html) |
@@ -158,4 +159,3 @@
 | **[hypermill后处理下载]** Hypermill 新代系统 五轴 BC 后处理下载 - hyperMILL后处理资源 | `#BC` `#CNC` `#HYPERMILL` `#Syntec 新代` `#五轴` `#后处理` `#数控` | 2026-06-11 | [阅读原文](https://www.cnczxw.com/h020-hypermill-postprocessor.html) |
 | **[hypermill后处理下载]** Hypermill 新代系统 五轴 AC 后处理下载 - hyperMILL后处理资源 | `#AC` `#CNC` `#HYPERMILL` `#Syntec 新代` `#五轴` `#后处理` `#数控` | 2026-06-11 | [阅读原文](https://www.cnczxw.com/h019-hypermill-postprocessor.html) |
 | **[hypermill后处理下载]** hypermill 四轴后处理下载 - hyperMILL后处理资源 | `#CNC` `#HYPERMILL` `#以后处理包实际内容为准` `#后处理` `#四轴` `#数控` | 2026-06-11 | [阅读原文](https://www.cnczxw.com/h018-hypermill-postprocessor.html) |
-| **[hypermill后处理下载]** hypermill 四轴 后处理-三菱-发那科通用-带omf源文件下载 - hyperMILL后处理资源 | `#CNC` `#Fanuc 发那科` `#HYPERMILL` `#Mitsubishi 三菱` `#后处理` `#四轴` `#数控` | 2026-06-11 | [阅读原文](https://www.cnczxw.com/h017-hypermill-postprocessor.html) |
