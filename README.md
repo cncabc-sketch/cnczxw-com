@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG-海德汉640-AC轴上机后处理下载 - UG / NX后处理资源](https://www.cnczxw.com/h158-ug-postprocessor.html)
+
+<a href="https://www.cnczxw.com/h158-ug-postprocessor.html" target="_blank" title="UG-海德汉640-AC轴上机后处理下载 - UG / NX后处理资源">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-178.png" width="300" alt="UG-海德汉640-AC轴上机后处理下载 - UG / NX后处理资源 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 基于UG/NX与海德汉640系统的AC轴后处理，核心在于优化摆角刀路与避免转台干涉。通过调整循环输出格式及换刀逻辑，可减少非切削空行程。需重点配置AC轴行程极限参数，防止超程撞刀。针对圆弧插补，必须校验R值与IJK模式与机床格式兼容性，并修正程序头尾的M代码序列。建议在仿真中验证转轴解算精度，规避后处理导致的机床坐标漂移。
+
+* **🏷️ 核心话题**：#AC #CNC #Heidenhain 海德汉 #UG / NX #后处理 #数控
+* **📂 分类**：ug后处理下载
+* **📅 更新时间**：2026-07-09
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h158-ug-postprocessor.html)**
+
+---
+
 ### 📌 [UG-海德汉530-BC龙门双摆头上机后处理下载 - UG / NX后处理资源](https://www.cnczxw.com/h157-ug-postprocessor.html)
 
 <a href="https://www.cnczxw.com/h157-ug-postprocessor.html" target="_blank" title="UG-海德汉530-BC龙门双摆头上机后处理下载 - UG / NX后处理资源">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG-德玛吉95-西门子840D-AC后处理下载 - UG / NX后处理资源](https://www.cnczxw.com/h155-ug-postprocessor.html)
-
-<a href="https://www.cnczxw.com/h155-ug-postprocessor.html" target="_blank" title="UG-德玛吉95-西门子840D-AC后处理下载 - UG / NX后处理资源">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-175.png" width="300" alt="UG-德玛吉95-西门子840D-AC后处理下载 - UG / NX后处理资源 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 针对德玛吉95与西门子840D的AC结构后处理，核心优化点集中于转轴配置与避让干涉逻辑。刀路优化需调整五轴联动时机，避免刀轴突变导致过切。参数设置重点是Siemens 840D特有格式如CYCL DEF、M128与TRAORI，圆弧输出需匹配AC转台方向与旋转极限，换刀逻辑要处理双主轴交换冲突。通过仿真验证后处理输出与机床行程、干涉区的匹配度，降低空跑风险。
-
-* **🏷️ 核心话题**：#AC #CNC #Siemens 西门子 #UG / NX #后处理 #数控
-* **📂 分类**：ug后处理下载
-* **📅 更新时间**：2026-07-08
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h155-ug-postprocessor.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[ug后处理下载]** UG-德玛吉95-西门子840D-AC后处理下载 - UG / NX后处理资源 | `#AC` `#CNC` `#Siemens 西门子` `#UG / NX` `#后处理` `#数控` | 2026-07-08 | [阅读原文](https://www.cnczxw.com/h155-ug-postprocessor.html) |
 | **[ug后处理下载]** UG-德玛吉50-西门子840D-BC后处理下载 - UG / NX后处理资源 | `#BC` `#CNC` `#Siemens 西门子` `#UG / NX` `#后处理` `#数控` | 2026-07-08 | [阅读原文](https://www.cnczxw.com/h154-ug-postprocessor.html) |
 | **[ug后处理下载]** UG-埃弗米GMU630-海德汉640后处理下载 - UG / NX后处理资源 | `#CNC` `#Heidenhain 海德汉` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-08 | [阅读原文](https://www.cnczxw.com/h153-ug-postprocessor.html) |
 | **[ug后处理下载]** UG-华中数控-五轴AC双转台后处理下载 - UG / NX后处理资源 | `#AC` `#CNC` `#UG / NX` `#五轴` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-08 | [阅读原文](https://www.cnczxw.com/h152-ug-postprocessor.html) |
@@ -158,4 +159,3 @@
 | **[mastercam后处理下载]** Mastercam2022-海德汉AC五轴后处理3下载 - Mastercam后处理资源 | `#AC` `#CNC` `#Heidenhain 海德汉` `#Mastercam` `#五轴` `#后处理` `#数控` | 2026-06-19 | [阅读原文](https://www.cnczxw.com/h061-mastercam-postprocessor.html) |
 | **[mastercam后处理下载]** Mastercam2022-德玛吉DMU80-海德汉530-BC轴后处理下载 - Mastercam后处理资源 | `#BC` `#CNC` `#Heidenhain 海德汉` `#Mastercam` `#后处理` `#数控` | 2026-06-19 | [阅读原文](https://www.cnczxw.com/h060-mastercam-postprocessor.html) |
 | **[mastercam后处理下载]** Mastercam2022-哈斯UMC750五轴后处理-带VT仿真文件下载 - Mastercam后处理资源 | `#CNC` `#Haas 哈斯` `#Mastercam` `#五轴` `#后处理` `#数控` | 2026-06-19 | [阅读原文](https://www.cnczxw.com/h059-mastercam-postprocessor.html) |
-| **[mastercam后处理下载]** Mastercam2022-发那科AC轴3+2坐标转换后处理下载 - Mastercam后处理资源 | `#AC` `#CNC` `#Fanuc 发那科` `#Mastercam` `#后处理` `#数控` | 2026-06-19 | [阅读原文](https://www.cnczxw.com/h058-mastercam-postprocessor.html) |
