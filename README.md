@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [Esprit 津上BO385走心机后处理下载 - ESPRIT后处理资源](https://www.cnczxw.com/h170-esprit-postprocessor.html)
+
+<a href="https://www.cnczxw.com/h170-esprit-postprocessor.html" target="_blank" title="Esprit 津上BO385走心机后处理下载 - ESPRIT后处理资源">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-190.png" width="300" alt="Esprit 津上BO385走心机后处理下载 - ESPRIT后处理资源 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本资源聚焦Esprit津上BO385走心机后处理核心结构，涵盖换刀逻辑、圆弧输出及固定循环格式的避让配置。技术要点包括：程序头尾与转轴联动参数匹配、控制系统输出格式的干涉规避策略。强调刀路优化前的空跑及仿真验证，明确不同轴向配置下的后处理参数微调方法，杜绝直接上机风险。
+
+* **🏷️ 核心话题**：#CNC #ESPRIT #以后处理包实际内容为准 #后处理 #数控
+* **📂 分类**：ESPRIT后处理下载
+* **📅 更新时间**：2026-07-11
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h170-esprit-postprocessor.html)**
+
+---
+
 ### 📌 [esprit 发那科三菱BC后处理(刀尖跟随款)下载 - ESPRIT后处理资源](https://www.cnczxw.com/h169-esprit-postprocessor.html)
 
 <a href="https://www.cnczxw.com/h169-esprit-postprocessor.html" target="_blank" title="esprit 发那科三菱BC后处理(刀尖跟随款)下载 - ESPRIT后处理资源">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [科德五轴KD_KMC600SU后处理下载 - 后处理资源](https://www.cnczxw.com/h167-post-postprocessor.html)
-
-<a href="https://www.cnczxw.com/h167-post-postprocessor.html" target="_blank" title="科德五轴KD_KMC600SU后处理下载 - 后处理资源">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-187.png" width="300" alt="科德五轴KD_KMC600SU后处理下载 - 后处理资源 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 针对科德五轴KD_KMC600SU后处理，重点解析其转轴配置与控制系统输出格式的适配逻辑。刀路优化需关注五轴联动时的非线性误差补偿，参数设置建议调整程序头尾的换刀宏与固定循环格式，避免因圆弧输出精度不足导致过切。避让干涉需结合后处理中的转台极限角与刀轴矢量约束，通过预仿真验证安全距离。
-
-* **🏷️ 核心话题**：#CNC #五轴 #以后处理包实际内容为准 #后处理 #数控
-* **📂 分类**：ug后处理下载
-* **📅 更新时间**：2026-07-11
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h167-post-postprocessor.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[ug后处理下载]** 科德五轴KD_KMC600SU后处理下载 - 后处理资源 | `#CNC` `#五轴` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-11 | [阅读原文](https://www.cnczxw.com/h167-post-postprocessor.html) |
 | **[hypermill后处理下载]** 新款-hypermill-精雕JD50-AC后处理下载 - hyperMILL后处理资源 | `#AC` `#CNC` `#HYPERMILL` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-10 | [阅读原文](https://www.cnczxw.com/h166-hypermill-postprocessor.html) |
 | **[ug后处理下载]** UG西门子828d-840d侧铣后处理下载 - UG / NX后处理资源 | `#CNC` `#Siemens 西门子` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-10 | [阅读原文](https://www.cnczxw.com/h165-ug-postprocessor.html) |
 | **[ug后处理下载]** UG-马扎克VARIAXIS C600 五轴后处理下载 - UG / NX后处理资源 | `#CNC` `#Mazak 马扎克` `#UG / NX` `#五轴` `#后处理` `#数控` | 2026-07-10 | [阅读原文](https://www.cnczxw.com/h164-ug-postprocessor.html) |
@@ -158,4 +159,3 @@
 | **[powermill后处理下载]** Powermill 铼钠克 五轴 AC 后处理（2017以上）下载 - PowerMill后处理资源 | `#AC` `#CNC` `#PowerMill` `#五轴` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-22 | [阅读原文](https://www.cnczxw.com/h072-powermill-postprocessor.html) |
 | **[ug后处理下载]** PartMaker中文版Post-后处理配置帮助文件 (220页)下载 - 后处理资源 | `#CNC` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-21 | [阅读原文](https://www.cnczxw.com/h071-post-postprocessor.html) |
 | **[ug后处理下载]** NX2206-发那科FANUC五轴AC后处理下载 - UG / NX后处理资源 | `#AC` `#CNC` `#Fanuc 发那科` `#UG / NX` `#五轴` `#后处理` `#数控` | 2026-06-21 | [阅读原文](https://www.cnczxw.com/h070-ug-postprocessor.html) |
-| **[mastercam后处理下载]** Mstercam2022侧铣头后处理-输出G17-G18-G19平面-支持发那科-三菱-新代下载 - Mastercam后处理资源 | `#CNC` `#Fanuc 发那科` `#Mastercam` `#Mitsubishi 三菱` `#Syntec 新代` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-21 | [阅读原文](https://www.cnczxw.com/h069-mastercam-postprocessor.html) |
