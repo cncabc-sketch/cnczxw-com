@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG后处理加入自己定义的注释内容下载 - UG / NX后处理资源](https://www.cnczxw.com/h206-ug-postprocessor.html)
+
+<a href="https://www.cnczxw.com/h206-ug-postprocessor.html" target="_blank" title="UG后处理加入自己定义的注释内容下载 - UG / NX后处理资源">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-226.png" width="300" alt="UG后处理加入自己定义的注释内容下载 - UG / NX后处理资源 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 该教程聚焦UG/NX后处理自定义注释嵌入技术，核心在于通过修改.tcl与.def文件，在程序头、换刀点或固定循环段插入结构化注释，以实现刀具信息、余量标注与安全提示的自动输出。重点涉及变量定义、模态输出控制与PUI参数映射，需避免注释与G代码间产生空行或格式冲突。刀路优化层面需注意圆弧输出IQM精度与转轴极限避让，防止后置时触发干涉锁定或系统报警。实际应用前必须执行机床仿真与空跑验证，特别检查多轴定义与换刀逻辑中的注释字段是否干扰M代码。
+
+* **🏷️ 核心话题**：#CNC #UG / NX #以后处理包实际内容为准 #后处理 #数控
+* **📂 分类**：ug后处理下载
+* **📅 更新时间**：2026-07-18
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h206-ug-postprocessor.html)**
+
+---
+
 ### 📌 [roeders高速机微信公众号(软件熵)下载 - UG / NX后处理资源](https://www.cnczxw.com/h205-ug-postprocessor.html)
 
 <a href="https://www.cnczxw.com/h205-ug-postprocessor.html" target="_blank" title="roeders高速机微信公众号(软件熵)下载 - UG / NX后处理资源">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [MIKRON-M128下载 - UG / NX后处理资源](https://www.cnczxw.com/h203-ug-postprocessor.html)
-
-<a href="https://www.cnczxw.com/h203-ug-postprocessor.html" target="_blank" title="MIKRON-M128下载 - UG / NX后处理资源">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/封面-268.png" width="300" alt="MIKRON-M128下载 - UG / NX后处理资源 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 针对MIKRON-M128五轴后处理资源，核心硬核点在于解析其刀路优化逻辑与干涉避让策略。参数层面需重点校核转轴配置（如A/C轴行程极限）、换刀安全点及固定循环格式（CYCLE800与CYCLE832兼容性）。圆弧输出精度需匹配机床插补容差，避免非线性误差。后处理包需解构其刀尖跟随（TCP）与RTCP算法在UG/NX中的输出映射，尤其关注Z轴零点偏移对多轴联动刀轨的影响。切勿直接上机，必须通过仿真验证退刀路径与避让角度，防止转台锁死或刀具碰撞。
-
-* **🏷️ 核心话题**：#CNC #UG / NX #以后处理包实际内容为准 #后处理 #数控
-* **📂 分类**：ug后处理下载
-* **📅 更新时间**：2026-07-18
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/h203-ug-postprocessor.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[ug后处理下载]** MIKRON-M128下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-18 | [阅读原文](https://www.cnczxw.com/h203-ug-postprocessor.html) |
 | **[ug后处理下载]** MIKRON-HSM400U-3+2下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-18 | [阅读原文](https://www.cnczxw.com/h202-ug-postprocessor.html) |
 | **[ug后处理下载]** MIKRON-3轴下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-17 | [阅读原文](https://www.cnczxw.com/h201-ug-postprocessor.html) |
 | **[ug后处理下载]** M09下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-17 | [阅读原文](https://www.cnczxw.com/h200-ug-postprocessor.html) |
@@ -158,4 +159,3 @@
 | **[ug后处理下载]** UG卧加后处理-支持定轴联动-法拉科-三菱-新代系统通用下载 - UG / NX后处理资源 | `#CNC` `#Fanuc 发那科` `#Mitsubishi 三菱` `#Syntec 新代` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-29 | [阅读原文](https://www.cnczxw.com/h108-ug-postprocessor.html) |
 | **[ug后处理下载]** UG北京精雕 通用五轴BC后处理下载 - UG / NX后处理资源 | `#BC` `#CNC` `#UG / NX` `#五轴` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-29 | [阅读原文](https://www.cnczxw.com/h107-ug-postprocessor.html) |
 | **[ug后处理下载]** UG侧铣龙门铣后处理-自动判断平面-法兰克-三菱-通用下载 - UG / NX后处理资源 | `#CNC` `#Fanuc 发那科` `#Mitsubishi 三菱` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-28 | [阅读原文](https://www.cnczxw.com/h106-ug-postprocessor.html) |
-| **[ug后处理下载]** UG三轴自定义后处理-无需使用构造器下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#三轴` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-06-28 | [阅读原文](https://www.cnczxw.com/h105-ug-postprocessor.html) |
