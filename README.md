@@ -3,6 +3,25 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [哈默 Hermle C400 五轴机床模型(STP+UG格式)下载](https://www.cnczxw.com/ug-stp-drawing-files.html)
+
+<a href="https://www.cnczxw.com/ug-stp-drawing-files.html" target="_blank" title="哈默 Hermle C400 五轴机床模型(STP+UG格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/ug-stp-drawing-files-cover-cnczxw-4.webp" width="300" alt="哈默 Hermle C400 五轴机床模型(STP+UG格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> HTTP 400 报错！
+服务器原话：{"error":{"message":"The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.","type":"invalid_request_error","param":null,"code":"invalid_request_error"}}
+
+* **🏷️ 核心话题**：#哈默HermleC400五轴机床模型STPUG格式图档 #哈默HermleC400五轴机床模型STPUG格式模型 #哈默HermleC400五轴机床模型STPUG格式练习图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-07-25
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-stp-drawing-files.html)**
+
+---
+
 ### 📌 [哈默 C650 五轴机床模型(stp格式)下载](https://www.cnczxw.com/stp-machine-drawing-2.html)
 
 <a href="https://www.cnczxw.com/stp-machine-drawing-2.html" target="_blank" title="哈默 C650 五轴机床模型(stp格式)下载">
@@ -41,29 +60,11 @@
 
 ---
 
-### 📌 [哈斯UMC-750-2021五轴模型STP格式下载](https://www.cnczxw.com/haas-umc-750-2021-5axis-model-stp-2.html)
-
-<a href="https://www.cnczxw.com/haas-umc-750-2021-5axis-model-stp-2.html" target="_blank" title="哈斯UMC-750-2021五轴模型STP格式下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-224.webp" width="300" alt="哈斯UMC-750-2021五轴模型STP格式下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> HTTP 400 报错！
-服务器原话：{"error":{"message":"The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.","type":"invalid_request_error","param":null,"code":"invalid_request_error"}}
-
-* **🏷️ 核心话题**：#哈斯UMC7502021五轴模型STP格式图档 #哈斯UMC7502021五轴模型STP格式模型 #哈斯UMC7502021五轴模型STP格式练习图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-07-25
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/haas-umc-750-2021-5axis-model-stp-2.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 哈斯UMC-750-2021五轴模型STP格式下载 | `#哈斯UMC7502021五轴模型STP格式图档` `#哈斯UMC7502021五轴模型STP格式模型` `#哈斯UMC7502021五轴模型STP格式练习图档` | 2026-07-25 | [阅读原文](https://www.cnczxw.com/haas-umc-750-2021-5axis-model-stp-2.html) |
 | **[其他软件练习图档]** 哈斯UMC-750-2019五轴模型(STP格式)下载 | `#STP格式图档` `#哈斯UMC-750-2019五轴模型(STP格式)3D图档` `#哈斯UMC-750-2019五轴模型(STP格式)STP模型` `#机械模型图档` | 2026-07-25 | [阅读原文](https://www.cnczxw.com/stp-machine-drawing.html) |
 | **[其他软件练习图档]** 哈斯UMC-750-2021五轴模型STP格式下载 | `#哈斯UMC7502021五轴模型STP格式图档` `#哈斯UMC7502021五轴模型STP格式模型` `#哈斯UMC7502021五轴模型STP格式练习图档` | 2026-07-24 | [阅读原文](https://www.cnczxw.com/haas-umc-750-2021-5axis-model-stp.html) |
 | **[其他软件练习图档]** 哈斯EC-500-50T卧式加工中心STP格式下载 | `#哈斯EC50050T卧式加工中心STP格式图档` `#哈斯EC50050T卧式加工中心STP格式模型` `#哈斯EC50050T卧式加工中心STP格式练习图档` | 2026-07-24 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-2.html) |
@@ -161,4 +162,3 @@
 | **[mastercam后处理下载]** Mastercam2022西门子840D-BC双转台五轴后处理下载 - Mastercam后处理资源 | `#BC` `#CNC` `#Mastercam` `#Siemens 西门子` `#五轴` `#后处理` `#数控` | 2026-07-06 | [阅读原文](https://www.cnczxw.com/h143-mastercam-postprocessor.html) |
 | **[mastercam后处理下载]** Mastercam2022西门子840D-AC双转台五轴后处理下载 - Mastercam后处理资源 | `#AC` `#CNC` `#Mastercam` `#Siemens 西门子` `#五轴` `#后处理` `#数控` | 2026-07-06 | [阅读原文](https://www.cnczxw.com/h142-mastercam-postprocessor.html) |
 | **[mastercam后处理下载]** Mastercam2022-马扎克QTC200MYL-双主轴车铣后处理下载 - Mastercam后处理资源 | `#CNC` `#Mastercam` `#Mazak 马扎克` `#后处理` `#数控` `#车铣` | 2026-07-05 | [阅读原文](https://www.cnczxw.com/h141-mastercam-postprocessor.html) |
-| **[mastercam后处理下载]** Mastercam2022-格劳博GA550西门子840D后处理下载 - Mastercam后处理资源 | `#CNC` `#Mastercam` `#Siemens 西门子` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-05 | [阅读原文](https://www.cnczxw.com/h140-mastercam-postprocessor.html) |
