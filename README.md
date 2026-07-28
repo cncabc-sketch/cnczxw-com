@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [德马吉 DMU 40 数控机床3D模型STP图档下载](https://www.cnczxw.com/dmu40-stp-machine-model-2.html)
+
+<a href="https://www.cnczxw.com/dmu40-stp-machine-model-2.html" target="_blank" title="德马吉 DMU 40 数控机床3D模型STP图档下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/dmu40-stp-machine-model-cover-cnczxw-2.webp" width="300" alt="德马吉 DMU 40 数控机床3D模型STP图档下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本教程核心聚焦德马吉DMU 40五轴机床STP模型的技术应用。该模型（DMU40eVo.stp）主要用于CAM仿真环境搭建及机床空间布局验证，重点在于通过观察主轴与工作台相对位置，建立多轴加工中的刀路干涉避让与装夹方向预判意识。硬核要点在于：导入UG/NX等软件后，需检查模型单位及曲面完整性，并需结合软件内置运动轴参数进行后处理配置，才能用于真实干涉检查模拟。注意该模型不含刀路与工装，切勿当作完整项目文件使用。
+
+* **🏷️ 核心话题**：#DMU40 STP模型 #五轴机床3D模型 #德马吉DMU40模型 #数控机床结构图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-07-28
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/dmu40-stp-machine-model-2.html)**
+
+---
+
 ### 📌 [德玛吉DMU 80P duoBLOCK五轴模型(STP格式)下载](https://www.cnczxw.com/stp-machine-drawing-7.html)
 
 <a href="https://www.cnczxw.com/stp-machine-drawing-7.html" target="_blank" title="德玛吉DMU 80P duoBLOCK五轴模型(STP格式)下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [德玛吉-DMU 125P3D图纸 STEP格式下载](https://www.cnczxw.com/step-drawing.html)
-
-<a href="https://www.cnczxw.com/step-drawing.html" target="_blank" title="德玛吉-DMU 125P3D图纸 STEP格式下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/dmu-step-drawing-files-cover-cnczxw-2.webp" width="300" alt="德玛吉-DMU 125P3D图纸 STEP格式下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> STEP格式德玛吉DMU125P机床模型主要提供结构参考与CAM环境搭建用途，无刀路或NC代码。导入时应重点验证单位一致性及曲面实体完整性，避免因转换导致实体破损或组件缺失。对于五轴编程练习，建议基于此模型进行毛坯摆正、坐标系设定、刀具避让干涉检查及加工区域分割的仿真验证，侧重空间布局逻辑而非切削策略优化。
-
-* **🏷️ 核心话题**：#STP格式图档 #德玛吉-DMU 125P3D图纸 STEP格式3D图档 #德玛吉-DMU 125P3D图纸 STEP格式STP模型 #机械模型图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-07-27
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/step-drawing.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 德玛吉-DMU 125P3D图纸 STEP格式下载 | `#STP格式图档` `#德玛吉-DMU 125P3D图纸 STEP格式3D图档` `#德玛吉-DMU 125P3D图纸 STEP格式STP模型` `#机械模型图档` | 2026-07-27 | [阅读原文](https://www.cnczxw.com/step-drawing.html) |
 | **[其他软件练习图档]** 德玛吉 DMU-105-MONOBLOK 五轴联动模型STP格式下载 | `#德玛吉DMU105MONOBLOK五轴联动模型STP格式图档` `#德玛吉DMU105MONOBLOK五轴联动模型STP格式模型` `#德玛吉DMU105MONOBLOK五轴联动模型STP格式练习图档` | 2026-07-27 | [阅读原文](https://www.cnczxw.com/dmu-stp-drawing-files-2.html) |
 | **[其他软件练习图档]** 德玛吉 95monoBLOCK 五轴联动模型(STP格式)下载 | `#STP格式图档` `#德玛吉 95monoBLOCK 五轴联动模型(STP格式)3D图档` `#德玛吉 95monoBLOCK 五轴联动模型(STP格式)STP模型` `#机械模型图档` | 2026-07-27 | [阅读原文](https://www.cnczxw.com/stp-machine-drawing-5.html) |
 | **[其他软件练习图档]** 德玛吉 65monoBLOCK 五轴联动模型(STP格式)下载 | `#STP格式图档` `#德玛吉 65monoBLOCK 五轴联动模型(STP格式)3D图档` `#德玛吉 65monoBLOCK 五轴联动模型(STP格式)STP模型` `#机械模型图档` | 2026-07-26 | [阅读原文](https://www.cnczxw.com/stp-machine-drawing-4.html) |
@@ -158,4 +159,3 @@
 | **[ug后处理下载]** UG-德玛吉50-西门子840D-BC后处理下载 - UG / NX后处理资源 | `#BC` `#CNC` `#Siemens 西门子` `#UG / NX` `#后处理` `#数控` | 2026-07-08 | [阅读原文](https://www.cnczxw.com/h154-ug-postprocessor.html) |
 | **[ug后处理下载]** UG-埃弗米GMU630-海德汉640后处理下载 - UG / NX后处理资源 | `#CNC` `#Heidenhain 海德汉` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-08 | [阅读原文](https://www.cnczxw.com/h153-ug-postprocessor.html) |
 | **[ug后处理下载]** UG-华中数控-五轴AC双转台后处理下载 - UG / NX后处理资源 | `#AC` `#CNC` `#UG / NX` `#五轴` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-08 | [阅读原文](https://www.cnczxw.com/h152-ug-postprocessor.html) |
-| **[ug后处理下载]** UG-兄弟M200车铣复合五轴后处理下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#五轴` `#以后处理包实际内容为准` `#后处理` `#数控` `#车铣` | 2026-07-07 | [阅读原文](https://www.cnczxw.com/h151-ug-postprocessor.html) |
