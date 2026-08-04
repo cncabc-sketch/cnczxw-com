@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [玉兔呈祥摆件(STP图档)下载](https://www.cnczxw.com/stp-drawing-13.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-13.html" target="_blank" title="玉兔呈祥摆件(STP图档)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-191.webp" width="300" alt="玉兔呈祥摆件(STP图档)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本资源为玉兔呈祥摆件STP中性格式模型，核心价值在于CAD/CAM导入验证与结构拆分。技术要点：先以Parasolid内核解析曲面连续性，重点核查单位制（公/英制）及装配约束继承状态。编程实战时需自建毛坯坐标系，规避兔耳、尾部等薄壁区域的让刀干涉，并依据曲面曲率变化动态调整进给率。注意STP转换易丢失拓扑关系，务必用几何检查器扫描缝隙与法向反转，防止CAM刀轨过切。该文件无NC程序，适合作刀路规划及碰撞避让验证的测试基板。
+
+* **🏷️ 核心话题**：#STP格式图档 #机械模型图档 #玉兔呈祥摆件(STP图档)3D图档 #玉兔呈祥摆件(STP图档)STP模型
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-04
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-13.html)**
+
+---
+
 ### 📌 [牛发飙-3D模型-附下载链接STP格式下载](https://www.cnczxw.com/niu-fa-biao-3d-model-stp-download.html)
 
 <a href="https://www.cnczxw.com/niu-fa-biao-3d-model-stp-download.html" target="_blank" title="牛发飙-3D模型-附下载链接STP格式下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [李小龙雕塑图档(stp格式)下载](https://www.cnczxw.com/stp-drawing-11.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-11.html" target="_blank" title="李小龙雕塑图档(stp格式)下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-188.webp" width="300" alt="李小龙雕塑图档(stp格式)下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> STP中性格式仅存几何拓扑，无PMI与工艺信息，需在CAM前置处理中重构毛坯坐标系，规避雕塑曲面多轴加工的干涉风险。验证重点聚焦曲面缝合公差与实体转换成功率，防止导入后产生缝隙导致刀路过切。按UG NX或Mastercam的刀轴矢量化策略，对陡峭区与平缓区分别匹配摆线加工与等高精加工，并预留0.2mm余量做残料二次清根。文件未含NC程序，需自行规划从粗加工动态铣削到精加工流线驱动的完整刀路链，重点测试刀具避让与机床行程极限。
-
-* **🏷️ 核心话题**：#STP格式图档 #机械模型图档 #李小龙雕塑图档(stp格式)3D图档 #李小龙雕塑图档(stp格式)STP模型
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-04
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-11.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 李小龙雕塑图档(stp格式)下载 | `#STP格式图档` `#机械模型图档` `#李小龙雕塑图档(stp格式)3D图档` `#李小龙雕塑图档(stp格式)STP模型` | 2026-08-04 | [阅读原文](https://www.cnczxw.com/stp-drawing-11.html) |
 | **[其他软件练习图档]** 最新12生肖 立体模型stp格式下载 | `#最新12生肖立体模型stp格式图档` `#最新12生肖立体模型stp格式模型` `#最新12生肖立体模型stp格式练习图档` | 2026-08-03 | [阅读原文](https://www.cnczxw.com/latest-12-zodiac-3d-model.html) |
 | **[其他软件练习图档]** 新款-祈福观音-3D图档-(STP格式)下载 | `#STP格式图档` `#新款-祈福观音-3D图档-(STP格式)3D图档` `#新款-祈福观音-3D图档-(STP格式)STP模型` `#机械模型图档` | 2026-08-03 | [阅读原文](https://www.cnczxw.com/stp-drawing-10.html) |
 | **[其他软件练习图档]** 招财进宝-财神爷3d高质量图档stp格式下载 | `#招财进宝财神爷3d高质量图档stp格式图档` `#招财进宝财神爷3d高质量图档stp格式模型` `#招财进宝财神爷3d高质量图档stp格式练习图档` | 2026-08-03 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-16.html) |
@@ -158,4 +159,3 @@
 | **[ug后处理下载]** FANUC-3轴下载 - UG / NX后处理资源 | `#CNC` `#Fanuc 发那科` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-16 | [阅读原文](https://www.cnczxw.com/h192-ug-postprocessor.html) |
 | **[ug后处理下载]** DMG后处理下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-15 | [阅读原文](https://www.cnczxw.com/h191-ug-postprocessor.html) |
 | **[Cimatron后处理下载]** Cimatron12.0的后处理post下载 - Cimatron后处理资源 | `#Cimatron` `#CNC` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-15 | [阅读原文](https://www.cnczxw.com/h190-cimatron-postprocessor.html) |
-| **[ug后处理下载]** 802D西门子后处理带刀补siemens下载 - UG / NX后处理资源 | `#CNC` `#Siemens 西门子` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-15 | [阅读原文](https://www.cnczxw.com/h189-ug-postprocessor.html) |
