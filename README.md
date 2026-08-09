@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [35款 经典战斗机合集(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-files-29.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-files-29.html" target="_blank" title="35款 经典战斗机合集(STP+SW格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-206.webp" width="300" alt="35款 经典战斗机合集(STP+SW格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本套35款经典战斗机模型合集包含289个实体文件，覆盖PRT、STP、STEP、X_T、IGS及SLDPRT多格式，适配UG/NX、Mastercam、Creo等主流CAM平台。模型以装配体（_asm）为核心，适合复杂腔体加工识图、工装装夹方案验证及多轴刀路干涉避让预演。建议编程员重点利用装配约束关系，分析毛坯定位基准与刀具避让空间，规避深腔区域碰撞风险。
+
+* **🏷️ 核心话题**：#35款经典战斗机合集STPSW格式图档 #35款经典战斗机合集STPSW格式模型 #35款经典战斗机合集STPSW格式练习图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-09
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-files-29.html)**
+
+---
+
 ### 📌 [28款 跑车3D 图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-files-28.html)
 
 <a href="https://www.cnczxw.com/stp-drawing-files-28.html" target="_blank" title="28款 跑车3D 图档(STP+SW格式)下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [25款 路虎-奥迪-本田-福特 3D模型(STP格式+SW格式)下载](https://www.cnczxw.com/stp-drawing-files-26.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-files-26.html" target="_blank" title="25款 路虎-奥迪-本田-福特 3D模型(STP格式+SW格式)下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-203.webp" width="300" alt="25款 路虎-奥迪-本田-福特 3D模型(STP格式+SW格式)下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 25款路虎/奥迪/本田/福特3D模型包（STP/STEP/X_T/IGS/SLDPRT，76个模型文件，1.35GB）适合作数控编程前工艺分析。重点检查中性格式的单位一致性与实体转换完整性，利用SLDASM装配体验证装夹坐标系及工装定位关系。建议按模型结构拆分→装配约束识别→刀路避让空间预判的路径推进，但需注意压缩包未含NC程序，刀路优化参数与干涉规避策略需结合自有CAM环境独立验证。
-
-* **🏷️ 核心话题**：#25款路虎奥迪本田福特3D模型STP格式SW格式图档 #25款路虎奥迪本田福特3D模型STP格式SW格式模型 #25款路虎奥迪本田福特3D模型STP格式SW格式练习图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-08
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-files-26.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 25款 路虎-奥迪-本田-福特 3D模型(STP格式+SW格式)下载 | `#25款路虎奥迪本田福特3D模型STP格式SW格式图档` `#25款路虎奥迪本田福特3D模型STP格式SW格式模型` `#25款路虎奥迪本田福特3D模型STP格式SW格式练习图档` | 2026-08-08 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-26.html) |
 | **[其他软件练习图档]** 22款-保时捷-法拉利豪车(STP格式+SW格式)下载 | `#22款保时捷法拉利豪车STP格式SW格式图档` `#22款保时捷法拉利豪车STP格式SW格式模型` `#22款保时捷法拉利豪车STP格式SW格式练习图档` | 2026-08-08 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-25.html) |
 | **[其他软件练习图档]** 22款 宝马奔驰 3D模型(STP格式+SW格式)下载 | `#22款宝马奔驰3D模型STP格式SW格式图档` `#22款宝马奔驰3D模型STP格式SW格式模型` `#22款宝马奔驰3D模型STP格式SW格式练习图档` | 2026-08-08 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-24.html) |
 | **[其他软件练习图档]** 20款 兰博基尼-特斯拉-雪佛兰-尼桑-丰田 3D模型(STP格式+SW格式)下载 | `#20款兰博基尼特斯拉雪佛兰尼桑丰田3D模型STP格式SW格式练习图档` | 2026-08-08 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-23.html) |
@@ -158,4 +159,3 @@
 | **[ug后处理下载]** 三轴三菱M70V系统带刀库坐标默认G54后处理（包括无转速报警提示）带刀库！带半径补偿！带无转速报警下载 - UG / NX后处理资源 | `#CNC` `#Mitsubishi 三菱` `#UG / NX` `#三轴` `#后处理` `#数控` | 2026-07-20 | [阅读原文](https://www.cnczxw.com/h215-ug-postprocessor.html) |
 | **[ug后处理下载]** 三菱4A轴后处理微信公众号(软件熵)下载 - UG / NX后处理资源 | `#A轴` `#CNC` `#Mitsubishi 三菱` `#UG / NX` `#后处理` `#数控` | 2026-07-20 | [阅读原文](https://www.cnczxw.com/h214-ug-postprocessor.html) |
 | **[ug后处理下载]** 三菱(带刀库)下载 - UG / NX后处理资源 | `#CNC` `#Mitsubishi 三菱` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-20 | [阅读原文](https://www.cnczxw.com/h213-ug-postprocessor.html) |
-| **[ug后处理下载]** 三菱(不带刀库)下载 - UG / NX后处理资源 | `#CNC` `#Mitsubishi 三菱` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-20 | [阅读原文](https://www.cnczxw.com/h212-ug-postprocessor.html) |
