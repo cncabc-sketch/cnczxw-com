@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [165套冲压模具资料合集-冲压图档-设计手册-GB标准下载](https://www.cnczxw.com/drawing-files-2.html)
+
+<a href="https://www.cnczxw.com/drawing-files-2.html" target="_blank" title="165套冲压模具资料合集-冲压图档-设计手册-GB标准下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/drawing-files-cover-cnczxw-31.webp" width="300" alt="165套冲压模具资料合集-冲压图档-设计手册-GB标准下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本资料包以315个模型文件及188份PDF为核心，侧重冲压模具结构认知与工艺分析，非直接编程用。硬核要点在于：优先筛选含装配关系（ASM）及夹具（setup）信号文件，用于分析装夹方向与坐标设定。处理STP/IGS中性格式时，必须核查单位制及实体转换完整性，避免因公差丢失导致刀路计算偏差。建议结合UG/NX或Mastercam进行图档预处理，重点验证工装定位与避让干涉区，为后续编程策略提供几何依据。
+
+* **🏷️ 核心话题**：#165套冲压模具资料合集冲压图档设计手册GB标准图档 #165套冲压模具资料合集冲压图档设计手册GB标准模型 #165套冲压模具资料合集冲压图档设计手册GB标准练习图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-10
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/drawing-files-2.html)**
+
+---
+
 ### 📌 [156套-UG铜材电极铜公-带刀路完整图档下载](https://www.cnczxw.com/ug-drawing-files-8.html)
 
 <a href="https://www.cnczxw.com/ug-drawing-files-8.html" target="_blank" title="156套-UG铜材电极铜公-带刀路完整图档下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [30款 经典虎钳3D 图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-files-32.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-files-32.html" target="_blank" title="30款 经典虎钳3D 图档(STP+SW格式)下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-209.webp" width="300" alt="30款 经典虎钳3D 图档(STP+SW格式)下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 该资源为虎钳类装配体图档集合，含STP/STEP/X_T等中性格式及SLDPRT源文件，共311个模型，无NC刀路。核心价值在于工装装夹分析与装配关系验证，可模拟钳口定位面及压紧点坐标设定。使用时应优先校验单位制（公/英制）及曲面转换完整性，防止CAM编程时产生微量过切或干涉误判。建议按“装配约束分析→夹持方向判定→避让区预规划”流程进行工艺推演。
-
-* **🏷️ 核心话题**：#30款经典虎钳3D图档STPSW格式图档 #30款经典虎钳3D图档STPSW格式模型 #30款经典虎钳3D图档STPSW格式练习图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-10
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-files-32.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 30款 经典虎钳3D 图档(STP+SW格式)下载 | `#30款经典虎钳3D图档STPSW格式图档` `#30款经典虎钳3D图档STPSW格式模型` `#30款经典虎钳3D图档STPSW格式练习图档` | 2026-08-10 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-32.html) |
 | **[其他软件练习图档]** 22套仿生多足机器人STP格式下载 | `#22套仿生多足机器人STP格式图档` `#22套仿生多足机器人STP格式模型` `#22套仿生多足机器人STP格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-31.html) |
 | **[其他软件练习图档]** b-战斗机、航母、坦克模型3D图纸合集（23套）下载 | `#b战斗机航母坦克模型3D图纸合集23套图档` `#b战斗机航母坦克模型3D图纸合集23套模型` `#b战斗机航母坦克模型3D图纸合集23套练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/drawing-files.html) |
 | **[其他软件练习图档]** 36套 精品摩托3D模型 STP格式下载 | `#36套精品摩托3D模型STP格式图档` `#36套精品摩托3D模型STP格式模型` `#36套精品摩托3D模型STP格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-30.html) |
@@ -158,4 +159,3 @@
 | **[ug后处理下载]** 法兰克三菱m70后处理下载 - UG / NX后处理资源 | `#CNC` `#Fanuc 发那科` `#Mitsubishi 三菱` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-22 | [阅读原文](https://www.cnczxw.com/h222-ug-postprocessor.html) |
 | **[ug后处理下载]** 最智能豪华版UG_NX后处理器下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-21 | [阅读原文](https://www.cnczxw.com/h221-ug-postprocessor.html) |
 | **[ug后处理下载]** 支持G17G18G19及G54-G59后处理-侧铣头-加刀具信息下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-21 | [阅读原文](https://www.cnczxw.com/h220-ug-postprocessor.html) |
-| **[ug后处理下载]** 哈斯后处理微信公众号(软件熵)下载 - UG / NX后处理资源 | `#CNC` `#Haas 哈斯` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-21 | [阅读原文](https://www.cnczxw.com/h219-ug-postprocessor.html) |
