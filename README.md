@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [168套UG小五金件-工厂带刀路图档下载](https://www.cnczxw.com/ug-toolpath-drawing.html)
+
+<a href="https://www.cnczxw.com/ug-toolpath-drawing.html" target="_blank" title="168套UG小五金件-工厂带刀路图档下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/ug-drawing-files-cover-cnczxw-67.webp" width="300" alt="168套UG小五金件-工厂带刀路图档下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 168套UG小五金件工厂图档，含PRT模型与NC刀路，核心价值在于腔体编程与装夹工艺复盘。建议按“主模型→装配ASM→工装SETUP→刀路NC”层级检查，重点验证坐标系与毛坯摆放是否匹配实际装夹，规避干涉风险。针对文件命名中的版本信号（如20161121），优先选用高版本UG打开以保参，导入时留意单位换算与曲面缝隙，防止实体转换失败导致刀轨失真。
+
+* **🏷️ 核心话题**：#168套UG小五金件-工厂带刀路图档图档 #168套UG小五金件-工厂带刀路图档练习图档 #NX加工图档 #UG图档资源
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-10
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-toolpath-drawing.html)**
+
+---
+
 ### 📌 [165套冲压模具资料合集-冲压图档-设计手册-GB标准下载](https://www.cnczxw.com/drawing-files-2.html)
 
 <a href="https://www.cnczxw.com/drawing-files-2.html" target="_blank" title="165套冲压模具资料合集-冲压图档-设计手册-GB标准下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [78套 震动盘 3D图档(stp+sw格式)下载](https://www.cnczxw.com/stp-drawing-files-33.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-files-33.html" target="_blank" title="78套 震动盘 3D图档(stp+sw格式)下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-210.webp" width="300" alt="78套 震动盘 3D图档(stp+sw格式)下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 该资源本质为5798个模型文件的装配体与工装夹具图档集，非编程刀路库。技术要点在于：利用STP/STEP中性格式做跨软件拓扑验证，重点检查单位制（公/英制）与曲面转换完整性；依据setup/asm命名规则逆向反推定位基准与装夹方案，适合做CAM编程前的工艺分析、坐标建立及干涉规避预演。无NC程序，不可用于刀路参数对比或后处理验证。
-
-* **🏷️ 核心话题**：#78套震动盘3D图档stpsw格式图档 #78套震动盘3D图档stpsw格式模型 #78套震动盘3D图档stpsw格式练习图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-10
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-files-33.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 78套 震动盘 3D图档(stp+sw格式)下载 | `#78套震动盘3D图档stpsw格式图档` `#78套震动盘3D图档stpsw格式模型` `#78套震动盘3D图档stpsw格式练习图档` | 2026-08-10 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-33.html) |
 | **[其他软件练习图档]** 30款 经典虎钳3D 图档(STP+SW格式)下载 | `#30款经典虎钳3D图档STPSW格式图档` `#30款经典虎钳3D图档STPSW格式模型` `#30款经典虎钳3D图档STPSW格式练习图档` | 2026-08-10 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-32.html) |
 | **[其他软件练习图档]** 22套仿生多足机器人STP格式下载 | `#22套仿生多足机器人STP格式图档` `#22套仿生多足机器人STP格式模型` `#22套仿生多足机器人STP格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-31.html) |
 | **[其他软件练习图档]** b-战斗机、航母、坦克模型3D图纸合集（23套）下载 | `#b战斗机航母坦克模型3D图纸合集23套图档` `#b战斗机航母坦克模型3D图纸合集23套模型` `#b战斗机航母坦克模型3D图纸合集23套练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/drawing-files.html) |
@@ -158,4 +159,3 @@
 | **[ug后处理下载]** 法那科-三菱通用三轴后处理下载 - UG / NX后处理资源 | `#CNC` `#Mitsubishi 三菱` `#UG / NX` `#三轴` `#后处理` `#数控` | 2026-07-22 | [阅读原文](https://www.cnczxw.com/h223-ug-postprocessor.html) |
 | **[ug后处理下载]** 法兰克三菱m70后处理下载 - UG / NX后处理资源 | `#CNC` `#Fanuc 发那科` `#Mitsubishi 三菱` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-22 | [阅读原文](https://www.cnczxw.com/h222-ug-postprocessor.html) |
 | **[ug后处理下载]** 最智能豪华版UG_NX后处理器下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-21 | [阅读原文](https://www.cnczxw.com/h221-ug-postprocessor.html) |
-| **[ug后处理下载]** 支持G17G18G19及G54-G59后处理-侧铣头-加刀具信息下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-21 | [阅读原文](https://www.cnczxw.com/h220-ug-postprocessor.html) |
