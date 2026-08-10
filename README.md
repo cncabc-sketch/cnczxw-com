@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [78套 震动盘 3D图档(stp+sw格式)下载](https://www.cnczxw.com/stp-drawing-files-33.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-files-33.html" target="_blank" title="78套 震动盘 3D图档(stp+sw格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-210.webp" width="300" alt="78套 震动盘 3D图档(stp+sw格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 该资源本质为5798个模型文件的装配体与工装夹具图档集，非编程刀路库。技术要点在于：利用STP/STEP中性格式做跨软件拓扑验证，重点检查单位制（公/英制）与曲面转换完整性；依据setup/asm命名规则逆向反推定位基准与装夹方案，适合做CAM编程前的工艺分析、坐标建立及干涉规避预演。无NC程序，不可用于刀路参数对比或后处理验证。
+
+* **🏷️ 核心话题**：#78套震动盘3D图档stpsw格式图档 #78套震动盘3D图档stpsw格式模型 #78套震动盘3D图档stpsw格式练习图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-10
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-files-33.html)**
+
+---
+
 ### 📌 [30款 经典虎钳3D 图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-files-32.html)
 
 <a href="https://www.cnczxw.com/stp-drawing-files-32.html" target="_blank" title="30款 经典虎钳3D 图档(STP+SW格式)下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [b-战斗机、航母、坦克模型3D图纸合集（23套）下载](https://www.cnczxw.com/drawing-files.html)
-
-<a href="https://www.cnczxw.com/drawing-files.html" target="_blank" title="b-战斗机、航母、坦克模型3D图纸合集（23套）下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/drawing-files-cover-cnczxw-30.webp" width="300" alt="b-战斗机、航母、坦克模型3D图纸合集（23套）下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本套23套航空/装甲类模型图档（994文件/625MB）为典型逆向或结构设计练习包，非CAM编程包。核心价值在于文件格式多样（含PRT、STP、X_T），可重点训练刀路规划前的毛坯定义与坐标设定。建议优先处理X_T与STEP中性档，核查单位制（英制/公制）及实体缝合状态，避免CAM编程时因拓扑错误导致过切。内含装配体（SLDASM）及工装（setup）信号，可用作多轴加工避让干涉（动态间隙检查）和装夹方案验证的参考模型。
-
-* **🏷️ 核心话题**：#b战斗机航母坦克模型3D图纸合集23套图档 #b战斗机航母坦克模型3D图纸合集23套模型 #b战斗机航母坦克模型3D图纸合集23套练习图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-09
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/drawing-files.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** b-战斗机、航母、坦克模型3D图纸合集（23套）下载 | `#b战斗机航母坦克模型3D图纸合集23套图档` `#b战斗机航母坦克模型3D图纸合集23套模型` `#b战斗机航母坦克模型3D图纸合集23套练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/drawing-files.html) |
 | **[其他软件练习图档]** 36套 精品摩托3D模型 STP格式下载 | `#36套精品摩托3D模型STP格式图档` `#36套精品摩托3D模型STP格式模型` `#36套精品摩托3D模型STP格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-30.html) |
 | **[其他软件练习图档]** 35款 经典战斗机合集(STP+SW格式)下载 | `#35款经典战斗机合集STPSW格式图档` `#35款经典战斗机合集STPSW格式模型` `#35款经典战斗机合集STPSW格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-29.html) |
 | **[其他软件练习图档]** 28款 跑车3D 图档(STP+SW格式)下载 | `#28款跑车3D图档STPSW格式图档` `#28款跑车3D图档STPSW格式模型` `#28款跑车3D图档STPSW格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-28.html) |
@@ -158,4 +159,3 @@
 | **[ug后处理下载]** 支持G17G18G19及G54-G59后处理-侧铣头-加刀具信息下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-21 | [阅读原文](https://www.cnczxw.com/h220-ug-postprocessor.html) |
 | **[ug后处理下载]** 哈斯后处理微信公众号(软件熵)下载 - UG / NX后处理资源 | `#CNC` `#Haas 哈斯` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-21 | [阅读原文](https://www.cnczxw.com/h219-ug-postprocessor.html) |
 | **[ug后处理下载]** 后处理文件通用下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-21 | [阅读原文](https://www.cnczxw.com/h218-ug-postprocessor.html) |
-| **[ug后处理下载]** 后处理下载 - UG / NX后处理资源 | `#CNC` `#UG / NX` `#以后处理包实际内容为准` `#后处理` `#数控` | 2026-07-21 | [阅读原文](https://www.cnczxw.com/h217-ug-postprocessor.html) |
