@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [50款 叶轮模型合集 (STP+UG格式)下载](https://www.cnczxw.com/ug-stp-drawing-files-2.html)
+
+<a href="https://www.cnczxw.com/ug-stp-drawing-files-2.html" target="_blank" title="50款 叶轮模型合集 (STP+UG格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/ug-stp-drawing-files-cover-cnczxw-4.webp" width="300" alt="50款 叶轮模型合集 (STP+UG格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 该资源为53个叶轮模型（含PRT/STP/STEP/IGS/SLDPRT多格式），侧重三维识图与工艺预处理，未含刀路及工装文件。建议优先用UG NX/Mastercam核查中性格式（STP/STEP）的单位一致性及曲面缝合精度，避免转换失真。练习重点应放在零件装夹方向判定、流道结构拆分及刀具可达性预分析，为后续多轴刀路编程（如变轴粗铣、清根策略）奠定数据基础，切勿直接套用默认加工参数。
+
+* **🏷️ 核心话题**：#50款叶轮模型合集STPUG格式图档 #50款叶轮模型合集STPUG格式模型 #50款叶轮模型合集STPUG格式练习图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-15
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-stp-drawing-files-2.html)**
+
+---
+
 ### 📌 [40款 头盔 合集(stp+SW格式)下载](https://www.cnczxw.com/stp-drawing-files-41.html)
 
 <a href="https://www.cnczxw.com/stp-drawing-files-41.html" target="_blank" title="40款 头盔 合集(stp+SW格式)下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [28款 坦克 战车 第一弹 合集stp格式下载](https://www.cnczxw.com/stp-drawing-files-39.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-files-39.html" target="_blank" title="28款 坦克 战车 第一弹 合集stp格式下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-215.webp" width="300" alt="28款 坦克 战车 第一弹 合集stp格式下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 该资源为坦克战车模型合集，共36个文件（含STP/STEP/X_T/IGS中性格式），无刀路及工装，定位为CAM前置训练包。技术要点：中性格式导入后需强制校验单位制与曲面缝合公差，避免因转换误差导致后续刀路过切；建议按“识图拆装→装夹方向判定→工艺路线规划”递进训练，重点模拟多轴联动时的刀具摆角干涉区。考虑用UG NX或Mastercam做实体布尔运算与轮廓边界提取，验证刀轴避让可行性，辅助参数需按实际机床刚性重设。
-
-* **🏷️ 核心话题**：#28款坦克战车第一弹合集stp格式图档 #28款坦克战车第一弹合集stp格式模型 #28款坦克战车第一弹合集stp格式练习图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-15
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-files-39.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 28款 坦克 战车 第一弹 合集stp格式下载 | `#28款坦克战车第一弹合集stp格式图档` `#28款坦克战车第一弹合集stp格式模型` `#28款坦克战车第一弹合集stp格式练习图档` | 2026-08-15 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-39.html) |
 | **[其他软件练习图档]** 10款兔子合集STP格式下载 | `#10款兔子合集STP格式图档` `#10款兔子合集STP格式模型` `#10款兔子合集STP格式练习图档` | 2026-08-14 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-38.html) |
 | **[其他软件练习图档]** 10多款加工转台图档(STP+SW格式)下载 | `#10多款加工转台图档STPSW格式图档` `#10多款加工转台图档STPSW格式模型` `#10多款加工转台图档STPSW格式练习图档` | 2026-08-14 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-37.html) |
 | **[其他软件练习图档]** 2款 斗战胜佛 STP格式下载 | `#2款斗战胜佛STP格式图档` `#2款斗战胜佛STP格式模型` `#2款斗战胜佛STP格式练习图档` | 2026-08-14 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-36.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 德玛吉 95monoBLOCK 五轴联动模型(STP格式)下载 | `#STP格式图档` `#德玛吉 95monoBLOCK 五轴联动模型(STP格式)3D图档` `#德玛吉 95monoBLOCK 五轴联动模型(STP格式)STP模型` `#机械模型图档` | 2026-07-27 | [阅读原文](https://www.cnczxw.com/stp-machine-drawing-5.html) |
 | **[其他软件练习图档]** 德玛吉 65monoBLOCK 五轴联动模型(STP格式)下载 | `#STP格式图档` `#德玛吉 65monoBLOCK 五轴联动模型(STP格式)3D图档` `#德玛吉 65monoBLOCK 五轴联动模型(STP格式)STP模型` `#机械模型图档` | 2026-07-26 | [阅读原文](https://www.cnczxw.com/stp-machine-drawing-4.html) |
 | **[其他软件练习图档]** 1德玛吉-DMU-75mono五轴模型STP格式下载 | `#1德玛吉DMU75mono五轴模型STP格式图档` `#1德玛吉DMU75mono五轴模型STP格式模型` `#1德玛吉DMU75mono五轴模型STP格式练习图档` | 2026-07-26 | [阅读原文](https://www.cnczxw.com/dmu-stp-drawing-files.html) |
-| **[其他软件练习图档]** 德国哈默C52五轴模型(stp格式)下载 | `#德国哈默C52五轴模型(stp格式)图档` `#德国哈默C52五轴模型(stp格式)模型` `#德国哈默C52五轴模型(stp格式)练习图档` `#机械图档资源` | 2026-07-26 | [阅读原文](https://www.cnczxw.com/stp-machine-drawing-3.html) |
