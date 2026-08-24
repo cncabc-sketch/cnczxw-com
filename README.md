@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [梅-兰-菊-竹 四君子(STP图档)下载](https://www.cnczxw.com/stp-drawing-files-61.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-files-61.html" target="_blank" title="梅-兰-菊-竹 四君子(STP图档)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/t1049-cad-model-cad-model-view-01-cnczxw.webp" width="300" alt="梅-兰-菊-竹 四君子(STP图档)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 该STP图档集仅含四君子曲面实体模型，无刀路及工装夹具，属典型逆向工艺分析案例。建议先做模型拓扑检查与装配间隙验证，重点核对单位制转换，防止非均匀缩放导致CAM编程基准偏差。编程环节需自主重建加工坐标系，对薄壁曲面件优先采用区域铣削配合摆线策略，控制残余高度至0.005mm以内。注意避让圆弧过渡区，防止刀具过切及让刀振纹，可活用负余量补偿精加工。
+
+* **🏷️ 核心话题**：#梅兰菊竹四君子STP图档图档 #梅兰菊竹四君子STP图档模型 #梅兰菊竹四君子STP图档练习图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-24
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-files-61.html)**
+
+---
+
 ### 📌 [最新款 12生肖坠子 STP 图档下载](https://www.cnczxw.com/stp-drawing-files-60.html)
 
 <a href="https://www.cnczxw.com/stp-drawing-files-60.html" target="_blank" title="最新款 12生肖坠子 STP 图档下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [格斗悟空3D图档STP格式下载](https://www.cnczxw.com/stp-drawing-files-58.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-files-58.html" target="_blank" title="格斗悟空3D图档STP格式下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/t1048-cad-model-cad-model-view-01-cnczxw.webp" width="300" alt="格斗悟空3D图档STP格式下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 该教程提供的STP/X_T中性格式悟空模型，本质是几何数据中转包，无刀路及工装参数，定位为CAD/CAM前置验证素材。技术要点在于：导入前须强制核对单位制（尤其英制/公制转换）与实体缝合状态，规避曲面转换失败；实操建议按“三维识图→装配树解析→装夹方向预判”顺序推进，后续刀路需结合机床刚性自行重构，重点检验模型非加工特征对刀具避让的干涉影响。
-
-* **🏷️ 核心话题**：#格斗悟空3D图档STP格式图档 #格斗悟空3D图档STP格式模型 #格斗悟空3D图档STP格式练习图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-24
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-files-58.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 格斗悟空3D图档STP格式下载 | `#格斗悟空3D图档STP格式图档` `#格斗悟空3D图档STP格式模型` `#格斗悟空3D图档STP格式练习图档` | 2026-08-24 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-58.html) |
 | **[其他软件练习图档]** 机加福利--操机女神模型--STP格式下载 | `#机加福利操机女神模型STP格式图档` `#机加福利操机女神模型STP格式模型` `#机加福利操机女神模型STP格式练习图档` | 2026-08-24 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-57.html) |
 | **[其他软件练习图档]** 最新款-鹰击长空-老鹰扑腾图STP格式下载 | `#最新款鹰击长空老鹰扑腾图STP格式图档` `#最新款鹰击长空老鹰扑腾图STP格式模型` `#最新款鹰击长空老鹰扑腾图STP格式练习图档` | 2026-08-23 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-56.html) |
 | **[其他软件练习图档]** 新款李小龙-双节棍半身像-STP格式下载 | `#新款李小龙双节棍半身像STP格式图档` `#新款李小龙双节棍半身像STP格式模型` `#新款李小龙双节棍半身像STP格式练习图档` | 2026-08-23 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-55.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 鸟巢精细版模型-STP格式下载 | `#鸟巢精细版模型STP格式图档` `#鸟巢精细版模型STP格式模型` `#鸟巢精细版模型STP格式练习图档` | 2026-08-05 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-18.html) |
 | **[其他软件练习图档]** 长城虎卫 3D高质量图档stp格式下载 | `#长城虎卫3D高质量图档stp格式图档` `#长城虎卫3D高质量图档stp格式模型` `#长城虎卫3D高质量图档stp格式练习图档` | 2026-08-05 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-17.html) |
 | **[其他软件练习图档]** 葫芦造型-3D模型-附下载链接(STP格式)下载 | `#STP格式图档` `#机械模型图档` `#葫芦造型-3D模型-附下载链接(STP格式)3D图档` `#葫芦造型-3D模型-附下载链接(STP格式)STP模型` | 2026-08-04 | [阅读原文](https://www.cnczxw.com/stp-drawing-14.html) |
-| **[其他软件练习图档]** 玉兔呈祥摆件(STP图档)下载 | `#STP格式图档` `#机械模型图档` `#玉兔呈祥摆件(STP图档)3D图档` `#玉兔呈祥摆件(STP图档)STP模型` | 2026-08-04 | [阅读原文](https://www.cnczxw.com/stp-drawing-13.html) |
