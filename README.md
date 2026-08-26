@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [虎钳3D 图档第二弹下载](https://www.cnczxw.com/drawing-files-9.html)
+
+<a href="https://www.cnczxw.com/drawing-files-9.html" target="_blank" title="虎钳3D 图档第二弹下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/drawing-files-cover-cnczxw-13.webp" width="300" alt="虎钳3D 图档第二弹下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 该图档集含173个文件，核心价值在于装配体（SLDASM）与工装信号（setup/asm），可用于装夹方向判定与坐标关系验证。中性格式（STP/STEP）需优先核查单位及实体转换精度，避免CAM编程时曲面破损。无NC刀路，定位为工艺分析前置准备，适合NX/Mastercam环境下的装夹避让初判。
+
+* **🏷️ 核心话题**：#虎钳3D图档第二弹图档 #虎钳3D图档第二弹模型 #虎钳3D图档第二弹练习图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-26
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/drawing-files-9.html)**
+
+---
+
 ### 📌 [虎钳3D 图档第一弹下载](https://www.cnczxw.com/drawing-files-8.html)
 
 <a href="https://www.cnczxw.com/drawing-files-8.html" target="_blank" title="虎钳3D 图档第一弹下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [祥瑞麒麟模型STP格式下载](https://www.cnczxw.com/stp-drawing-files-64.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-files-64.html" target="_blank" title="祥瑞麒麟模型STP格式下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/xiangrui-qilin-stp-model-yx-plane-cnczxw.webp" width="300" alt="祥瑞麒麟模型STP格式下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 该资源为无刀路CAM数据的纯STP几何模型，仅适用于三维识图、结构拆分及CAD/CAM导入验证。技术要点：优先检查单位制及曲面转换完整性，避免因中性格式转换产生烂面或拓扑错误；无工装及NC文件，加工参数需按实际机床刚性、刀具悬伸量及材料特性重新定义。建议对麒麟模型复杂曲面区域采用等高精加工与流线驱动组合策略，粗加工留量均匀（侧壁0.5mm、底面0.2mm），精加工步距控制在刀具直径的3%-5%以内，以减少刀具磨损导致的让刀误差。
-
-* **🏷️ 核心话题**：#祥瑞麒麟模型STP格式图档 #祥瑞麒麟模型STP格式模型 #祥瑞麒麟模型STP格式练习图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-25
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-files-64.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 祥瑞麒麟模型STP格式下载 | `#祥瑞麒麟模型STP格式图档` `#祥瑞麒麟模型STP格式模型` `#祥瑞麒麟模型STP格式练习图档` | 2026-08-25 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-64.html) |
 | **[其他软件练习图档]** 玩物摆件-雄鹰展翅3D图档STP格式下载 | `#玩物摆件雄鹰展翅3D图档STP格式图档` `#玩物摆件雄鹰展翅3D图档STP格式模型` `#玩物摆件雄鹰展翅3D图档STP格式练习图档` | 2026-08-25 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-63.html) |
 | **[Mastercam 教程]** Mastercam 2025车铣复合与走心机全系实战视频教程（170集全） | `#CNC干货` | 2026-08-25 | [阅读原文](https://www.cnczxw.com/mastercam-2025-turn-mill-programming.html) |
 | **[其他软件练习图档]** 玉兔呈祥摆件(STP图档)下载 | `#玉兔呈祥摆件STP图档图档` `#玉兔呈祥摆件STP图档模型` `#玉兔呈祥摆件STP图档练习图档` | 2026-08-25 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-62.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** UG上机刀路-福字烟灰缸下载 | `#UG上机刀路福字烟灰缸图档` `#UG上机刀路福字烟灰缸模型` `#UG上机刀路福字烟灰缸练习图档` | 2026-08-06 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-4.html) |
 | **[其他软件练习图档]** UG2007-马到功成-带刀路-烟灰缸下载 | `#UG2007马到功成带刀路烟灰缸图档` `#UG2007马到功成带刀路烟灰缸模型` `#UG2007马到功成带刀路烟灰缸练习图档` | 2026-08-06 | [阅读原文](https://www.cnczxw.com/ug2007-horse-ash-tray-with-toolpath-download.html) |
 | **[其他软件练习图档]** UG12-至尊宝一生所爱带刀路烟灰缸下载 | `#UG12至尊宝一生所爱带刀路烟灰缸图档` `#UG12至尊宝一生所爱带刀路烟灰缸模型` `#UG12至尊宝一生所爱带刀路烟灰缸练习图档` | 2026-08-06 | [阅读原文](https://www.cnczxw.com/ug12-sunwukong-ashtray-nc-prt-download.html) |
-| **[其他软件练习图档]** UG12-大展宏图-带刀路-烟灰缸下载 | `#UG12大展宏图带刀路烟灰缸图档` `#UG12大展宏图带刀路烟灰缸模型` `#UG12大展宏图带刀路烟灰缸练习图档` | 2026-08-06 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-3.html) |
