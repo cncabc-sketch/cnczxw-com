@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [25款-枪类模型(STP格式)-第一弹下载](https://www.cnczxw.com/stp-drawing-35.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-35.html" target="_blank" title="25款-枪类模型(STP格式)-第一弹下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-103.webp" width="300" alt="25款-枪类模型(STP格式)-第一弹下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本套枪械STP图档作为工艺验证样例，核心评估点在模型导入完整性与CAM预处理链路。建议优先执行拓扑修复与单位校验，防止曲面缝隙和实体转换失败导致刀路误算。编程实战时，重点锤炼坐标对齐、毛坯包络计算及复杂型面避让策略，尤须预判深腔区域刀具悬伸刚性与非切削移动干涉风险。该资料无预置刀路，仅适格为几何基底，切不可将其视作工艺参数库，须自行构建加工策略再行上机。
+
+* **🏷️ 核心话题**：#STP模型 #机械图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-27
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-35.html)**
+
+---
+
 ### 📌 [龙头棍3D模型 STP格式下载](https://www.cnczxw.com/stp-drawing-files-67.html)
 
 <a href="https://www.cnczxw.com/stp-drawing-files-67.html" target="_blank" title="龙头棍3D模型 STP格式下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [虎钳3D 图档第二弹下载](https://www.cnczxw.com/drawing-files-9.html)
-
-<a href="https://www.cnczxw.com/drawing-files-9.html" target="_blank" title="虎钳3D 图档第二弹下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/drawing-files-cover-cnczxw-13.webp" width="300" alt="虎钳3D 图档第二弹下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 该图档集含173个文件，核心价值在于装配体（SLDASM）与工装信号（setup/asm），可用于装夹方向判定与坐标关系验证。中性格式（STP/STEP）需优先核查单位及实体转换精度，避免CAM编程时曲面破损。无NC刀路，定位为工艺分析前置准备，适合NX/Mastercam环境下的装夹避让初判。
-
-* **🏷️ 核心话题**：#虎钳3D图档第二弹图档 #虎钳3D图档第二弹模型 #虎钳3D图档第二弹练习图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-26
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/drawing-files-9.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 虎钳3D 图档第二弹下载 | `#虎钳3D图档第二弹图档` `#虎钳3D图档第二弹模型` `#虎钳3D图档第二弹练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/drawing-files-9.html) |
 | **[其他软件练习图档]** 虎钳3D 图档第一弹下载 | `#虎钳3D图档第一弹图档` `#虎钳3D图档第一弹模型` `#虎钳3D图档第一弹练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/drawing-files-8.html) |
 | **[UG练习图档]** 网红油槽-UG五轴切割刀路-1847以上版本下载 | `#网红油槽UG五轴切割刀路1847以上版本图档` `#网红油槽UG五轴切割刀路1847以上版本模型` `#网红油槽UG五轴切割刀路1847以上版本练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-28.html) |
 | **[其他软件练习图档]** 祥瑞麒麟模型STP格式下载 | `#祥瑞麒麟模型STP格式图档` `#祥瑞麒麟模型STP格式模型` `#祥瑞麒麟模型STP格式练习图档` | 2026-08-25 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-64.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 如虎添亿烟灰缸-UG12刀路以上机下载 | `#如虎添亿烟灰缸UG12刀路以上机图档` `#如虎添亿烟灰缸UG12刀路以上机模型` `#如虎添亿烟灰缸UG12刀路以上机练习图档` | 2026-08-07 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-7.html) |
 | **[其他软件练习图档]** UG大展鸿图山川图-带刀路图档下载 | `#UG大展鸿图山川图带刀路图档图档` `#UG大展鸿图山川图带刀路图档模型` `#UG大展鸿图山川图带刀路图档练习图档` | 2026-08-07 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-6.html) |
 | **[其他软件练习图档]** UG八骏图带刀路图档下载 | `#UG八骏图带刀路图档图档` `#UG八骏图带刀路图档模型` `#UG八骏图带刀路图档练习图档` | 2026-08-07 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-5.html) |
-| **[其他软件练习图档]** UG上机刀路-福字烟灰缸下载 | `#UG上机刀路福字烟灰缸图档` `#UG上机刀路福字烟灰缸模型` `#UG上机刀路福字烟灰缸练习图档` | 2026-08-06 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-4.html) |
