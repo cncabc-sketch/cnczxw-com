@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [3款-毛主席雕塑模型(STP格式)下载](https://www.cnczxw.com/stp-drawing-40.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-40.html" target="_blank" title="3款-毛主席雕塑模型(STP格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-105.webp" width="300" alt="3款-毛主席雕塑模型(STP格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> STP曲面模型编程要点：优先检查曲面缝合度与实体转换成功率，避免刀路因破面产生过切。坐标系设定以雕塑底面基准，Z向对刀以最高点为零点。粗加工选用动态铣削，步距控制在刀具直径40%-50%，留0.3mm均匀余量；精加工采用等高清角配合环绕策略，刀轴矢量需避让凹陷面部与衣纹棱线。毛坯定义与实际装夹偏置需核对，干涉检查重点设于刀具夹头与弧形肩部区域。建议导入后先运行“过切检查”及“碰撞避让”模拟，确认G54偏置无误后再生成后处理程序。
+
+* **🏷️ 核心话题**：#STP模型 #机械图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-27
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-40.html)**
+
+---
+
 ### 📌 [1-17届“高教杯”机械建模大赛图档合集下载](https://www.cnczxw.com/drawing-files-10.html)
 
 <a href="https://www.cnczxw.com/drawing-files-10.html" target="_blank" title="1-17届“高教杯”机械建模大赛图档合集下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [25款-枪类模型(STP格式)-第一弹下载](https://www.cnczxw.com/stp-drawing-35.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-35.html" target="_blank" title="25款-枪类模型(STP格式)-第一弹下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-103.webp" width="300" alt="25款-枪类模型(STP格式)-第一弹下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本套枪械STP图档作为工艺验证样例，核心评估点在模型导入完整性与CAM预处理链路。建议优先执行拓扑修复与单位校验，防止曲面缝隙和实体转换失败导致刀路误算。编程实战时，重点锤炼坐标对齐、毛坯包络计算及复杂型面避让策略，尤须预判深腔区域刀具悬伸刚性与非切削移动干涉风险。该资料无预置刀路，仅适格为几何基底，切不可将其视作工艺参数库，须自行构建加工策略再行上机。
-
-* **🏷️ 核心话题**：#STP模型 #机械图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-27
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-35.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 25款-枪类模型(STP格式)-第一弹下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-35.html) |
 | **[其他软件练习图档]** 龙头棍3D模型 STP格式下载 | `#龙头棍3D模型STP格式图档` `#龙头棍3D模型STP格式模型` `#龙头棍3D模型STP格式练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-67.html) |
 | **[其他软件练习图档]** 马扎克MAZAK-INTEGREX-200-IV五轴车铣中心STP格式下载 | `#马扎克MAZAKINTEGREX200IV五轴车铣中心STP格式图档` `#马扎克MAZAKINTEGREX200IV五轴车铣中心STP格式模型` `#马扎克MAZAKINTEGREX200IV五轴车铣中心STP格式练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-66.html) |
 | **[其他软件练习图档]** 虎钳3D 图档第二弹下载 | `#虎钳3D图档第二弹图档` `#虎钳3D图档第二弹模型` `#虎钳3D图档第二弹练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/drawing-files-9.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 20款 兰博基尼-特斯拉-雪佛兰-尼桑-丰田 3D模型(STP格式+SW格式)下载 | `#20款兰博基尼特斯拉雪佛兰尼桑丰田3D模型STP格式SW格式练习图档` | 2026-08-08 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-23.html) |
 | **[其他软件练习图档]** 虎啸风生 高质量 烟灰缸stp格式下载 | `#虎啸风生高质量烟灰缸stp格式图档` `#虎啸风生高质量烟灰缸stp格式模型` `#虎啸风生高质量烟灰缸stp格式练习图档` | 2026-08-07 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-22.html) |
 | **[其他软件练习图档]** 索马里海盗款烟灰缸STP格式下载 | `#索马里海盗款烟灰缸STP格式图档` `#索马里海盗款烟灰缸STP格式模型` `#索马里海盗款烟灰缸STP格式练习图档` | 2026-08-07 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-21.html) |
-| **[其他软件练习图档]** 如虎添亿烟灰缸-UG12刀路以上机下载 | `#如虎添亿烟灰缸UG12刀路以上机图档` `#如虎添亿烟灰缸UG12刀路以上机模型` `#如虎添亿烟灰缸UG12刀路以上机练习图档` | 2026-08-07 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-7.html) |
