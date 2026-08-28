@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [18款-弹弓石弩弹射器-3D图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-19.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-19.html" target="_blank" title="18款-弹弓石弩弹射器-3D图档(STP+SW格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-110.webp" width="300" alt="18款-弹弓石弩弹射器-3D图档(STP+SW格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 本套弹弓石弩弹射器3D图档（STP/SW）核心价值在于异构CAD数据交换与CAM前置验证。技术要点：首要检查STEP内核转换精度，规避非流形边与曲面缝隙；编程前需重点判定毛坯坐标系与工件零点匹配性，防止因装配体单位偏差引发过切。刀路策略上，可利用该模型特征进行高速动态粗加工刀路验证，关注刀具避让干涉区，特别是弩臂凹槽与弹射拨片区域。基于目录无NC刀路，建议仅用于几何导入检查及多轴定位加工策略预演，不适用于后处理验证。
+
+* **🏷️ 核心话题**：#STP模型 #机械图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-28
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-19.html)**
+
+---
+
 ### 📌 [15款-五轴塔堆-自定心虎钳-夹具模型(STP格式)下载](https://www.cnczxw.com/stp-fixture-machine-drawing.html)
 
 <a href="https://www.cnczxw.com/stp-fixture-machine-drawing.html" target="_blank" title="15款-五轴塔堆-自定心虎钳-夹具模型(STP格式)下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [10款 变形金刚-3D图档(SW+STP格式)下载](https://www.cnczxw.com/stp-drawing-16.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-16.html" target="_blank" title="10款 变形金刚-3D图档(SW+STP格式)下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-107.webp" width="300" alt="10款 变形金刚-3D图档(SW+STP格式)下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 针对“变形金刚”3D图档类资源，核心价值不在渲染图，而在模型拓扑与CAM前置验证。建议以STP中性格式为基准进行导入检查，重点排查曲面缝隙及实体转换失败问题。编程实训时，应将其作为五轴联动刀路规划的练习载体，聚焦于坐标系的基准统一、毛坯余量的动态控制及复杂分型面的清根策略。务必警惕不同CAD内核间单位转换导致的尺寸漂移，同时验证装配体是否存在干涉体，避免刀轨生成时发生非预期碰撞。
-
-* **🏷️ 核心话题**：#STP模型 #机械图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-28
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-16.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 10款 变形金刚-3D图档(SW+STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-28 | [阅读原文](https://www.cnczxw.com/stp-drawing-16.html) |
 | **[其他软件练习图档]** 4款 中国象棋 3D图档(SW+STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-41.html) |
 | **[其他软件练习图档]** 3款-毛主席雕塑模型(STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-40.html) |
 | **[其他软件练习图档]** 1-17届“高教杯”机械建模大赛图档合集下载 | `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/drawing-files-10.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 28款 跑车3D 图档(STP+SW格式)下载 | `#28款跑车3D图档STPSW格式图档` `#28款跑车3D图档STPSW格式模型` `#28款跑车3D图档STPSW格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-28.html) |
 | **[其他软件练习图档]** 28款 豪华大巴3D模型(STP格式+SW格式)下载 | `#28款豪华大巴3D模型STP格式SW格式图档` `#28款豪华大巴3D模型STP格式SW格式模型` `#28款豪华大巴3D模型STP格式SW格式练习图档` | 2026-08-08 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-27.html) |
 | **[其他软件练习图档]** 25款 路虎-奥迪-本田-福特 3D模型(STP格式+SW格式)下载 | `#25款路虎奥迪本田福特3D模型STP格式SW格式图档` `#25款路虎奥迪本田福特3D模型STP格式SW格式模型` `#25款路虎奥迪本田福特3D模型STP格式SW格式练习图档` | 2026-08-08 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-26.html) |
-| **[其他软件练习图档]** 22款-保时捷-法拉利豪车(STP格式+SW格式)下载 | `#22款保时捷法拉利豪车STP格式SW格式图档` `#22款保时捷法拉利豪车STP格式SW格式模型` `#22款保时捷法拉利豪车STP格式SW格式练习图档` | 2026-08-08 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-25.html) |
