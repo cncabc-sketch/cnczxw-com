@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [20款-hypermill-壹刀流刀路-工艺图档下载](https://www.cnczxw.com/hypermill-toolpath-drawing.html)
+
+<a href="https://www.cnczxw.com/hypermill-toolpath-drawing.html" target="_blank" title="20款-hypermill-壹刀流刀路-工艺图档下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/hypermill-drawing-files-cover-cnczxw.webp" width="300" alt="20款-hypermill-壹刀流刀路-工艺图档下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 针对Hypermill壹刀流工艺图档，核心价值在于验证刀路策略的避让逻辑与参数封装。评估时勿只看刀轨形态，需重点检查进给率优化、切入切出方式及残余毛坯控制，确认是否存在基于机床动态特性的摆线或型腔铣优化。若用于编程练习，应聚焦于坐标基准设定与安全平面生成，防止因模型单位转换或曲面公差差异导致过切，提防低版本软件无法识别高版本刀路事件。
+
+* **🏷️ 核心话题**：#hypermill图档 #刀路图档 #多轴刀路 #多轴加工 #机械图档
+* **📂 分类**：hypermill练习图档
+* **📅 更新时间**：2026-08-29
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/hypermill-toolpath-drawing.html)**
+
+---
+
 ### 📌 [20套-数控铣竞赛3D+2D图档下载](https://www.cnczxw.com/case-5.html)
 
 <a href="https://www.cnczxw.com/case-5.html" target="_blank" title="20套-数控铣竞赛3D+2D图档下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [18款-弹弓石弩弹射器-3D图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-19.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-19.html" target="_blank" title="18款-弹弓石弩弹射器-3D图档(STP+SW格式)下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-110.webp" width="300" alt="18款-弹弓石弩弹射器-3D图档(STP+SW格式)下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 本套弹弓石弩弹射器3D图档（STP/SW）核心价值在于异构CAD数据交换与CAM前置验证。技术要点：首要检查STEP内核转换精度，规避非流形边与曲面缝隙；编程前需重点判定毛坯坐标系与工件零点匹配性，防止因装配体单位偏差引发过切。刀路策略上，可利用该模型特征进行高速动态粗加工刀路验证，关注刀具避让干涉区，特别是弩臂凹槽与弹射拨片区域。基于目录无NC刀路，建议仅用于几何导入检查及多轴定位加工策略预演，不适用于后处理验证。
-
-* **🏷️ 核心话题**：#STP模型 #机械图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-28
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-19.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 18款-弹弓石弩弹射器-3D图档(STP+SW格式)下载 | `#STP模型` `#机械图档` | 2026-08-28 | [阅读原文](https://www.cnczxw.com/stp-drawing-19.html) |
 | **[其他软件练习图档]** 15款-五轴塔堆-自定心虎钳-夹具模型(STP格式)下载 | `#STP模型` `#多轴加工` `#工装夹具` `#机械图档` | 2026-08-28 | [阅读原文](https://www.cnczxw.com/stp-fixture-machine-drawing.html) |
 | **[其他软件练习图档]** 12款-千分尺-3D图档(STP+SW格式)下载 | `#STP模型` `#机械图档` | 2026-08-28 | [阅读原文](https://www.cnczxw.com/stp-drawing-18.html) |
 | **[其他软件练习图档]** 10款 变形金刚-3D图档(SW+STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-28 | [阅读原文](https://www.cnczxw.com/stp-drawing-16.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** b-战斗机、航母、坦克模型3D图纸合集（23套）下载 | `#b战斗机航母坦克模型3D图纸合集23套图档` `#b战斗机航母坦克模型3D图纸合集23套模型` `#b战斗机航母坦克模型3D图纸合集23套练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/drawing-files.html) |
 | **[其他软件练习图档]** 36套 精品摩托3D模型 STP格式下载 | `#36套精品摩托3D模型STP格式图档` `#36套精品摩托3D模型STP格式模型` `#36套精品摩托3D模型STP格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-30.html) |
 | **[其他软件练习图档]** 35款 经典战斗机合集(STP+SW格式)下载 | `#35款经典战斗机合集STPSW格式图档` `#35款经典战斗机合集STPSW格式模型` `#35款经典战斗机合集STPSW格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-29.html) |
-| **[其他软件练习图档]** 28款 跑车3D 图档(STP+SW格式)下载 | `#28款跑车3D图档STPSW格式图档` `#28款跑车3D图档STPSW格式模型` `#28款跑车3D图档STPSW格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-28.html) |
