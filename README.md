@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [20款-军刺-刺刀-短刃3D图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-31.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-31.html" target="_blank" title="20款-军刺-刺刀-短刃3D图档(STP+SW格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-112.webp" width="300" alt="20款-军刺-刺刀-短刃3D图档(STP+SW格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 针对20款军刺短刃STP/SW图档，技术要点在于跨平台导入验证与刀路前处理。优先检查模型完整性，防止曲面缝隙或实体转换失败。编程时应以主模型坐标系为基准，校准毛坯摆放及刀具轴向，规避刃口薄壁区域的让刀干涉。对于无预设NC刀路的文件，需基于目录结构重建加工策略，重点评估异形曲面清根及轮廓精加工的余量分布。建议使用CAM软件的高亮检查功能，提前识别狭窄凹槽特征，避免实际切削中的过切风险。
+
+* **🏷️ 核心话题**：#STP模型 #机械图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-29
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-31.html)**
+
+---
+
 ### 📌 [20款-hypermill-壹刀流刀路-工艺图档下载](https://www.cnczxw.com/hypermill-toolpath-drawing.html)
 
 <a href="https://www.cnczxw.com/hypermill-toolpath-drawing.html" target="_blank" title="20款-hypermill-壹刀流刀路-工艺图档下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [18款-检测工具-螺纹塞规-环规 止通规3D图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-20.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-20.html" target="_blank" title="18款-检测工具-螺纹塞规-环规 止通规3D图档(STP+SW格式)下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-111.webp" width="300" alt="18款-检测工具-螺纹塞规-环规 止通规3D图档(STP+SW格式)下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 针对螺纹塞规/环规止通规图档，技术要点在于导入后的模型完整性验证：优先核查STP/SW格式的装配层级与曲面缝合状态，警惕单位制转换（公/英制）引发的尺寸漂移。编程练习时，需基于实际装夹方向定义工件坐标系，重点规划内螺纹铣削的螺旋插补参数及退刀避让策略。若仅含模型无CAM刀路，应自行构建毛坯及检查刀具与规体台阶面的干涉，勿直接套用通用刀路。该资源适用于工艺复盘，需严格校验实体转换成功率。
-
-* **🏷️ 核心话题**：#STP模型 #机械图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-28
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-20.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 18款-检测工具-螺纹塞规-环规 止通规3D图档(STP+SW格式)下载 | `#STP模型` `#机械图档` | 2026-08-28 | [阅读原文](https://www.cnczxw.com/stp-drawing-20.html) |
 | **[其他软件练习图档]** 18款-弹弓石弩弹射器-3D图档(STP+SW格式)下载 | `#STP模型` `#机械图档` | 2026-08-28 | [阅读原文](https://www.cnczxw.com/stp-drawing-19.html) |
 | **[其他软件练习图档]** 15款-五轴塔堆-自定心虎钳-夹具模型(STP格式)下载 | `#STP模型` `#多轴加工` `#工装夹具` `#机械图档` | 2026-08-28 | [阅读原文](https://www.cnczxw.com/stp-fixture-machine-drawing.html) |
 | **[其他软件练习图档]** 12款-千分尺-3D图档(STP+SW格式)下载 | `#STP模型` `#机械图档` | 2026-08-28 | [阅读原文](https://www.cnczxw.com/stp-drawing-18.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 22套仿生多足机器人STP格式下载 | `#22套仿生多足机器人STP格式图档` `#22套仿生多足机器人STP格式模型` `#22套仿生多足机器人STP格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-31.html) |
 | **[其他软件练习图档]** b-战斗机、航母、坦克模型3D图纸合集（23套）下载 | `#b战斗机航母坦克模型3D图纸合集23套图档` `#b战斗机航母坦克模型3D图纸合集23套模型` `#b战斗机航母坦克模型3D图纸合集23套练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/drawing-files.html) |
 | **[其他软件练习图档]** 36套 精品摩托3D模型 STP格式下载 | `#36套精品摩托3D模型STP格式图档` `#36套精品摩托3D模型STP格式模型` `#36套精品摩托3D模型STP格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-30.html) |
-| **[其他软件练习图档]** 35款 经典战斗机合集(STP+SW格式)下载 | `#35款经典战斗机合集STPSW格式图档` `#35款经典战斗机合集STPSW格式模型` `#35款经典战斗机合集STPSW格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-29.html) |
