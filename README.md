@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [20款-格斗弯刀-3D图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-34.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-34.html" target="_blank" title="20款-格斗弯刀-3D图档(STP+SW格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-115.webp" width="300" alt="20款-格斗弯刀-3D图档(STP+SW格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 针对格斗弯刀3D图档的编程验证，核心在于跨平台格式转换与刀路策略预判。STP/SW格式导入时，需重点核查曲面缝合公差及单位制统一，防止因公差收敛异常导致实体布尔运算失败。刀路编程建议优先规划区域清除策略，利用弯刀弧面特征设定变余量控制，粗加工采用动态铣削配合摆线进给，精加工则基于残料模型优化等高切向路径。若目录含装配体，须检查无干涉碰撞区域，并验证装夹坐标系与毛坯摆向的一致性。
+
+* **🏷️ 核心话题**：#STP模型 #机械图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-30
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-34.html)**
+
+---
+
 ### 📌 [20款-挖掘机3d模型(STP格式)-第一弹下载](https://www.cnczxw.com/stp-drawing-33.html)
 
 <a href="https://www.cnczxw.com/stp-drawing-33.html" target="_blank" title="20款-挖掘机3d模型(STP格式)-第一弹下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [20款-军刺-刺刀-短刃3D图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-31.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-31.html" target="_blank" title="20款-军刺-刺刀-短刃3D图档(STP+SW格式)下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-112.webp" width="300" alt="20款-军刺-刺刀-短刃3D图档(STP+SW格式)下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 针对20款军刺短刃STP/SW图档，技术要点在于跨平台导入验证与刀路前处理。优先检查模型完整性，防止曲面缝隙或实体转换失败。编程时应以主模型坐标系为基准，校准毛坯摆放及刀具轴向，规避刃口薄壁区域的让刀干涉。对于无预设NC刀路的文件，需基于目录结构重建加工策略，重点评估异形曲面清根及轮廓精加工的余量分布。建议使用CAM软件的高亮检查功能，提前识别狭窄凹槽特征，避免实际切削中的过切风险。
-
-* **🏷️ 核心话题**：#STP模型 #机械图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-29
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-31.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 20款-军刺-刺刀-短刃3D图档(STP+SW格式)下载 | `#STP模型` `#机械图档` | 2026-08-29 | [阅读原文](https://www.cnczxw.com/stp-drawing-31.html) |
 | **[hypermill练习图档]** 20款-hypermill-壹刀流刀路-工艺图档下载 | `#hypermill图档` `#刀路图档` `#多轴刀路` `#多轴加工` `#机械图档` | 2026-08-29 | [阅读原文](https://www.cnczxw.com/hypermill-toolpath-drawing.html) |
 | **[其他软件练习图档]** 20套-数控铣竞赛3D+2D图档下载 | `#机械图档` | 2026-08-29 | [阅读原文](https://www.cnczxw.com/case-5.html) |
 | **[其他软件练习图档]** 18款-检测工具-螺纹塞规-环规 止通规3D图档(STP+SW格式)下载 | `#STP模型` `#机械图档` | 2026-08-28 | [阅读原文](https://www.cnczxw.com/stp-drawing-20.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 156套-UG铜材电极铜公-带刀路完整图档下载 | `#156套UG铜材电极铜公带刀路完整图档图档` `#156套UG铜材电极铜公带刀路完整图档模型` `#156套UG铜材电极铜公带刀路完整图档练习图档` | 2026-08-10 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-8.html) |
 | **[其他软件练习图档]** 78套 震动盘 3D图档(stp+sw格式)下载 | `#78套震动盘3D图档stpsw格式图档` `#78套震动盘3D图档stpsw格式模型` `#78套震动盘3D图档stpsw格式练习图档` | 2026-08-10 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-33.html) |
 | **[其他软件练习图档]** 30款 经典虎钳3D 图档(STP+SW格式)下载 | `#30款经典虎钳3D图档STPSW格式图档` `#30款经典虎钳3D图档STPSW格式模型` `#30款经典虎钳3D图档STPSW格式练习图档` | 2026-08-10 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-32.html) |
-| **[其他软件练习图档]** 22套仿生多足机器人STP格式下载 | `#22套仿生多足机器人STP格式图档` `#22套仿生多足机器人STP格式模型` `#22套仿生多足机器人STP格式练习图档` | 2026-08-09 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-31.html) |
