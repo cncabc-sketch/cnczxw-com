@@ -3,6 +3,25 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [30款-游标卡尺3d模型(STP格式)下载](https://www.cnczxw.com/stp-drawing-39.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-39.html" target="_blank" title="30款-游标卡尺3d模型(STP格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-119.webp" width="300" alt="30款-游标卡尺3d模型(STP格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> HTTP 402 报错！
+服务器原话：{"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}}
+
+* **🏷️ 核心话题**：#STP模型 #机械图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-08-31
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-39.html)**
+
+---
+
 ### 📌 [28款-铣刀3D图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-38.html)
 
 <a href="https://www.cnczxw.com/stp-drawing-38.html" target="_blank" title="28款-铣刀3D图档(STP+SW格式)下载">
@@ -41,29 +60,11 @@
 
 ---
 
-### 📌 [28套-Mastercam2022薄壁壳体类-完整刀路工艺图档下载](https://www.cnczxw.com/mastercam-drawing-files-7.html)
-
-<a href="https://www.cnczxw.com/mastercam-drawing-files-7.html" target="_blank" title="28套-Mastercam2022薄壁壳体类-完整刀路工艺图档下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/mastercam-drawing-files-cover-cnczxw-8.webp" width="300" alt="28套-Mastercam2022薄壁壳体类-完整刀路工艺图档下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> HTTP 402 报错！
-服务器原话：{"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}}
-
-* **🏷️ 核心话题**：#Mastercam刀路 #Mastercam图档 #机械图档
-* **📂 分类**：mastercam练习图档
-* **📅 更新时间**：2026-08-30
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/mastercam-drawing-files-7.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[mastercam练习图档]** 28套-Mastercam2022薄壁壳体类-完整刀路工艺图档下载 | `#Mastercam刀路` `#Mastercam图档` `#机械图档` | 2026-08-30 | [阅读原文](https://www.cnczxw.com/mastercam-drawing-files-7.html) |
 | **[其他软件练习图档]** 25款丝锥+攻牙扳手3D图档(STP+SW格式)下载 | `#STP模型` `#机械图档` | 2026-08-30 | [阅读原文](https://www.cnczxw.com/stp-drawing-36.html) |
 | **[mastercam练习图档]** 25款-Mastercam2022-五金非标件3+2刀路图档下载 | `#Mastercam刀路` `#Mastercam图档` `#机械图档` | 2026-08-30 | [阅读原文](https://www.cnczxw.com/mastercam-drawing-files-6.html) |
 | **[其他软件练习图档]** 20款-格斗弯刀-3D图档(STP+SW格式)下载 | `#STP模型` `#机械图档` | 2026-08-30 | [阅读原文](https://www.cnczxw.com/stp-drawing-34.html) |
@@ -161,4 +162,3 @@
 | **[其他软件练习图档]** A-50套NX汽车配件工装夹具3D图档下载 | `#A50套NX汽车配件工装夹具3D图档图档` `#A50套NX汽车配件工装夹具3D图档模型` `#A50套NX汽车配件工装夹具3D图档练习图档` | 2026-08-11 | [阅读原文](https://www.cnczxw.com/nx-drawing-files.html) |
 | **[其他软件练习图档]** 3798-UG大型汽车模具刀路图档12套下载 | `#3798UG大型汽车模具刀路图档12套图档` `#3798UG大型汽车模具刀路图档12套模型` `#3798UG大型汽车模具刀路图档12套练习图档` | 2026-08-11 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-9.html) |
 | **[其他软件练习图档]** 2022款最新-卧虎-模型 STP格式下载 | `#2022款最新卧虎模型STP格式图档` `#2022款最新卧虎模型STP格式模型` `#2022款最新卧虎模型STP格式练习图档` | 2026-08-11 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-34.html) |
-| **[其他软件练习图档]** 200份-世赛-国赛-省赛-市赛-数控车选拔赛必备图档下载 | `#200份世赛国赛省赛市赛数控车选拔赛必备图档图档` `#200份世赛国赛省赛市赛数控车选拔赛必备图档模型` `#200份世赛国赛省赛市赛数控车选拔赛必备图档练习图档` | 2026-08-11 | [阅读原文](https://www.cnczxw.com/drawing-files-3.html) |
