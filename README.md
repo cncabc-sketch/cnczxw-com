@@ -3,6 +3,25 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [60款-长刀宝剑类-3D图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-44.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-44.html" target="_blank" title="60款-长刀宝剑类-3D图档(STP+SW格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-122.webp" width="300" alt="60款-长刀宝剑类-3D图档(STP+SW格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> HTTP 402 报错！
+服务器原话：{"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}}
+
+* **🏷️ 核心话题**：#STP模型 #机械图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-09-01
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-44.html)**
+
+---
+
 ### 📌 [50款-钻头-倒角刀3D图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-43.html)
 
 <a href="https://www.cnczxw.com/stp-drawing-43.html" target="_blank" title="50款-钻头-倒角刀3D图档(STP+SW格式)下载">
@@ -41,29 +60,11 @@
 
 ---
 
-### 📌 [50款-气缸-液压缸-3D图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-42.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-42.html" target="_blank" title="50款-气缸-液压缸-3D图档(STP+SW格式)下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-120.webp" width="300" alt="50款-气缸-液压缸-3D图档(STP+SW格式)下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> HTTP 402 报错！
-服务器原话：{"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}}
-
-* **🏷️ 核心话题**：#STP模型 #机械图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-09-01
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-42.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 50款-气缸-液压缸-3D图档(STP+SW格式)下载 | `#STP模型` `#机械图档` | 2026-09-01 | [阅读原文](https://www.cnczxw.com/stp-drawing-42.html) |
 | **[UG练习图档]** 50套-UG12压铸模具图档下载 | `#NX刀路` `#UG图档` `#机械图档` | 2026-09-01 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-29.html) |
 | **[其他软件练习图档]** 49款-BT40刀柄-热缩-强力-钻套-铣刀3D图档下载 | `#机械图档` | 2026-08-31 | [阅读原文](https://www.cnczxw.com/case-6.html) |
 | **[其他软件练习图档]** 40款-手机-平板类-全套加工设备3D图档下载 | `#机械图档` | 2026-08-31 | [阅读原文](https://www.cnczxw.com/drawing-files-13.html) |
@@ -161,4 +162,3 @@
 | **[其他软件练习图档]** b-80款趣味CNC加工-飞机-十二生肖-动物-恐龙-建筑模型2D图纸下载 | `#b80款趣味CNC加工飞机十二生肖动物恐龙建筑模型2D图纸图档` `#b80款趣味CNC加工飞机十二生肖动物恐龙建筑模型2D图纸模型` `#b80款趣味CNC加工飞机十二生肖动物恐龙建筑模型2D图纸练习图档` | 2026-08-13 | [阅读原文](https://www.cnczxw.com/drawing-files-4.html) |
 | **[其他软件练习图档]** 200套工业机器人-发那科-埃斯顿-其它机器人-(stp+sw)格式下载 | `#200套工业机器人发那科埃斯顿其它机器人stpsw格式图档` `#200套工业机器人发那科埃斯顿其它机器人stpsw格式模型` `#200套工业机器人发那科埃斯顿其它机器人stpsw格式练习图档` | 2026-08-13 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-35.html) |
 | **[其他软件练习图档]** b-60款CNC加工-益智玩具模型图纸全套下载 | `#b-60款CNC加工-益智玩具模型图纸全套图档` `#b-60款CNC加工-益智玩具模型图纸全套模型` `#b-60款CNC加工-益智玩具模型图纸全套练习图档` `#机械图档资源` | 2026-08-12 | [阅读原文](https://www.cnczxw.com/toolpath-drawing.html) |
-| **[其他软件练习图档]** A-200套UG异型产品带刀路图下载 | `#A200套UG异型产品带刀路图图档` `#A200套UG异型产品带刀路图模型` `#A200套UG异型产品带刀路图练习图档` | 2026-08-12 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-13.html) |
