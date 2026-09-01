@@ -3,6 +3,25 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [50款-车床刀具+刀片模型(STP+hypermill格式)下载](https://www.cnczxw.com/hypermill-stp-drawing.html)
+
+<a href="https://www.cnczxw.com/hypermill-stp-drawing.html" target="_blank" title="50款-车床刀具+刀片模型(STP+hypermill格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/hypermill-stp-drawing-files-cover-cnczxw.webp" width="300" alt="50款-车床刀具+刀片模型(STP+hypermill格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> HTTP 402 报错！
+服务器原话：{"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}}
+
+* **🏷️ 核心话题**：#hypermill图档 #STP模型 #刀路图档 #多轴刀路 #多轴加工
+* **📂 分类**：hypermill练习图档
+* **📅 更新时间**：2026-09-01
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/hypermill-stp-drawing.html)**
+
+---
+
 ### 📌 [50款-气缸-液压缸-3D图档(STP+SW格式)下载](https://www.cnczxw.com/stp-drawing-42.html)
 
 <a href="https://www.cnczxw.com/stp-drawing-42.html" target="_blank" title="50款-气缸-液压缸-3D图档(STP+SW格式)下载">
@@ -41,29 +60,11 @@
 
 ---
 
-### 📌 [49款-BT40刀柄-热缩-强力-钻套-铣刀3D图档下载](https://www.cnczxw.com/case-6.html)
-
-<a href="https://www.cnczxw.com/case-6.html" target="_blank" title="49款-BT40刀柄-热缩-强力-钻套-铣刀3D图档下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/drawing-files-cover-cnczxw-18.webp" width="300" alt="49款-BT40刀柄-热缩-强力-钻套-铣刀3D图档下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> HTTP 402 报错！
-服务器原话：{"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}}
-
-* **🏷️ 核心话题**：#机械图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-08-31
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/case-6.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 49款-BT40刀柄-热缩-强力-钻套-铣刀3D图档下载 | `#机械图档` | 2026-08-31 | [阅读原文](https://www.cnczxw.com/case-6.html) |
 | **[其他软件练习图档]** 40款-手机-平板类-全套加工设备3D图档下载 | `#机械图档` | 2026-08-31 | [阅读原文](https://www.cnczxw.com/drawing-files-13.html) |
 | **[其他软件练习图档]** 40款-HSM案例刀路图档下载-极具参考价值下载 | `#机械图档` | 2026-08-31 | [阅读原文](https://www.cnczxw.com/drawing-files-12.html) |
 | **[其他软件练习图档]** 30款-游标卡尺3d模型(STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-31 | [阅读原文](https://www.cnczxw.com/stp-drawing-39.html) |
@@ -161,4 +162,3 @@
 | **[其他软件练习图档]** b-60款CNC加工-益智玩具模型图纸全套下载 | `#b-60款CNC加工-益智玩具模型图纸全套图档` `#b-60款CNC加工-益智玩具模型图纸全套模型` `#b-60款CNC加工-益智玩具模型图纸全套练习图档` `#机械图档资源` | 2026-08-12 | [阅读原文](https://www.cnczxw.com/toolpath-drawing.html) |
 | **[其他软件练习图档]** A-200套UG异型产品带刀路图下载 | `#A200套UG异型产品带刀路图图档` `#A200套UG异型产品带刀路图模型` `#A200套UG异型产品带刀路图练习图档` | 2026-08-12 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-13.html) |
 | **[其他软件练习图档]** A-100套UG带刀路图档下载 | `#A100套UG带刀路图档图档` `#A100套UG带刀路图档模型` `#A100套UG带刀路图档练习图档` | 2026-08-12 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-12.html) |
-| **[其他软件练习图档]** A-100套UG夹具图档下载 | `#A100套UG夹具图档图档` `#A100套UG夹具图档模型` `#A100套UG夹具图档练习图档` | 2026-08-12 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-11.html) |
