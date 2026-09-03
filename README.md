@@ -3,6 +3,25 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [2024-6款老虎类-烟灰缸(STP格式)下载](https://www.cnczxw.com/stp-drawing-22.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-22.html" target="_blank" title="2024-6款老虎类-烟灰缸(STP格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-124.webp" width="300" alt="2024-6款老虎类-烟灰缸(STP格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> HTTP 402 报错！
+服务器原话：{"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}}
+
+* **🏷️ 核心话题**：#STP模型 #机械图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-09-03
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-22.html)**
+
+---
+
 ### 📌 [2024-3款女神摆件模型(STP格式)下载](https://www.cnczxw.com/stp-drawing-21.html)
 
 <a href="https://www.cnczxw.com/stp-drawing-21.html" target="_blank" title="2024-3款女神摆件模型(STP格式)下载">
@@ -41,29 +60,11 @@
 
 ---
 
-### 📌 [200款-Mastercam2022-加工店异型五金件-带刀路图档下载](https://www.cnczxw.com/mastercam-drawing-files-8.html)
-
-<a href="https://www.cnczxw.com/mastercam-drawing-files-8.html" target="_blank" title="200款-Mastercam2022-加工店异型五金件-带刀路图档下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/mastercam-drawing-files-cover-cnczxw-42.webp" width="300" alt="200款-Mastercam2022-加工店异型五金件-带刀路图档下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> HTTP 402 报错！
-服务器原话：{"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}}
-
-* **🏷️ 核心话题**：#200款Mastercam2022加工店异型五金件带刀路图档图档 #200款Mastercam2022加工店异型五金件带刀路图档模型 #200款Mastercam2022加工店异型五金件带刀路图档练习图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-09-02
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/mastercam-drawing-files-8.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 200款-Mastercam2022-加工店异型五金件-带刀路图档下载 | `#200款Mastercam2022加工店异型五金件带刀路图档图档` `#200款Mastercam2022加工店异型五金件带刀路图档模型` `#200款Mastercam2022加工店异型五金件带刀路图档练习图档` | 2026-09-02 | [阅读原文](https://www.cnczxw.com/mastercam-drawing-files-8.html) |
 | **[其他软件练习图档]** 200张-机械标准模版图档-高清原版无水印下载 | `#200张机械标准模版图档高清原版无水印图档` `#200张机械标准模版图档高清原版无水印模型` `#200张机械标准模版图档高清原版无水印练习图档` | 2026-09-02 | [阅读原文](https://www.cnczxw.com/drawing-files-14.html) |
 | **[其他软件练习图档]** 100张-数控铣世赛样题-无水印高清电子图档下载 | `#100张数控铣世赛样题无水印高清电子图档图档` `#100张数控铣世赛样题无水印高清电子图档模型` `#100张数控铣世赛样题无水印高清电子图档练习图档` | 2026-09-02 | [阅读原文](https://www.cnczxw.com/drawing-files-11.html) |
 | **[其他软件练习图档]** 68套-各类加工夹具设计图档下载 | `#工装夹具` `#机械图档` | 2026-09-02 | [阅读原文](https://www.cnczxw.com/fixture-drawing-2.html) |
@@ -161,4 +162,3 @@
 | **[其他软件练习图档]** 10多款加工转台图档(STP+SW格式)下载 | `#10多款加工转台图档STPSW格式图档` `#10多款加工转台图档STPSW格式模型` `#10多款加工转台图档STPSW格式练习图档` | 2026-08-14 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-37.html) |
 | **[其他软件练习图档]** 2款 斗战胜佛 STP格式下载 | `#2款斗战胜佛STP格式图档` `#2款斗战胜佛STP格式模型` `#2款斗战胜佛STP格式练习图档` | 2026-08-14 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-36.html) |
 | **[其他软件练习图档]** 数控铣-省级市级-技能大赛必备图档下载 | `#数控铣省级市级技能大赛必备图档图档` `#数控铣省级市级技能大赛必备图档模型` `#数控铣省级市级技能大赛必备图档练习图档` | 2026-08-14 | [阅读原文](https://www.cnczxw.com/drawing-files-5.html) |
-| **[其他软件练习图档]** 万能图档转换工具下载 | `#万能图档转换工具图档` `#万能图档转换工具模型` `#万能图档转换工具练习图档` `#机械图档资源` | 2026-08-14 | [阅读原文](https://www.cnczxw.com/case-3.html) |
