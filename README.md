@@ -3,6 +3,25 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [2024新款-壹亿硬币带国徽版(stp格式)下载](https://www.cnczxw.com/stp-drawing-25.html)
+
+<a href="https://www.cnczxw.com/stp-drawing-25.html" target="_blank" title="2024新款-壹亿硬币带国徽版(stp格式)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-127.webp" width="300" alt="2024新款-壹亿硬币带国徽版(stp格式)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> HTTP 402 报错！
+服务器原话：{"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}}
+
+* **🏷️ 核心话题**：#STP模型 #机械图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-09-04
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-25.html)**
+
+---
+
 ### 📌 [2024世界技能大赛-里昂世赛数铣-数车项目图纸下载](https://www.cnczxw.com/drawing-files-20.html)
 
 <a href="https://www.cnczxw.com/drawing-files-20.html" target="_blank" title="2024世界技能大赛-里昂世赛数铣-数车项目图纸下载">
@@ -41,29 +60,11 @@
 
 ---
 
-### 📌 [2024-摆件-肌肉兔哥(STP格式)下载](https://www.cnczxw.com/stp-drawing-23.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-23.html" target="_blank" title="2024-摆件-肌肉兔哥(STP格式)下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-125.webp" width="300" alt="2024-摆件-肌肉兔哥(STP格式)下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> HTTP 402 报错！
-服务器原话：{"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}}
-
-* **🏷️ 核心话题**：#STP模型 #机械图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-09-03
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-23.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 2024-摆件-肌肉兔哥(STP格式)下载 | `#STP模型` `#机械图档` | 2026-09-03 | [阅读原文](https://www.cnczxw.com/stp-drawing-23.html) |
 | **[其他软件练习图档]** 2024-多款真空吸盘-多工位气动虎钳-3D图档下载下载 | `#机械图档` | 2026-09-03 | [阅读原文](https://www.cnczxw.com/case-4.html) |
 | **[其他软件练习图档]** 2024-6款老虎类-烟灰缸(STP格式)下载 | `#STP模型` `#机械图档` | 2026-09-03 | [阅读原文](https://www.cnczxw.com/stp-drawing-22.html) |
 | **[其他软件练习图档]** 2024-3款女神摆件模型(STP格式)下载 | `#STP模型` `#机械图档` | 2026-09-03 | [阅读原文](https://www.cnczxw.com/stp-drawing-21.html) |
@@ -161,4 +162,3 @@
 | **[其他软件练习图档]** 50款 叶轮模型合集 (STP+UG格式)下载 | `#50款叶轮模型合集STPUG格式图档` `#50款叶轮模型合集STPUG格式模型` `#50款叶轮模型合集STPUG格式练习图档` | 2026-08-15 | [阅读原文](https://www.cnczxw.com/ug-stp-drawing-files-2.html) |
 | **[其他软件练习图档]** 40款 头盔 合集(stp+SW格式)下载 | `#40款头盔合集stpSW格式图档` `#40款头盔合集stpSW格式模型` `#40款头盔合集stpSW格式练习图档` | 2026-08-15 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-41.html) |
 | **[其他软件练习图档]** 30款 赛事奖杯合集 (STP+SW格式)下载 | `#30款赛事奖杯合集STPSW格式图档` `#30款赛事奖杯合集STPSW格式模型` `#30款赛事奖杯合集STPSW格式练习图档` | 2026-08-15 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-40.html) |
-| **[其他软件练习图档]** 28款 坦克 战车 第一弹 合集stp格式下载 | `#28款坦克战车第一弹合集stp格式图档` `#28款坦克战车第一弹合集stp格式模型` `#28款坦克战车第一弹合集stp格式练习图档` | 2026-08-15 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-39.html) |
