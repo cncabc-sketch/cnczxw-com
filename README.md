@@ -3,6 +3,25 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [2024网红图档-千分尺方中方(STP格式)+方中球图档(MC刀路)下载](https://www.cnczxw.com/stp-toolpath-drawing.html)
+
+<a href="https://www.cnczxw.com/stp-toolpath-drawing.html" target="_blank" title="2024网红图档-千分尺方中方(STP格式)+方中球图档(MC刀路)下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-133.webp" width="300" alt="2024网红图档-千分尺方中方(STP格式)+方中球图档(MC刀路)下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> HTTP 402 报错！
+服务器原话：{"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}}
+
+* **🏷️ 核心话题**：#STP模型 #刀路图档 #机械图档
+* **📂 分类**：其他软件练习图档
+* **📅 更新时间**：2026-09-05
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-toolpath-drawing.html)**
+
+---
+
 ### 📌 [2024网红-平衡蜻蜓模型(STP格式)下载](https://www.cnczxw.com/stp-drawing-30.html)
 
 <a href="https://www.cnczxw.com/stp-drawing-30.html" target="_blank" title="2024网红-平衡蜻蜓模型(STP格式)下载">
@@ -41,29 +60,11 @@
 
 ---
 
-### 📌 [2024最新-大日如来-等4款摆件(STP格式)下载](https://www.cnczxw.com/stp-drawing-28.html)
-
-<a href="https://www.cnczxw.com/stp-drawing-28.html" target="_blank" title="2024最新-大日如来-等4款摆件(STP格式)下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/stp-drawing-files-cover-cnczxw-130.webp" width="300" alt="2024最新-大日如来-等4款摆件(STP格式)下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> HTTP 402 报错！
-服务器原话：{"error":{"message":"Insufficient Balance","type":"unknown_error","param":null,"code":"invalid_request_error"}}
-
-* **🏷️ 核心话题**：#STP模型 #机械图档
-* **📂 分类**：其他软件练习图档
-* **📅 更新时间**：2026-09-04
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/stp-drawing-28.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[其他软件练习图档]** 2024最新-大日如来-等4款摆件(STP格式)下载 | `#STP模型` `#机械图档` | 2026-09-04 | [阅读原文](https://www.cnczxw.com/stp-drawing-28.html) |
 | **[其他软件练习图档]** 2024最新-6款荷花鲤鱼类-烟灰缸(STP格式)下载 | `#STP模型` `#机械图档` | 2026-09-04 | [阅读原文](https://www.cnczxw.com/stp-drawing-27.html) |
 | **[其他软件练习图档]** 2024最新-6款凤凰牡丹类-烟灰缸(STP格式)下载 | `#STP模型` `#机械图档` | 2026-09-04 | [阅读原文](https://www.cnczxw.com/stp-drawing-26.html) |
 | **[其他软件练习图档]** 2024新款-壹亿硬币带国徽版(stp格式)下载 | `#STP模型` `#机械图档` | 2026-09-04 | [阅读原文](https://www.cnczxw.com/stp-drawing-25.html) |
@@ -161,4 +162,3 @@
 | **[mastercam练习图档]** Mastercam2023 百元大钞刀路图档下载 | `#Mastercam2023 百元大钞刀路图档图档` `#Mastercam2023 百元大钞刀路图档练习图档` `#Mastercam刀路图档` `#Mastercam图档资源` | 2026-08-16 | [阅读原文](https://www.cnczxw.com/mastercam-toolpath-drawing-2.html) |
 | **[mastercam练习图档]** Mastercam2022 大展宏图烟灰缸刀路图档下载 | `#Mastercam2022大展宏图烟灰缸刀路图档图档` `#Mastercam2022大展宏图烟灰缸刀路图档模型` `#Mastercam2022大展宏图烟灰缸刀路图档练习图档` | 2026-08-16 | [阅读原文](https://www.cnczxw.com/mastercam-drawing-files.html) |
 | **[其他软件练习图档]** Mastercam2022 壹亿烟灰缸刀路图档下载 | `#Mastercam2022 壹亿烟灰缸刀路图档图档` `#Mastercam2022 壹亿烟灰缸刀路图档练习图档` `#Mastercam刀路图档` `#Mastercam图档资源` | 2026-08-16 | [阅读原文](https://www.cnczxw.com/mastercam-toolpath-drawing.html) |
-| **[其他软件练习图档]** 2023款-福兔-驾到 STP格式下载 | `#2023款福兔驾到STP格式图档` `#2023款福兔驾到STP格式模型` `#2023款福兔驾到STP格式练习图档` | 2026-08-16 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-44.html) |
