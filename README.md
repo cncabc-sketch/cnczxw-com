@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [UG工艺品摆件多轴刀路合集（第2批18款）完整刀路图档下载](https://www.cnczxw.com/ug-toolpath-drawing-collection-18-2.html)
+
+<a href="https://www.cnczxw.com/ug-toolpath-drawing-collection-18-2.html" target="_blank" title="UG工艺品摆件多轴刀路合集（第2批18款）完整刀路图档下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/ug-drawing-files-cover-cnczxw-28.webp" width="300" alt="UG工艺品摆件多轴刀路合集（第2批18款）完整刀路图档下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 网络错误：cURL error 28: Connection timeout after 10001 ms
+
+* **🏷️ 核心话题**：#NX刀路 #UG图档 #刀路图档 #机械图档
+* **📂 分类**：UG练习图档
+* **📅 更新时间**：2026-11-18
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-toolpath-drawing-collection-18-2.html)**
+
+---
+
 ### 📌 [UG工艺品摆件多轴刀路合集（25款）完整刀路图档下载](https://www.cnczxw.com/ug-toolpath-drawing-collection-25.html)
 
 <a href="https://www.cnczxw.com/ug-toolpath-drawing-collection-25.html" target="_blank" title="UG工艺品摆件多轴刀路合集（25款）完整刀路图档下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [斯沃多轴数控仿真软件SSMAM｜四轴五轴加工中心仿真安装服务](https://www.cnczxw.com/swansoft-ssmam-multiaxis-simulation.html)
-
-<a href="https://www.cnczxw.com/swansoft-ssmam-multiaxis-simulation.html" target="_blank" title="斯沃多轴数控仿真软件SSMAM｜四轴五轴加工中心仿真安装服务">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/11/01-ssmam-cover.jpg" width="300" alt="斯沃多轴数控仿真软件SSMAM｜四轴五轴加工中心仿真安装服务 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 网络错误：cURL error 28: Connection timed out after 10001 milliseconds
-
-* **🏷️ 核心话题**：#CNC干货
-* **📂 分类**：机械软件下载
-* **📅 更新时间**：2026-11-13
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/swansoft-ssmam-multiaxis-simulation.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[机械软件下载]** 斯沃多轴数控仿真软件SSMAM｜四轴五轴加工中心仿真安装服务 | `#CNC干货` | 2026-11-13 | [阅读原文](https://www.cnczxw.com/swansoft-ssmam-multiaxis-simulation.html) |
 | **[Hypermill 教程]** HYPERMILL 2018教程大全：四轴五轴编程、多轴加工视频及案例实战 | `#CNC干货` | 2026-10-07 | [阅读原文](https://www.cnczxw.com/hypermill-4axis-5axis-tutorial.html) |
 | **[mastercam练习图档]** Mastercam2024-耶稣浮雕刀路图档下载 | `#Mastercam刀路` `#Mastercam图档` `#机械图档` | 2026-09-30 | [阅读原文](https://www.cnczxw.com/mastercam-drawing-files-34.html) |
 | **[mastercam练习图档]** Mastercam2024-网红左轮手抢-3轴刀路图档下载 | `#Mastercam刀路` `#Mastercam图档` `#刀路图档` `#机械图档` | 2026-09-30 | [阅读原文](https://www.cnczxw.com/mastercam-toolpath-drawing-5.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 梅-兰-菊-竹 四君子(STP图档)下载 | `#梅兰菊竹四君子STP图档图档` `#梅兰菊竹四君子STP图档模型` `#梅兰菊竹四君子STP图档练习图档` | 2026-08-24 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-61.html) |
 | **[其他软件练习图档]** 最新款 12生肖坠子 STP 图档下载 | `#最新款12生肖坠子STP图档图档` `#最新款12生肖坠子STP图档模型` `#最新款12生肖坠子STP图档练习图档` | 2026-08-24 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-60.html) |
 | **[其他软件练习图档]** 最新28款台钳模型(STP+SW格式)下载 | `#最新28款台钳模型STPSW格式图档` `#最新28款台钳模型STPSW格式模型` `#最新28款台钳模型STPSW格式练习图档` | 2026-08-24 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-59.html) |
-| **[其他软件练习图档]** 格斗悟空3D图档STP格式下载 | `#格斗悟空3D图档STP格式图档` `#格斗悟空3D图档STP格式模型` `#格斗悟空3D图档STP格式练习图档` | 2026-08-24 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-58.html) |
