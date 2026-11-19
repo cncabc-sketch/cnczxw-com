@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [Mastercam工艺品摆件刀路合集（23款）完整刀路图档下载](https://www.cnczxw.com/mastercam-toolpath-drawing-collection-23.html)
+
+<a href="https://www.cnczxw.com/mastercam-toolpath-drawing-collection-23.html" target="_blank" title="Mastercam工艺品摆件刀路合集（23款）完整刀路图档下载">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/07/mastercam-drawing-files-cover-cnczxw-4.webp" width="300" alt="Mastercam工艺品摆件刀路合集（23款）完整刀路图档下载 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 网络错误：cURL error 28: Connection timeout after 10000 ms
+
+* **🏷️ 核心话题**：#Mastercam刀路 #Mastercam图档 #刀路图档 #机械图档
+* **📂 分类**：mastercam练习图档
+* **📅 更新时间**：2026-11-19
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/mastercam-toolpath-drawing-collection-23.html)**
+
+---
+
 ### 📌 [UG多轴3+2刀路夹具合集（6款）完整编程工艺+压铸模具图档下载](https://www.cnczxw.com/ug-3plus2-fixture-collection-6.html)
 
 <a href="https://www.cnczxw.com/ug-3plus2-fixture-collection-6.html" target="_blank" title="UG多轴3+2刀路夹具合集（6款）完整编程工艺+压铸模具图档下载">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG工艺品摆件多轴刀路合集（25款）完整刀路图档下载](https://www.cnczxw.com/ug-toolpath-drawing-collection-25.html)
-
-<a href="https://www.cnczxw.com/ug-toolpath-drawing-collection-25.html" target="_blank" title="UG工艺品摆件多轴刀路合集（25款）完整刀路图档下载">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/06/ug-drawing-files-cover-cnczxw-56.webp" width="300" alt="UG工艺品摆件多轴刀路合集（25款）完整刀路图档下载 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 网络错误：cURL error 28: Connection timeout after 10000 ms
-
-* **🏷️ 核心话题**：#NX刀路 #UG图档 #刀路图档 #机械图档
-* **📂 分类**：UG练习图档
-* **📅 更新时间**：2026-11-18
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-toolpath-drawing-collection-25.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[UG练习图档]** UG工艺品摆件多轴刀路合集（25款）完整刀路图档下载 | `#NX刀路` `#UG图档` `#刀路图档` `#机械图档` | 2026-11-18 | [阅读原文](https://www.cnczxw.com/ug-toolpath-drawing-collection-25.html) |
 | **[UG练习图档]** UG机器人结构件3+2刀路合集（第1-16款）完整编程工艺+夹具下载 | `#CNC干货` | 2026-11-18 | [阅读原文](https://www.cnczxw.com/ug-robot-3-2-toolpath-collection-1-16.html) |
 | **[机械软件下载]** 斯沃多轴数控仿真软件SSMAM｜四轴五轴加工中心仿真安装服务 | `#CNC干货` | 2026-11-13 | [阅读原文](https://www.cnczxw.com/swansoft-ssmam-multiaxis-simulation.html) |
 | **[Hypermill 教程]** HYPERMILL 2018教程大全：四轴五轴编程、多轴加工视频及案例实战 | `#CNC干货` | 2026-10-07 | [阅读原文](https://www.cnczxw.com/hypermill-4axis-5axis-tutorial.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 玉兔呈祥摆件(STP图档)下载 | `#玉兔呈祥摆件STP图档图档` `#玉兔呈祥摆件STP图档模型` `#玉兔呈祥摆件STP图档练习图档` | 2026-08-25 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-62.html) |
 | **[其他软件练习图档]** 漫威-蜘蛛侠模型图档下载 | `#漫威蜘蛛侠模型图档图档` `#漫威蜘蛛侠模型图档模型` `#漫威蜘蛛侠模型图档练习图档` | 2026-08-25 | [阅读原文](https://www.cnczxw.com/drawing-files-7.html) |
 | **[其他软件练习图档]** 梅-兰-菊-竹 四君子(STP图档)下载 | `#梅兰菊竹四君子STP图档图档` `#梅兰菊竹四君子STP图档模型` `#梅兰菊竹四君子STP图档练习图档` | 2026-08-24 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-61.html) |
-| **[其他软件练习图档]** 最新款 12生肖坠子 STP 图档下载 | `#最新款12生肖坠子STP图档图档` `#最新款12生肖坠子STP图档模型` `#最新款12生肖坠子STP图档练习图档` | 2026-08-24 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-60.html) |
