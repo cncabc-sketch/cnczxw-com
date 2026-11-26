@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [限时闪购合集（买一赠一）（11月26日 15:23 场）](https://www.cnczxw.com/flash-bundle-1795677821.html)
+
+<a href="https://www.cnczxw.com/flash-bundle-1795677821.html" target="_blank" title="限时闪购合集（买一赠一）（11月26日 15:23 场）">
+  
+</a>
+
+> **📖 极客解析**：
+> 网络错误：cURL error 28: Connection timeout after 10001 ms
+
+* **🏷️ 核心话题**：#CNC干货
+* **📂 分类**：机械软件下载
+* **📅 更新时间**：2026-11-26
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/flash-bundle-1795677821.html)**
+
+---
+
 ### 📌 [限时闪购合集（买一赠一）](https://www.cnczxw.com/%e9%99%90%e6%97%b6%e9%97%aa%e8%b4%ad%e5%90%88%e9%9b%86%ef%bc%88%e4%b9%b0%e4%b8%80%e8%b5%a0%e4%b8%80%ef%bc%89.html)
 
 <a href="https://www.cnczxw.com/%e9%99%90%e6%97%b6%e9%97%aa%e8%b4%ad%e5%90%88%e9%9b%86%ef%bc%88%e4%b9%b0%e4%b8%80%e8%b5%a0%e4%b8%80%ef%bc%89.html" target="_blank" title="限时闪购合集（买一赠一）">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG NX 2312 全套：编程 + 夹具 + 后处理](https://www.cnczxw.com/ug-nx-2312-%e5%85%a8%e5%a5%97%ef%bc%9a%e7%bc%96%e7%a8%8b-%e5%a4%b9%e5%85%b7-%e5%90%8e%e5%a4%84%e7%90%86.html)
-
-<a href="https://www.cnczxw.com/ug-nx-2312-%e5%85%a8%e5%a5%97%ef%bc%9a%e7%bc%96%e7%a8%8b-%e5%a4%b9%e5%85%b7-%e5%90%8e%e5%a4%84%e7%90%86.html" target="_blank" title="UG NX 2312 全套：编程 + 夹具 + 后处理">
-  
-</a>
-
-> **📖 极客解析**：
-> 网络错误：cURL error 28: Connection timeout after 10001 ms
-
-* **🏷️ 核心话题**：#CNC干货
-* **📂 分类**：UG NX 教程
-* **📅 更新时间**：2026-11-24
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-nx-2312-%e5%85%a8%e5%a5%97%ef%bc%9a%e7%bc%96%e7%a8%8b-%e5%a4%b9%e5%85%b7-%e5%90%8e%e5%a4%84%e7%90%86.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[UG NX 教程]** UG NX 2312 全套：编程 + 夹具 + 后处理 | `#CNC干货` | 2026-11-24 | [阅读原文](https://www.cnczxw.com/ug-nx-2312-%e5%85%a8%e5%a5%97%ef%bc%9a%e7%bc%96%e7%a8%8b-%e5%a4%b9%e5%85%b7-%e5%90%8e%e5%a4%84%e7%90%86.html) |
 | **[mastercam练习图档]** Mastercam工艺品摆件刀路合集（第2批23款）完整刀路图档下载 | `#Mastercam刀路` `#Mastercam图档` `#刀路图档` `#机械图档` | 2026-11-19 | [阅读原文](https://www.cnczxw.com/mastercam-toolpath-drawing-collection-23-batch-2.html) |
 | **[mastercam练习图档]** Mastercam工艺品摆件刀路合集（23款）完整刀路图档下载 | `#Mastercam刀路` `#Mastercam图档` `#刀路图档` `#机械图档` | 2026-11-19 | [阅读原文](https://www.cnczxw.com/mastercam-toolpath-drawing-collection-23.html) |
 | **[UG练习图档]** UG多轴3+2刀路夹具合集（6款）完整编程工艺+压铸模具图档下载 | `#UG 3+2刀路` `#UG图档` `#多轴刀路` `#工装夹具` | 2026-11-18 | [阅读原文](https://www.cnczxw.com/ug-3plus2-fixture-collection-6.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 虎钳3D 图档第一弹下载 | `#虎钳3D图档第一弹图档` `#虎钳3D图档第一弹模型` `#虎钳3D图档第一弹练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/drawing-files-8.html) |
 | **[UG练习图档]** 网红油槽-UG五轴切割刀路-1847以上版本下载 | `#网红油槽UG五轴切割刀路1847以上版本图档` `#网红油槽UG五轴切割刀路1847以上版本模型` `#网红油槽UG五轴切割刀路1847以上版本练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-28.html) |
 | **[其他软件练习图档]** 祥瑞麒麟模型STP格式下载 | `#祥瑞麒麟模型STP格式图档` `#祥瑞麒麟模型STP格式模型` `#祥瑞麒麟模型STP格式练习图档` | 2026-08-25 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-64.html) |
-| **[其他软件练习图档]** 玩物摆件-雄鹰展翅3D图档STP格式下载 | `#玩物摆件雄鹰展翅3D图档STP格式图档` `#玩物摆件雄鹰展翅3D图档STP格式模型` `#玩物摆件雄鹰展翅3D图档STP格式练习图档` | 2026-08-25 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-63.html) |
