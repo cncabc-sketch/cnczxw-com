@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [【插件测试】连载工作台验证，可删除](https://www.cnczxw.com/?p=46014)
+
+<a href="https://www.cnczxw.com/?p=46014" target="_blank" title="【插件测试】连载工作台验证，可删除">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/11/Banner-vip998.jpg" width="300" alt="【插件测试】连载工作台验证，可删除 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 网络错误：cURL error 28: Connection timeout after 10000 ms
+
+* **🏷️ 核心话题**：#CNC干货
+* **📂 分类**：技术文章
+* **📅 更新时间**：2026-11-26
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/?p=46014)**
+
+---
+
 ### 📌 [限时闪购合集（买一赠一）（11月26日 15:23 场）](https://www.cnczxw.com/flash-bundle-1795677821.html)
 
 <a href="https://www.cnczxw.com/flash-bundle-1795677821.html" target="_blank" title="限时闪购合集（买一赠一）（11月26日 15:23 场）">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [【测试】预热开抢 TEST](https://www.cnczxw.com/test-preheat-bundle.html)
-
-<a href="https://www.cnczxw.com/test-preheat-bundle.html" target="_blank" title="【测试】预热开抢 TEST">
-  
-</a>
-
-> **📖 极客解析**：
-> 网络错误：cURL error 28: Connection timeout after 10000 ms
-
-* **🏷️ 核心话题**：#CNC干货
-* **📂 分类**：机械软件下载
-* **📅 更新时间**：2026-11-26
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/test-preheat-bundle.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[机械软件下载]** 【测试】预热开抢 TEST | `#CNC干货` | 2026-11-26 | [阅读原文](https://www.cnczxw.com/test-preheat-bundle.html) |
 | **[UG NX 教程]** UG NX 2312 全套：编程 + 夹具 + 后处理 | `#CNC干货` | 2026-11-24 | [阅读原文](https://www.cnczxw.com/ug-nx-2312-%e5%85%a8%e5%a5%97%ef%bc%9a%e7%bc%96%e7%a8%8b-%e5%a4%b9%e5%85%b7-%e5%90%8e%e5%a4%84%e7%90%86.html) |
 | **[mastercam练习图档]** Mastercam工艺品摆件刀路合集（第2批23款）完整刀路图档下载 | `#Mastercam刀路` `#Mastercam图档` `#刀路图档` `#机械图档` | 2026-11-19 | [阅读原文](https://www.cnczxw.com/mastercam-toolpath-drawing-collection-23-batch-2.html) |
 | **[mastercam练习图档]** Mastercam工艺品摆件刀路合集（23款）完整刀路图档下载 | `#Mastercam刀路` `#Mastercam图档` `#刀路图档` `#机械图档` | 2026-11-19 | [阅读原文](https://www.cnczxw.com/mastercam-toolpath-drawing-collection-23.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 虎钳3D 图档第二弹下载 | `#虎钳3D图档第二弹图档` `#虎钳3D图档第二弹模型` `#虎钳3D图档第二弹练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/drawing-files-9.html) |
 | **[其他软件练习图档]** 虎钳3D 图档第一弹下载 | `#虎钳3D图档第一弹图档` `#虎钳3D图档第一弹模型` `#虎钳3D图档第一弹练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/drawing-files-8.html) |
 | **[UG练习图档]** 网红油槽-UG五轴切割刀路-1847以上版本下载 | `#网红油槽UG五轴切割刀路1847以上版本图档` `#网红油槽UG五轴切割刀路1847以上版本模型` `#网红油槽UG五轴切割刀路1847以上版本练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/ug-drawing-files-28.html) |
-| **[其他软件练习图档]** 祥瑞麒麟模型STP格式下载 | `#祥瑞麒麟模型STP格式图档` `#祥瑞麒麟模型STP格式模型` `#祥瑞麒麟模型STP格式练习图档` | 2026-08-25 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-64.html) |
