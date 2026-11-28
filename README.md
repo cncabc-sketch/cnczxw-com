@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [三菱 FX3U PLC 编程入门视频教程（53 节）：从继电器电路到触摸屏控制，送 GX Works2 软件＋编程手册](https://www.cnczxw.com/mitsubishi-fx3u-plc-programming.html)
+
+<a href="https://www.cnczxw.com/mitsubishi-fx3u-plc-programming.html" target="_blank" title="三菱 FX3U PLC 编程入门视频教程（53 节）：从继电器电路到触摸屏控制，送 GX Works2 软件＋编程手册">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/11/cover-mitsubishi-fx3u-plc-programming.jpg" width="300" alt="三菱 FX3U PLC 编程入门视频教程（53 节）：从继电器电路到触摸屏控制，送 GX Works2 软件＋编程手册 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 网络错误：cURL error 28: Connection timeout after 10000 ms
+
+* **🏷️ 核心话题**：#CNC干货
+* **📂 分类**：机械软件教程
+* **📅 更新时间**：2026-11-28
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/mitsubishi-fx3u-plc-programming.html)**
+
+---
+
 ### 📌 [G68.2 倾斜面加工：FANUC 五轴最容易翻车的一步](https://www.cnczxw.com/g68-2-qingxiemian-jiagong-fanuc-wuzhou-fanche.html)
 
 <a href="https://www.cnczxw.com/g68-2-qingxiemian-jiagong-fanuc-wuzhou-fanche.html" target="_blank" title="G68.2 倾斜面加工：FANUC 五轴最容易翻车的一步">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [UG NX 2412 三轴四轴五轴编程视频教程（带素材）：送 NX 2412 安装包](https://www.cnczxw.com/ug-nx-2412-5axis-programming.html)
-
-<a href="https://www.cnczxw.com/ug-nx-2412-5axis-programming.html" target="_blank" title="UG NX 2412 三轴四轴五轴编程视频教程（带素材）：送 NX 2412 安装包">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/11/cover-nx2412-v13.jpg" width="300" alt="UG NX 2412 三轴四轴五轴编程视频教程（带素材）：送 NX 2412 安装包 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 网络错误：cURL error 28: Connection timeout after 10001 ms
-
-* **🏷️ 核心话题**：#CNC干货
-* **📂 分类**：UG NX 教程
-* **📅 更新时间**：2026-11-27
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/ug-nx-2412-5axis-programming.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[UG NX 教程]** UG NX 2412 三轴四轴五轴编程视频教程（带素材）：送 NX 2412 安装包 | `#CNC干货` | 2026-11-27 | [阅读原文](https://www.cnczxw.com/ug-nx-2412-5axis-programming.html) |
 | **[AutoCAD 教程]** AutoCAD 2025 机械设计视频教程（送安装包）：2D/3D 入门到精通 | `#CNC干货` | 2026-11-27 | [阅读原文](https://www.cnczxw.com/autocad-2025-mechanical-design.html) |
 | **[UG五轴后处理避坑录]** RTCP 是什么：五轴后处理的第一课 | `#CNC干货` | 2026-11-26 | [阅读原文](https://www.cnczxw.com/rtcp-%e6%98%af%e4%bb%80%e4%b9%88%ef%bc%9a%e4%ba%94%e8%bd%b4%e5%90%8e%e5%a4%84%e7%90%86%e7%9a%84%e7%ac%ac%e4%b8%80%e8%af%be.html) |
 | **[技术文章]** 【插件测试】连载工作台验证，可删除 | `#CNC干货` | 2026-11-26 | [阅读原文](https://www.cnczxw.com/?p=46014) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 3款-毛主席雕塑模型(STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-40.html) |
 | **[其他软件练习图档]** 1-17届“高教杯”机械建模大赛图档合集下载 | `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/drawing-files-10.html) |
 | **[其他软件练习图档]** 10款探头3D模型文件(STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-17.html) |
-| **[其他软件练习图档]** 25款-枪类模型(STP格式)-第一弹下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-35.html) |
