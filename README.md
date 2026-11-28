@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [西门子 828D 操作全套视频教程（40 节）：SINUMERIK Operate 基本操作全覆盖，送 35 份 840D 培训讲义](https://www.cnczxw.com/siemens-828d-operation.html)
+
+<a href="https://www.cnczxw.com/siemens-828d-operation.html" target="_blank" title="西门子 828D 操作全套视频教程（40 节）：SINUMERIK Operate 基本操作全覆盖，送 35 份 840D 培训讲义">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/11/cover-siemens-828d-operation.jpg" width="300" alt="西门子 828D 操作全套视频教程（40 节）：SINUMERIK Operate 基本操作全覆盖，送 35 份 840D 培训讲义 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 网络错误：cURL error 28: Connection timeout after 10001 ms
+
+* **🏷️ 核心话题**：#CNC干货
+* **📂 分类**：加工中心教程
+* **📅 更新时间**：2026-11-28
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/siemens-828d-operation.html)**
+
+---
+
 ### 📌 [数控车床操机及编程视频教程（19 节）：从零基础到精通，每讲带仿真实例，送斯沃仿真软件](https://www.cnczxw.com/cnc-lathe-operation-programming.html)
 
 <a href="https://www.cnczxw.com/cnc-lathe-operation-programming.html" target="_blank" title="数控车床操机及编程视频教程（19 节）：从零基础到精通，每讲带仿真实例，送斯沃仿真软件">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [G68.2 倾斜面加工：FANUC 五轴最容易翻车的一步](https://www.cnczxw.com/g68-2-qingxiemian-jiagong-fanuc-wuzhou-fanche.html)
-
-<a href="https://www.cnczxw.com/g68-2-qingxiemian-jiagong-fanuc-wuzhou-fanche.html" target="_blank" title="G68.2 倾斜面加工：FANUC 五轴最容易翻车的一步">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/11/cws-g682-cover.png" width="300" alt="G68.2 倾斜面加工：FANUC 五轴最容易翻车的一步 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 网络错误：cURL error 28: Connection timeout after 10000 ms
-
-* **🏷️ 核心话题**：#CNC干货
-* **📂 分类**：UG五轴后处理避坑录
-* **📅 更新时间**：2026-11-28
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/g68-2-qingxiemian-jiagong-fanuc-wuzhou-fanche.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[UG五轴后处理避坑录]** G68.2 倾斜面加工：FANUC 五轴最容易翻车的一步 | `#CNC干货` | 2026-11-28 | [阅读原文](https://www.cnczxw.com/g68-2-qingxiemian-jiagong-fanuc-wuzhou-fanche.html) |
 | **[三菱系统维修]** ¥99 学 8 套操机：三轴·四轴·车床·车铣·走心机全包 | `#CNC干货` | 2026-11-28 | [阅读原文](https://www.cnczxw.com/cnc-operation-bundle.html) |
 | **[UG NX 教程]** UG NX 2412 三轴四轴五轴编程视频教程（带素材）：送 NX 2412 安装包 | `#CNC干货` | 2026-11-27 | [阅读原文](https://www.cnczxw.com/ug-nx-2412-5axis-programming.html) |
 | **[AutoCAD 教程]** AutoCAD 2025 机械设计视频教程（送安装包）：2D/3D 入门到精通 | `#CNC干货` | 2026-11-27 | [阅读原文](https://www.cnczxw.com/autocad-2025-mechanical-design.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 10款 变形金刚-3D图档(SW+STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-28 | [阅读原文](https://www.cnczxw.com/stp-drawing-16.html) |
 | **[其他软件练习图档]** 4款 中国象棋 3D图档(SW+STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-41.html) |
 | **[其他软件练习图档]** 3款-毛主席雕塑模型(STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-40.html) |
-| **[其他软件练习图档]** 1-17届“高教杯”机械建模大赛图档合集下载 | `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/drawing-files-10.html) |
