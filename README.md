@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [数控车床操机及编程视频教程（19 节）：从零基础到精通，每讲带仿真实例，送斯沃仿真软件](https://www.cnczxw.com/cnc-lathe-operation-programming.html)
+
+<a href="https://www.cnczxw.com/cnc-lathe-operation-programming.html" target="_blank" title="数控车床操机及编程视频教程（19 节）：从零基础到精通，每讲带仿真实例，送斯沃仿真软件">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/11/cover-cnc-lathe-operation-programming.jpg" width="300" alt="数控车床操机及编程视频教程（19 节）：从零基础到精通，每讲带仿真实例，送斯沃仿真软件 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 网络错误：cURL error 28: Connection timeout after 10001 ms
+
+* **🏷️ 核心话题**：#CNC干货
+* **📂 分类**：数控车床教程
+* **📅 更新时间**：2026-11-28
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/cnc-lathe-operation-programming.html)**
+
+---
+
 ### 📌 [三菱 FX3U PLC 编程入门视频教程（53 节）：从继电器电路到触摸屏控制，送 GX Works2 软件＋编程手册](https://www.cnczxw.com/mitsubishi-fx3u-plc-programming.html)
 
 <a href="https://www.cnczxw.com/mitsubishi-fx3u-plc-programming.html" target="_blank" title="三菱 FX3U PLC 编程入门视频教程（53 节）：从继电器电路到触摸屏控制，送 GX Works2 软件＋编程手册">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [¥99 学 8 套操机：三轴·四轴·车床·车铣·走心机全包](https://www.cnczxw.com/cnc-operation-bundle.html)
-
-<a href="https://www.cnczxw.com/cnc-operation-bundle.html" target="_blank" title="¥99 学 8 套操机：三轴·四轴·车床·车铣·走心机全包">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/11/cover-bundle2-caoji.jpg" width="300" alt="¥99 学 8 套操机：三轴·四轴·车床·车铣·走心机全包 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 网络错误：cURL error 28: Connection timeout after 10001 ms
-
-* **🏷️ 核心话题**：#CNC干货
-* **📂 分类**：三菱系统维修
-* **📅 更新时间**：2026-11-28
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/cnc-operation-bundle.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[三菱系统维修]** ¥99 学 8 套操机：三轴·四轴·车床·车铣·走心机全包 | `#CNC干货` | 2026-11-28 | [阅读原文](https://www.cnczxw.com/cnc-operation-bundle.html) |
 | **[UG NX 教程]** UG NX 2412 三轴四轴五轴编程视频教程（带素材）：送 NX 2412 安装包 | `#CNC干货` | 2026-11-27 | [阅读原文](https://www.cnczxw.com/ug-nx-2412-5axis-programming.html) |
 | **[AutoCAD 教程]** AutoCAD 2025 机械设计视频教程（送安装包）：2D/3D 入门到精通 | `#CNC干货` | 2026-11-27 | [阅读原文](https://www.cnczxw.com/autocad-2025-mechanical-design.html) |
 | **[UG五轴后处理避坑录]** RTCP 是什么：五轴后处理的第一课 | `#CNC干货` | 2026-11-26 | [阅读原文](https://www.cnczxw.com/rtcp-%e6%98%af%e4%bb%80%e4%b9%88%ef%bc%9a%e4%ba%94%e8%bd%b4%e5%90%8e%e5%a4%84%e7%90%86%e7%9a%84%e7%ac%ac%e4%b8%80%e8%af%be.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 4款 中国象棋 3D图档(SW+STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-41.html) |
 | **[其他软件练习图档]** 3款-毛主席雕塑模型(STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-40.html) |
 | **[其他软件练习图档]** 1-17届“高教杯”机械建模大赛图档合集下载 | `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/drawing-files-10.html) |
-| **[其他软件练习图档]** 10款探头3D模型文件(STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-17.html) |
