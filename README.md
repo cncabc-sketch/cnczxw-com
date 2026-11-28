@@ -3,6 +3,24 @@
 
 ## ✨ 最新推荐 (Top 3)
 
+### 📌 [¥99 学 8 套操机：三轴·四轴·车床·车铣·走心机全包](https://www.cnczxw.com/cnc-operation-bundle.html)
+
+<a href="https://www.cnczxw.com/cnc-operation-bundle.html" target="_blank" title="¥99 学 8 套操机：三轴·四轴·车床·车铣·走心机全包">
+  <img src="https://www.cnczxw.com/wp-content/uploads/2026/11/cover-bundle2-caoji.jpg" width="300" alt="¥99 学 8 套操机：三轴·四轴·车床·车铣·走心机全包 - CNC教程">
+</a>
+
+> **📖 极客解析**：
+> 网络错误：cURL error 28: Connection timeout after 10001 ms
+
+* **🏷️ 核心话题**：#CNC干货
+* **📂 分类**：三菱系统维修
+* **📅 更新时间**：2026-11-28
+
+---
+🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/cnc-operation-bundle.html)**
+
+---
+
 ### 📌 [UG NX 2412 三轴四轴五轴编程视频教程（带素材）：送 NX 2412 安装包](https://www.cnczxw.com/ug-nx-2412-5axis-programming.html)
 
 <a href="https://www.cnczxw.com/ug-nx-2412-5axis-programming.html" target="_blank" title="UG NX 2412 三轴四轴五轴编程视频教程（带素材）：送 NX 2412 安装包">
@@ -39,28 +57,11 @@
 
 ---
 
-### 📌 [RTCP 是什么：五轴后处理的第一课](https://www.cnczxw.com/rtcp-%e6%98%af%e4%bb%80%e4%b9%88%ef%bc%9a%e4%ba%94%e8%bd%b4%e5%90%8e%e5%a4%84%e7%90%86%e7%9a%84%e7%ac%ac%e4%b8%80%e8%af%be.html)
-
-<a href="https://www.cnczxw.com/rtcp-%e6%98%af%e4%bb%80%e4%b9%88%ef%bc%9a%e4%ba%94%e8%bd%b4%e5%90%8e%e5%a4%84%e7%90%86%e7%9a%84%e7%ac%ac%e4%b8%80%e8%af%be.html" target="_blank" title="RTCP 是什么：五轴后处理的第一课">
-  <img src="https://www.cnczxw.com/wp-content/uploads/2026/11/cws-rtcp-cover.png" width="300" alt="RTCP 是什么：五轴后处理的第一课 - CNC教程">
-</a>
-
-> **📖 极客解析**：
-> 网络错误：cURL error 28: Connection timeout after 10000 ms
-
-* **🏷️ 核心话题**：#CNC干货
-* **📂 分类**：UG五轴后处理避坑录
-* **📅 更新时间**：2026-11-26
-
----
-🔥 **[点击这里，直达官网获取完整图文与配套图档 👉](https://www.cnczxw.com/rtcp-%e6%98%af%e4%bb%80%e4%b9%88%ef%bc%9a%e4%ba%94%e8%bd%b4%e5%90%8e%e5%a4%84%e7%90%86%e7%9a%84%e7%ac%ac%e4%b8%80%e8%af%be.html)**
-
----
-
 ## 🗄️ 历史教程资源归档
 
 | 文章标题 (含分类) | 关键词标签 | 发布时间 | 官方直达 |
 | :--- | :--- | :--- | :--- |
+| **[UG五轴后处理避坑录]** RTCP 是什么：五轴后处理的第一课 | `#CNC干货` | 2026-11-26 | [阅读原文](https://www.cnczxw.com/rtcp-%e6%98%af%e4%bb%80%e4%b9%88%ef%bc%9a%e4%ba%94%e8%bd%b4%e5%90%8e%e5%a4%84%e7%90%86%e7%9a%84%e7%ac%ac%e4%b8%80%e8%af%be.html) |
 | **[技术文章]** 【插件测试】连载工作台验证，可删除 | `#CNC干货` | 2026-11-26 | [阅读原文](https://www.cnczxw.com/?p=46014) |
 | **[机械软件下载]** 限时闪购合集（买一赠一）（11月26日 15:23 场） | `#CNC干货` | 2026-11-26 | [阅读原文](https://www.cnczxw.com/flash-bundle-1795677821.html) |
 | **[机械软件下载]** 限时闪购合集（买一赠一） | `#CNC干货` | 2026-11-26 | [阅读原文](https://www.cnczxw.com/%e9%99%90%e6%97%b6%e9%97%aa%e8%b4%ad%e5%90%88%e9%9b%86%ef%bc%88%e4%b9%b0%e4%b8%80%e8%b5%a0%e4%b8%80%ef%bc%89.html) |
@@ -158,4 +159,3 @@
 | **[其他软件练习图档]** 10款探头3D模型文件(STP格式)下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-17.html) |
 | **[其他软件练习图档]** 25款-枪类模型(STP格式)-第一弹下载 | `#STP模型` `#机械图档` | 2026-08-27 | [阅读原文](https://www.cnczxw.com/stp-drawing-35.html) |
 | **[其他软件练习图档]** 龙头棍3D模型 STP格式下载 | `#龙头棍3D模型STP格式图档` `#龙头棍3D模型STP格式模型` `#龙头棍3D模型STP格式练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-67.html) |
-| **[其他软件练习图档]** 马扎克MAZAK-INTEGREX-200-IV五轴车铣中心STP格式下载 | `#马扎克MAZAKINTEGREX200IV五轴车铣中心STP格式图档` `#马扎克MAZAKINTEGREX200IV五轴车铣中心STP格式模型` `#马扎克MAZAKINTEGREX200IV五轴车铣中心STP格式练习图档` | 2026-08-26 | [阅读原文](https://www.cnczxw.com/stp-drawing-files-66.html) |
